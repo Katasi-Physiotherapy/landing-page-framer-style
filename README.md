@@ -292,6 +292,14 @@ For the admin to work on Netlify, enable these in your Netlify site:
 4. **Branch**
    - Ensure your CMS config uses the correct branch (default: `main`). If your repo uses `master`, change `branch: main` to `branch: master` in `public/admin/config.yml`.
 
+### Identity Widget
+
+The Netlify Identity widget is loaded on every page (via the main layout) so invite links work. When you click an invite link, you’ll land on the site with `#invite_token=...` in the URL. The widget detects this and shows the “Set password” form. After setting your password, go to `/admin/` to log in.
+
+If the default invite link doesn’t work, use this URL instead (replace `TOKEN` with the token from the email):
+
+`https://katasiphysiotherapy.co.ke/admin/accept-invite.html#invite_token=TOKEN`
+
 ### How It Works
 
 - The admin commits changes directly to your Git repository

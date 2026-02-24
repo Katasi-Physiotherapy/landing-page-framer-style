@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex" />
+  <title>Accept Invite – Katasi Admin</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 480px; margin: 4rem auto; padding: 0 1rem; text-align: center; }
+    p { color: #666; }
+  </style>
+</head>
+<body>
+  <p>Setting up your account… If the password form doesn’t appear, the invite link may have expired. Request a new invite from Netlify Identity.</p>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    document.addEventListener('netlify-identity-init', function() {
+      netlifyIdentity.on('login', function() {
+        window.location.href = '/admin/';
+      });
+    });
+  </script>
+</body>
+</html>
