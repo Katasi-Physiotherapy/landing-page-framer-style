@@ -1,0 +1,159 @@
+---
+const currentPath = Astro.url.pathname;
+const navLinks = [
+  { href: '/', label: 'Home' },
+  { href: '/about/', label: 'About' },
+  { href: '/services/', label: 'Services' },
+  { href: '/blog/', label: 'Blog' },
+  { href: '/contact/', label: 'Contact' },
+];
+---
+
+<header class="header">
+  <div class="header__inner">
+    <a href="/" class="header__logo">
+      <img src="/logo_extracted_transparent.png" alt="Katasi Physiotherapy" width="180" height="80" />
+    </a>
+
+    <nav class="header__nav" aria-label="Main navigation">
+      <ul class="header__nav-list">
+        {navLinks.map((link) => (
+          <li>
+            <a
+              href={link.href}
+              class:list={['header__nav-link', { active: currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href)) }]}
+            >
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <button class="header__menu-btn" aria-label="Toggle menu" aria-expanded="false" data-menu-toggle>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+
+  <div class="header__mobile-nav" data-mobile-nav aria-hidden="true">
+    <nav aria-label="Mobile navigation">
+      <ul>
+        {navLinks.map((link) => (
+          <li>
+            <a href={link.href} class:list={['header__mobile-link', { active: currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href)) }]}>
+              {link.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-cream);
+  }
+
+  .header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 12px 24px;
+  }
+
+  .header__logo img {
+    height: 60px;
+    width: auto;
+    object-fit: contain;
+  }
+
+  .header__nav-list {
+    display: flex;
+    gap: 32px;
+  }
+
+  .header__nav-link {
+    font-family: var(--font-body);
+    font-weight: 500;
+    font-size: 15px;
+    color: var(--color-text);
+    padding: 8px 0;
+    position: relative;
+    transition: color 0.2s ease;
+  }
+
+  .header__nav-link:hover,
+  .header__nav-link.active {
+    color: var(--color-blue);
+  }
+
+  .header__menu-btn {
+    display: none;
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px;
+  }
+
+  .header__menu-btn span {
+    width: 28px;
+    height: 2px;
+    background: var(--color-text);
+    border-radius: 2px;
+    transition: 0.3s ease;
+  }
+
+  .header__mobile-nav {
+    display: none;
+    background: var(--color-white);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+  }
+
+  .header__mobile-nav[aria-hidden="false"] {
+    display: block;
+  }
+
+  .header__mobile-link {
+    display: block;
+    padding: 14px 0;
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .header__mobile-link:hover,
+  .header__mobile-link.active {
+    color: var(--color-blue);
+  }
+
+  @media (max-width: 809px) {
+    .header__nav {
+      display: none;
+    }
+
+    .header__menu-btn {
+      display: flex;
+    }
+  }
+</style>
+
+<script>
+  document.querySelector('[data-menu-toggle]')?.addEventListener('click', () => {
+    const btn = document.querySelector('[data-menu-toggle]');
+    const nav = document.querySelector('[data-mobile-nav]');
+    if (btn && nav) {
+      const expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', (!expanded).toString());
+      nav.setAttribute('aria-hidden', expanded.toString());
+    }
+  });
+</script>

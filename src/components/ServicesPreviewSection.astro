@@ -1,0 +1,95 @@
+---
+const services = [
+  {
+    title: 'Back & Neck Pain Treatment',
+    description: 'Relieve pain, improve posture and restore spinal movement.',
+  },
+  {
+    title: 'Sports Injury Rehabilitation',
+    description: 'Recover safely from injuries and return to peak performance.',
+  },
+  {
+    title: 'Posture & Workplace Therapy',
+    description: 'Fix posture issues caused by sitting and screen time.',
+  },
+  {
+    title: 'Dry Needling & Modern Therapy',
+    description: 'Target tight muscles and speed up recovery.',
+  },
+  {
+    title: 'Home Physiotherapy Visits',
+    description: 'Receive treatment in the comfort of your home.',
+  },
+];
+---
+
+<section class="services-preview">
+  <div class="container">
+    <h2 class="services-preview__title">Our Services</h2>
+    <div class="services-preview__grid">
+      {services.map((service) => (
+        <article class="service-card">
+          <h3 class="service-card__title">{service.title}</h3>
+          <p class="service-card__desc">{service.description}</p>
+        </article>
+      ))}
+    </div>
+    <div class="services-preview__cta">
+      <a href="/services/" class="btn btn--green">View all services</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .services-preview {
+    padding: 80px 0;
+  }
+
+  .services-preview__title {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    text-align: center;
+    margin-bottom: 48px;
+    color: var(--color-blue);
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  .services-preview__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-bottom: 24px;
+  }
+
+  .service-card {
+    background: var(--color-cream-dark);
+    padding: 32px;
+    border-radius: var(--radius-lg);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .service-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .service-card__title {
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+    color: var(--color-blue);
+    font-family: var(--font-accent);
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .service-card__desc {
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+  }
+
+  .services-preview__cta {
+    text-align: center;
+  }
+</style>

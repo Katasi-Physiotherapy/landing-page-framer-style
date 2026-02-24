@@ -1,0 +1,174 @@
+---
+const tabs = [
+  {
+    id: 'evidence',
+    label: 'Evidence',
+    heading: 'Evidence-based care',
+    desc: 'Treatment plans are tailored to each patient\'s specific needs, considering their medical history, lifestyle, and goals. Every recommendation is grounded in the latest clinical research.',
+  },
+  {
+    id: 'holistic',
+    label: 'Holistic',
+    heading: 'Holistic wellness approach',
+    desc: 'We look at the whole person — not just the injury. Our approach addresses posture, lifestyle, stress, and overall physical health for lasting results.',
+  },
+  {
+    id: 'empowering',
+    label: 'Empowering',
+    heading: 'Patient empowerment',
+    desc: 'We educate and equip you with the knowledge and exercises to manage your health independently, so you feel confident long after treatment ends.',
+  },
+];
+---
+
+<section class="approach">
+  <div class="container">
+    <div class="approach__header">
+      <h3 class="approach__title">The Katasi Physiotherapy Approach</h3>
+      <p class="approach__subtitle">We focus on more than pain relief — our personalized care restores movement, strength, and confidence, helping you get back to living fully.</p>
+    </div>
+
+    <div class="approach__tabs" data-approach-tabs>
+      <div class="approach__tab-list">
+        {tabs.map((tab, i) => (
+          <button class:list={['approach__tab', { active: i === 0 }]} data-approach-tab={tab.id}>{tab.label}</button>
+        ))}
+      </div>
+
+      {tabs.map((tab, i) => (
+        <div class:list={['approach__panel', { active: i === 0 }]} data-approach-panel={tab.id}>
+          <h4 class="approach__panel-title">{tab.heading}</h4>
+          <p class="approach__panel-desc">{tab.desc}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="approach__image">
+      <img src="/hero-physio.jpg" alt="Katasi Physiotherapy consultation" loading="lazy" />
+    </div>
+  </div>
+</section>
+
+<style>
+  .approach {
+    padding: 80px 0;
+    background: var(--color-cream-dark);
+  }
+
+  .approach__header {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 48px;
+  }
+
+  .approach__title {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    color: var(--color-blue);
+    margin-bottom: 16px;
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  .approach__subtitle {
+    font-size: 1.05rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .approach__tab-list {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+  }
+
+  .approach__tab {
+    font-family: var(--font-body);
+    font-size: 15px;
+    font-weight: 600;
+    padding: 12px 28px;
+    border-radius: var(--radius-xl);
+    background: transparent;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    transition: all 0.2s ease;
+    cursor: pointer;
+  }
+
+  .approach__tab:hover {
+    border-color: var(--color-blue);
+    color: var(--color-blue);
+  }
+
+  .approach__tab.active {
+    background: var(--color-blue);
+    color: var(--color-white);
+    border-color: var(--color-blue);
+  }
+
+  .approach__panel {
+    display: none;
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 48px;
+    animation: approachFadeIn 0.4s ease;
+  }
+
+  .approach__panel.active {
+    display: block;
+  }
+
+  @keyframes approachFadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .approach__panel-title {
+    font-size: 1.5rem;
+    color: var(--color-blue);
+    margin-bottom: 16px;
+    font-family: var(--font-accent);
+    font-weight: 400;
+    font-style: italic;
+  }
+
+  .approach__panel-desc {
+    font-size: 1.05rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+  }
+
+  .approach__image {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .approach__image img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-elevated);
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+</style>
+
+<script>
+  const tabsContainer = document.querySelector('[data-approach-tabs]');
+  if (tabsContainer) {
+    const tabBtns = tabsContainer.querySelectorAll('[data-approach-tab]');
+    const panels = tabsContainer.querySelectorAll('[data-approach-panel]');
+
+    tabBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const id = btn.getAttribute('data-approach-tab');
+        tabBtns.forEach((b) => b.classList.remove('active'));
+        panels.forEach((p) => p.classList.remove('active'));
+        btn.classList.add('active');
+        tabsContainer.querySelector(`[data-approach-panel="${id}"]`)?.classList.add('active');
+      });
+    });
+  }
+</script>

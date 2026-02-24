@@ -1,0 +1,409 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const services = [
+  {
+    title: 'Back pain, Sciatica, Joint and Muscle Pain.',
+    description: 'We are Physiotherapist in Nairobi offering specialized care for orthopedic, sports and musculoskeletal conditions.',
+  },
+  {
+    title: 'Sports Physiotherapy for Injury Recovery, Pain Relief & Peak Performance',
+    description: 'Our expert sports physiotherapists help athletes and active individuals recover from injuries, relieve pain, and prevent future injuries.',
+  },
+  {
+    title: 'Dry Needling Therapy for Pain Relief.',
+    description: 'We use dry needling as an advanced Physiotherapy treatment to release tight muscles, reduce pain and speed healing.',
+  },
+  {
+    title: 'Neuro Physiotherapy for Stroke & Neurological Recovery.',
+    description: 'Our physiotherapists support recovery from stroke, brain injury, and nerve disorders through specialized techniques like PNF and tailored care—restoring strength, coordination, mobility, and independence.',
+  },
+  {
+    title: 'Home Physiotherapy Services',
+    description: 'We bring expert rehab and pain relief to your home.',
+  },
+  {
+    title: 'Chiropractic care',
+    description: 'We offer chiropractic care that combines hands-on adjustments with targeted rehab techniques to relieve pain, restore alignment, and improve mobility.',
+  },
+];
+
+const processSteps = [
+  {
+    number: '01',
+    title: 'Assessment and diagnosis',
+    description: 'Our journey begins with a thorough assessment of your condition.',
+  },
+  {
+    number: '02',
+    title: 'Personalized treatment plan',
+    description: 'Following the assessment, we design a tailored treatment plan.',
+  },
+  {
+    number: '03',
+    title: 'Active rehabilitation',
+    description: 'Engage in guided, progressive exercises.',
+  },
+  {
+    number: '04',
+    title: 'Hands-on therapy',
+    description: 'Our skilled physiotherapists utilize hands-on techniques.',
+  },
+  {
+    number: '05',
+    title: 'Education and prevention',
+    description: 'Empowering you with knowledge.',
+  },
+];
+
+const faqItems = [
+  { question: 'How can physiotherapy benefit me?', answer: 'Physiotherapy can help reduce pain, improve mobility, restore function after injury or surgery, and prevent future problems through personalized exercise and hands-on treatment.' },
+  { question: 'What conditions do physiotherapists treat?', answer: 'Physiotherapists treat a wide range of conditions including back pain, sciatica, sports injuries, joint and muscle pain, stroke recovery, neurological disorders, and post-surgical rehabilitation.' },
+  { question: 'How long does a typical physiotherapy session last?', answer: 'A typical session lasts between 45 minutes to an hour, depending on your treatment plan and needs.' },
+  { question: 'What should I expect during my first physiotherapy session?', answer: 'Your first session will include a thorough assessment of your condition, discussion of your goals, and the start of a personalized treatment plan.' },
+  { question: 'Is physiotherapy painful?', answer: 'Some techniques may cause mild discomfort, but we work with you to ensure treatment is within your comfort level. Pain relief is often a primary goal.' },
+  { question: 'How many sessions will I need?', answer: 'The number of sessions varies based on your condition, goals, and response to treatment. We will discuss this with you during your assessment.' },
+];
+
+const whatsappUrl = 'https://wa.me/254705717353';
+const phone = '0705 717 353';
+const email = 'info@katasi.co.ke';
+const address = 'Mogotio Road, Westlands, Nairobi';
+---
+
+<Layout
+  title="Physiotherapy Services"
+  description="Back pain, sports injuries, dry needling, sciatica care, neuro physiotherapy & home visits. Expert physiotherapy services in Westlands, Nairobi."
+>
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero__inner">
+      <h1 class="hero__title">
+        Strive and thrive with <span class="accent-italic">premier</span> physio services
+      </h1>
+    </div>
+  </section>
+
+  <!-- Services grid -->
+  <section class="services-section">
+    <div class="container">
+      <div class="services-grid">
+        {services.map((service) => (
+          <article class="service-card">
+            <h2 class="service-card__title">{service.title}</h2>
+            <p class="service-card__desc">{service.description}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Process section -->
+  <section class="process-section">
+    <div class="container">
+      <h2 class="section-heading">Wellness approach with our proven process.</h2>
+      <div class="process-steps">
+        {processSteps.map((step) => (
+          <div class="process-step">
+            <span class="process-step__number">{step.number}</span>
+            <div class="process-step__content">
+              <h3 class="process-step__title">{step.title}</h3>
+              <p class="process-step__desc">{step.description}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      <div class="process-cta">
+        <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class="btn btn--green">
+          Book an appointment
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ section -->
+  <section class="faq-section">
+    <div class="container">
+      <h2 class="section-heading">Unraveling your health queries</h2>
+      <div class="faq-list">
+        {faqItems.map((item, i) => (
+          <div class="faq-item" data-faq>
+            <button type="button" class="faq-item__trigger" aria-expanded="false" aria-controls={`faq-${i}`} id={`faq-trigger-${i}`}>
+              <span>{item.question}</span>
+              <span class="faq-item__icon" aria-hidden="true">+</span>
+            </button>
+            <div class="faq-item__panel" id={`faq-${i}`} role="region" aria-labelledby={`faq-trigger-${i}`} hidden>
+              <p>{item.answer}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact CTA -->
+  <section class="contact-cta section section--blue">
+    <div class="container">
+      <h2 class="section-heading section-heading--light">Get moving, get in touch!</h2>
+      <div class="contact-cta__details">
+        <p><strong>Address:</strong> {address}</p>
+        <p><strong>Phone:</strong> <a href="tel:+254705717353">{phone}</a></p>
+        <p><strong>Email:</strong> <a href="mailto:{email}">{email}</a></p>
+      </div>
+      <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" class="btn btn--green contact-cta__btn">
+        Book via WhatsApp
+      </a>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  document.querySelectorAll('[data-faq]').forEach((item) => {
+    const trigger = item.querySelector('.faq-item__trigger');
+    const panel = item.querySelector('.faq-item__panel');
+    const icon = item.querySelector('.faq-item__icon');
+
+    if (!trigger || !panel) return;
+
+    trigger.addEventListener('click', () => {
+      const isOpen = trigger.getAttribute('aria-expanded') === 'true';
+      trigger.setAttribute('aria-expanded', String(!isOpen));
+      panel.hidden = isOpen;
+      if (icon) icon.textContent = isOpen ? '+' : '−';
+    });
+  });
+</script>
+
+<style>
+  .hero {
+    background: var(--color-blue);
+    color: var(--color-white);
+    padding: 100px 0 80px;
+  }
+
+  .hero__inner {
+    max-width: 900px;
+  }
+
+  .hero__title {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    line-height: 1.2;
+    margin: 0;
+    color: var(--color-white);
+  }
+
+  .services-section {
+    background: var(--color-cream-dark);
+    padding: 80px 0;
+  }
+
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+
+  .service-card {
+    background: var(--color-cream-dark);
+    border-radius: var(--radius-lg);
+    padding: 40px 32px;
+    box-shadow: var(--shadow-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .service-card__title {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-blue);
+    margin: 0 0 16px;
+    line-height: 1.3;
+  }
+
+  .service-card__desc {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .process-section {
+    background: var(--color-cream);
+    padding: 80px 0;
+  }
+
+  .section-heading {
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-weight: 400;
+    font-size: 1.75rem;
+    color: var(--color-blue);
+    margin: 0 0 40px;
+  }
+
+  .process-steps {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-bottom: 48px;
+  }
+
+  .process-step {
+    display: flex;
+    gap: 24px;
+    align-items: flex-start;
+  }
+
+  .process-step__number {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--color-blue);
+    flex-shrink: 0;
+  }
+
+  .process-step__title {
+    font-family: var(--font-heading);
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0 0 8px;
+  }
+
+  .process-step__desc {
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  .process-cta {
+    text-align: center;
+  }
+
+  .faq-section {
+    background: var(--color-cream-dark);
+    padding: 80px 0;
+  }
+
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .faq-item {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .faq-item:first-child {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .faq-item__trigger {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    font-family: var(--font-body);
+    font-size: 1.0625rem;
+    font-weight: 500;
+    color: var(--color-text);
+    text-align: left;
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: color 0.2s ease;
+  }
+
+  .faq-item__trigger:hover {
+    color: var(--color-blue);
+  }
+
+  .faq-item__icon {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: var(--color-blue);
+    flex-shrink: 0;
+    margin-left: 16px;
+    transition: transform 0.2s ease;
+  }
+
+  .faq-item__panel {
+    overflow: hidden;
+  }
+
+  .faq-item__panel p {
+    padding: 0 0 20px 0;
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+  }
+
+  .contact-cta {
+    background: var(--color-blue);
+    color: var(--color-white);
+    padding: 80px 0;
+  }
+
+  .section-heading--light {
+    color: var(--color-white);
+    margin-bottom: 24px;
+  }
+
+  .contact-cta__details {
+    margin-bottom: 24px;
+  }
+
+  .contact-cta__details p {
+    font-size: 1.125rem;
+    margin: 0 0 12px;
+    color: rgba(255, 255, 255, 0.95);
+  }
+
+  .contact-cta__details a {
+    color: var(--color-green);
+    text-decoration: underline;
+  }
+
+  .contact-cta__details a:hover {
+    opacity: 0.9;
+  }
+
+  .contact-cta__btn {
+    display: inline-block;
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      padding: 60px 0 60px;
+    }
+
+    .services-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .services-section,
+    .process-section,
+    .faq-section {
+      padding: 60px 0;
+    }
+
+    .service-card {
+      padding: 28px 24px;
+    }
+
+    .process-step {
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .contact-cta {
+      padding: 60px 0;
+    }
+  }
+</style>

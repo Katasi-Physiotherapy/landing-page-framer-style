@@ -1,0 +1,183 @@
+---
+---
+
+<section class="hero">
+  <div class="hero__box">
+    <div class="hero__layout">
+      <div class="hero__content">
+        <h1 class="hero__title">Move Without Pain Again.</h1>
+        <p class="hero__subtitle">
+          Expert physiotherapy in Westlands helping you recover from back pain, sports injuries, posture problems and more.
+        </p>
+        <div class="hero__cta">
+          <a href="tel:+254705717353" class="btn btn--green">Call Now</a>
+          <a href="https://wa.me/254705717353?text=Hi%2C%20I'd%20like%20to%20book%20an%20appointment%20at%20Katasi%20Physiotherapy." target="_blank" rel="noopener noreferrer" class="btn btn--outline hero__contact-btn">WhatsApp Now</a>
+        </div>
+        <div class="hero__trust">
+          <span class="hero__trust-item">Located in Westlands</span>
+          <span class="hero__trust-item">Home visits available</span>
+          <span class="hero__trust-item">Modern physiotherapy techniques</span>
+          <span class="hero__trust-item">Insurance accepted</span>
+        </div>
+      </div>
+      <div class="hero__image-col">
+        <img class="hero__img" src="/hero-treatment.png" alt="Physiotherapy session at Katasi" loading="eager" />
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    padding: 0 24px 40px;
+  }
+
+  .hero__box {
+    background: var(--color-blue);
+    border-radius: var(--radius-xl);
+    color: var(--color-white);
+    max-width: 1400px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  .hero__layout {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero__content {
+    text-align: center;
+    padding: 60px 32px 40px;
+  }
+
+  .hero__title {
+    font-size: clamp(2.25rem, 5vw, 3.5rem);
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    font-family: var(--font-heading);
+  }
+
+  .hero__subtitle {
+    font-size: clamp(1rem, 1.5vw, 1.15rem);
+    opacity: 0.85;
+    max-width: 480px;
+    margin: 0 auto 32px;
+    line-height: 1.6;
+  }
+
+  .hero__cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 32px;
+  }
+
+  .hero__contact-btn {
+    border-color: var(--color-white);
+    color: var(--color-white);
+  }
+
+  .hero__trust {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+  .hero__trust-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 8px 16px;
+    border-radius: 100px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    white-space: nowrap;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+  }
+
+  .hero__trust-item::before {
+    content: '\2713';
+    font-weight: 700;
+    color: var(--color-green);
+    font-size: 0.9rem;
+  }
+
+  .hero__image-col {
+    width: 100%;
+    line-height: 0;
+  }
+
+  .hero__img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    max-height: 400px;
+  }
+
+  @media (min-width: 810px) {
+    .hero {
+      padding: 0 40px 60px;
+    }
+
+    .hero__box {
+      border-radius: 40px;
+    }
+
+    .hero__layout {
+      flex-direction: row;
+      align-items: stretch;
+    }
+
+    .hero__content {
+      text-align: left;
+      flex: 0 0 50%;
+      padding: 80px 48px 80px 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .hero__subtitle {
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    .hero__cta {
+      justify-content: flex-start;
+    }
+
+    .hero__trust {
+      justify-content: flex-start;
+    }
+
+    .hero__image-col {
+      flex: 1;
+      min-width: 0;
+      display: flex;
+      align-items: flex-end;
+    }
+
+    .hero__img {
+      width: 100%;
+      height: 100%;
+      max-height: none;
+      object-fit: cover;
+      object-position: top center;
+    }
+  }
+
+  @media (min-width: 1100px) {
+    .hero__content {
+      flex: 0 0 48%;
+      padding: 80px 60px 80px 80px;
+    }
+  }
+</style>

@@ -1,0 +1,116 @@
+---
+---
+
+<section class="about-preview">
+  <div class="container">
+    <div class="about-preview__layout">
+      <div class="about-preview__content">
+        <h2 class="about-preview__title">Meet Your Physiotherapist</h2>
+        <p class="about-preview__text">
+          Katasi Physiotherapy is led by a qualified physiotherapist trained at KMTC and Amref, focused on evidence-based rehabilitation and personalized care for every patient.
+        </p>
+        <div class="about-preview__links">
+          <a href="/about/" class="btn btn--green">About us</a>
+          <a href="https://ke.linkedin.com/in/moses-w-katasi-6b6605140" target="_blank" rel="noopener noreferrer" class="btn btn--outline about-preview__outline-btn">LinkedIn</a>
+        </div>
+      </div>
+      <div class="about-preview__video">
+        <div class="about-preview__video-wrapper">
+          <iframe
+            src="https://www.youtube.com/embed/i-q4MTreP_E"
+            title="Katasi Physiotherapy — Meet the Founder"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            loading="lazy"
+          ></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .about-preview {
+    padding: 80px 0;
+    background: var(--color-cream-dark);
+  }
+
+  .about-preview__layout {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .about-preview__content {
+    max-width: 560px;
+  }
+
+  .about-preview__title {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    margin-bottom: 20px;
+    color: var(--color-blue);
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  .about-preview__text {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 32px;
+    color: var(--color-text-muted);
+  }
+
+  .about-preview__links {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .about-preview__outline-btn {
+    color: var(--color-blue);
+    border-color: var(--color-blue);
+  }
+
+  .about-preview__video {
+    width: 100%;
+  }
+
+  .about-preview__video-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-elevated);
+    background: #000;
+  }
+
+  .about-preview__video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  @media (min-width: 810px) {
+    .about-preview__layout {
+      flex-direction: row;
+      align-items: center;
+      gap: 60px;
+    }
+
+    .about-preview__content {
+      flex: 0 0 40%;
+      max-width: 440px;
+    }
+
+    .about-preview__video {
+      flex: 1;
+      min-width: 0;
+    }
+  }
+</style>

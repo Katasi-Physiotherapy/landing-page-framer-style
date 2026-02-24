@@ -1,0 +1,109 @@
+<section class="blog-preview">
+  <div class="container">
+    <div class="blog-preview__header">
+      <h3 class="blog-preview__title">Insights and tips from our Physiotherapy experts</h3>
+      <a href="/blog/" class="btn btn--green">View blog</a>
+    </div>
+
+    <div class="blog-preview__grid">
+      <a href="/blog/the-transformative-power-of-physiotherapy/" class="blog-card">
+        <div class="blog-card__image">
+          <img src="/blog-cover-1.jpg" alt="The transformative power of physiotherapy" loading="lazy" />
+        </div>
+        <div class="blog-card__content">
+          <h6 class="blog-card__title">The transformative power of physiotherapy</h6>
+          <p class="blog-card__excerpt">Physiotherapy, a beacon of hope in healthcare, employs diverse techniques to address physical ailments, fostering recovery and overall well-being.</p>
+        </div>
+      </a>
+
+      <a href="/blog/the-role-of-physiotherapy-in-enhancing-physical-wellness/" class="blog-card">
+        <div class="blog-card__image">
+          <img src="/blog-cover-2.jpg" alt="The role of physiotherapy in enhancing physical wellness" loading="lazy" />
+        </div>
+        <div class="blog-card__content">
+          <h6 class="blog-card__title">The role of physiotherapy in enhancing physical wellness</h6>
+          <p class="blog-card__excerpt">This blog explores physiotherapy's pivotal role in promoting physical wellness, highlighting diverse applications, benefits, and its overall impact on individuals' well-being.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .blog-preview {
+    padding: 80px 0;
+  }
+
+  .blog-preview__header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+
+  .blog-preview__title {
+    font-size: clamp(1.5rem, 3.5vw, 2rem);
+    color: var(--color-blue);
+    font-family: var(--font-accent);
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  .blog-preview__grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .blog-card {
+    background: var(--color-cream-dark);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: block;
+  }
+
+  .blog-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .blog-card__image img {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+  }
+
+  .blog-card__content {
+    padding: 24px;
+  }
+
+  .blog-card__title {
+    font-size: 1.15rem;
+    color: var(--color-blue);
+    margin-bottom: 12px;
+    font-family: var(--font-accent);
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1.4;
+  }
+
+  .blog-card__excerpt {
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+  }
+
+  @media (min-width: 810px) {
+    .blog-preview__header {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .blog-preview__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+</style>

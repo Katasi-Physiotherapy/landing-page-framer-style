@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://katasi.co.ke/sitemap-index.xml
