@@ -1,0 +1,34 @@
+backend:
+  name: git-gateway
+  branch: main  # Change to "master" if your repo uses master as default
+
+media_folder: "public"
+public_folder: "/"
+
+locale: "en"
+
+site_url: "https://katasiphysiotherapy.co.ke"
+
+collections:
+  - name: blog
+    label: Blog Posts
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "URL Slug", name: "slug", widget: "string", hint: "URL-friendly name, e.g. my-post-title (used for /blog/my-post-title/)" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Category", name: "category", widget: "string", required: false }
+      - {
+          label: "Cover Image",
+          name: "coverImage",
+          widget: "image",
+          required: false,
+          media_library: { config: { multiple: false } },
+        }
+      - { label: "Body", name: "body", widget: "markdown" }

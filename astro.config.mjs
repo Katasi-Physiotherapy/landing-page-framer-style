@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://katasi.co.ke',
+  site: 'https://katasiphysiotherapy.co.ke',
   trailingSlash: 'always',
   integrations: [sitemap()],
   vite: {
