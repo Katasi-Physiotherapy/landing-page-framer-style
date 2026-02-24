@@ -77,6 +77,11 @@ const ogImage = image ? new URL(image, siteUrl).toString() : defaultOgImage;
         "https://ke.linkedin.com/in/moses-w-katasi-6b6605140"
       ]
     })} />
+    <script>
+      if (window.location.hash.includes('invite_token')) {
+        window.location.replace('/admin/accept-invite.html' + window.location.hash);
+      }
+    </script>
   </head>
   <body>
     <Header />

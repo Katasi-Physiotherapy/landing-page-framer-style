@@ -300,6 +300,8 @@ If the default invite link doesn’t work, use this URL instead (replace `TOKEN`
 
 `https://katasiphysiotherapy.co.ke/admin/accept-invite.html#invite_token=TOKEN`
 
+**Troubleshooting:** If the invite form still doesn't appear: (1) Ensure the latest code is deployed. (2) If using Cloudflare, try the Netlify subdomain directly – Cloudflare can block Identity API requests. (3) Check the browser console (F12) for errors.
+
 ### How It Works
 
 - The admin commits changes directly to your Git repository
