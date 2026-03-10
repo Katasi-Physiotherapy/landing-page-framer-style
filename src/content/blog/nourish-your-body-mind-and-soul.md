@@ -13,7 +13,7 @@ Amidst the diverse landscape of healthcare, physiotherapy emerges as a beacon of
 
 Physiotherapy extends beyond physical exercises; it embraces the mind-body connection. Therapists consider the interplay of mental and physical well-being, recognizing that a holistic approach is essential for comprehensive health restoration.
 
-![](whatsapp-image-2026-01-29-at-12.46.57-pm.jpeg)
+![]()
 
 ## Innovative methodologies in motion
 
