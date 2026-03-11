@@ -45,8 +45,6 @@ Early treatment can prevent small stiffness from turning into chronic lower back
 
 Back pain when standing up from sitting usually means your back needs better movement, posture, and muscle support. With the right physiotherapy guidance, most people experience significant relief and return to normal activities without pain.
 
-**Author**
+### Author
 
-Moses Katasi
-
-Orthopedic Physiotherapist
+Moses Katasi - Orthopedic Physiotherapist
