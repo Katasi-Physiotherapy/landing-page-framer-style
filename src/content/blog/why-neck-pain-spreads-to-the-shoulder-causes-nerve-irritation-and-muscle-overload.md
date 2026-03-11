@@ -55,3 +55,6 @@ Early treatment can help restore normal movement, relieve pain, and prevent long
 ## Author
 
 Moses Katasi - Orthopedic Physiotherapist
+
+
+*BSc, Dip, Post-graduate Diploma Orthopedic Physiotherapy, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
