@@ -12,9 +12,7 @@ Back pain when standing up from sitting is very common, especially for people wh
 When you sit for a long time, the muscles and joints in your lower back stay in one position. Over time, a few things happen:
 
 1. The joints become stiff, the hip muscles tighten, and if your core muscles are weak, your back has to work harder when you stand up. 
-
 2. On top of that, poor sitting posture like slouching puts extra pressure on the spine. 
-
 3. When you finally stand, the back needs a few seconds to adjust, which is why you may feel stiffness or pain in the lower back when standing up after sitting for a while. 
 
 ## Common Symptoms of Back Pain After Sitting
@@ -55,4 +53,4 @@ Back pain when standing up from sitting usually means your back needs better mov
 
 Moses Katasi - Orthopedic Physiotherapist
 
-*BSc, Dip, Post-graduate Diploma Orthopedic Physiotherapy, Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+*BSc, Dip, Post-graduate Diploma Orthopedic Physiotherapy, Certified Clinical Physiotherapy Instructor, (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
