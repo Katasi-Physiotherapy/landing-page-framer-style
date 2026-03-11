@@ -19,15 +19,11 @@ However, when the pain spreads from the neck into the shoulder, there are usuall
 
 ## 1. Nerve Irritation from the Neck
 
-![](neck-pain-radiating-to-shoulder.jpg2.png "Nerve Irritation from the Neck")
-
 Irritation often involves the nerves that originate from the neck. These nerves travel from the neck into the shoulder, arm, elbow, wrist, and fingers.
 
 When a nerve becomes compressed, irritated, or placed under tension, pain may start in the neck and extend into the shoulder. One common reason for this is disc-related pressure in the cervical spine, where a disc reduces the space around the nerve and causes irritation.
 
 ## 2. Muscle Overload in the Neck and Shoulder
-
-![](neck-pain-radiating-to-shoulder.jpg3.png "Muscle Overload in the Neck and Shoulder")
 
 The second cause is muscle overload. Muscles of the neck are closely connected to the shoulder and arm. Some muscles begin in the neck and attach to the shoulder, while others continue from the shoulder down into the arm.
 
