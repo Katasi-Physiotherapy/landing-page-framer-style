@@ -31,7 +31,6 @@ Falling asleep on a couch, sitting upright, or sleeping with your neck bent can 
 
 ## 2. Pillow Problems
 
-
 Your pillow should support the natural curve of your neck (cervical spine).
 
 **Pillow Too High**
@@ -46,11 +45,7 @@ A very flat pillow allows the neck to collapse downward, overstretching ligament
 
 Worn-out pillows lose their structure and fail to support the neck properly, leading to poor alignment.
 
-
-
 ## 3. Mattress Support Issues
-
-
 
 A sagging or overly soft mattress can cause the spine to sink unevenly. When the spine is misaligned, the neck muscles must work harder during sleep, resulting in morning stiffness or soreness.
 
@@ -62,8 +57,6 @@ Looking down at a phone, laptop, or tablet for long periods causes forward head 
 
 This places extra stress on the neck muscles during the day, making them more prone to stiffness overnight.
 
-
-
 ## 5. Stress and Muscle tension
 
 Stress can cause unconscious tightening of the neck and shoulder muscles, especially during sleep. This prolonged tension may lead to morning neck stiffness or headaches.
@@ -73,7 +66,6 @@ Stress can cause unconscious tightening of the neck and shoulder muscles, especi
 Tossing, turning, or sudden jerking movements during sleep can strain small neck muscles or ligaments, leading to pain when you wake up. 
 
 ## How to Prevent Neck Pain While Sleeping
-
 
 **Sleep on Your Back or Side**
 
@@ -100,11 +92,8 @@ This helps maintain proper spinal alignment throughout the night.
 Seek medical evaluation if your neck pain:
 
 1. Lasts longer than one week.
-
 2. Causes numbness, tingling, or weakness in the arms or hands.
-
 3. Makes it difficult to turn your head.
-
 4. Occurs with fever, severe headache, or nausea.
 
 In most cases persistent symptoms may indicate conditions such as nerve irritation, cervical joint dysfunction, or disc problems.
@@ -117,9 +106,6 @@ Most cases of neck pain after sleeping are related to sleep posture, pillow supp
 
 If neck pain continues or becomes frequent, our orthopedic physiotherapist can help identify and treat the underlying cause that causes pain and restore normal neck movement.
 
-
-
-
 ### Author
 
 Moses Katasi - Orthopedic Physiotherapist
@@ -127,33 +113,4 @@ Moses Katasi - Orthopedic Physiotherapist
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
 
 
-
-
-
-
-
-
-
-
-
-
-## 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##
+*Ready to start your recovery?* <https://katasiphysiotherapy.co.ke/contact/>*at Katasi physiotherapy.*
