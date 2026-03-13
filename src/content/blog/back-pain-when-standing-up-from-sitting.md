@@ -1,6 +1,11 @@
 ---
 title: " Back Pain When Standing Up From Sitting "
 slug: back pain-standing-from-sitting
+description: "Back pain when standing up from sitting is very common, especially
+  for people who work long hours at a desk or spend a lot of time driving. If
+  you've been sitting for a while, then the moment you stand up… your lower back
+  feels stiff, tight, or even painful. You’re not alone, this is one of common
+  back pain cases we treat at our clinic. "
 date: 2026-03-11T12:03:00.000+03:00
 category: Lower Back Pain
 coverImage: /1000827511.png
