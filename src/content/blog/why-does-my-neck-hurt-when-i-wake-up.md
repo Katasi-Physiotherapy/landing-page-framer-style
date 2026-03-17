@@ -7,7 +7,7 @@ description: Waking up with neck pain or a stiff neck in the morning is a common
   unsupportive pillow, muscle...
 date: 2026-03-12T08:55:00.000+03:00
 category: Neck Pain
-coverImage: neck-pain-hurt-when-wake-up.jpg.png
+coverImage: /neck-pain-hurt-when-wake-up.jpg.png
 ---
 ## Common Causes of Morning Neck Pain & Solution to Fix It
 
