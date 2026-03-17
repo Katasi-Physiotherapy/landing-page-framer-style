@@ -5,6 +5,7 @@ description: Sciatica is a condition that causes pain that starts in the lower
   back or buttock and travels down one leg.
 date: 2026-03-16T15:58:00.000+03:00
 category: Nerve Pain
+coverImage: /white-blue-physiotherapy-instagram-post-instagram-post-6-.png
 ---
 ## What is Sciatica?
 
@@ -18,7 +19,6 @@ Sciatica develops when pressure is placed on the nerve in the lower spine. The m
 
 **1. Herniated/Bulged Disc** 
 
-
 A disc in your spine can **bulge or slip out of place**, pressing on the nerve and causing pain down the leg. This is the most common cause of sciatica.
 
 **2. Lumbar Spinal Stenosis**
@@ -30,7 +30,6 @@ Stenosis is basically narrowing, meaning the back(lumbar) there is narrowing of 
 A tight muscle in the buttock (piriformis) can irritate the sciatic nerve, especially in people who sit for long periods. This muscle; piriformis is where the nerve passes under it while a small percentage of individuals have the sciatic nerve pass inside the muscle.
 
 **4. Degenerative Changes**
-
 
 Natural wear and tear in the spine can reduce support and lead to **nerve irritation over time**.
 
@@ -128,7 +127,7 @@ Consult a professional if you experience:
 
 \-Practice safe lifting techniques.
 
-## Final Thoughts
+## Final Advice
 
 Sciatica is a treatable nerve condition, not just back pain. Understanding the cause and starting the right treatment early especially physiotherapy can significantly speed up recovery and prevent long-term problems.
 
@@ -136,7 +135,8 @@ Sciatica is a treatable nerve condition, not just back pain. Understanding the c
 
 
 
+### Author
 
+Moses Katasi - Orthopedic Physiotherapist
 
-
-##
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
