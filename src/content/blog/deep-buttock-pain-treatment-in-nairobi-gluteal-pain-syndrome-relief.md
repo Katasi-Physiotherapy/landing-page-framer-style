@@ -22,7 +22,6 @@ Deep buttock pain, often referred to as **Gluteal Pain Syndrome** (or Deep Glute
 
 As an orthopedic physiotherapist let me help you understand this condition..
 
-
 ## What Exactly Is Deep Buttock Pain?
 
 Deep buttock pain comes from irritation of structures deep inside the hip, especially around the sciatic nerve.
@@ -54,8 +53,7 @@ And its **"the reason why?!"**
 * Symptoms keep returning
 * Especially deep muscles like the piriformis
 
-## 
-Causes of Deep Buttock Pain
+## Causes of Deep Buttock Pain
 
 From an orthopedic physiotherapist perspective, these are the main contributors of deep buttock pain:
 
@@ -142,8 +140,6 @@ If you’ve been dealing with:
 There’s a high chance the issue is coming from the deep gluteal region  and not your spine.
 
 And the **right physiotherapy approach,** like ours can completely change your recovery.
-
-
 
 ### Author
 
