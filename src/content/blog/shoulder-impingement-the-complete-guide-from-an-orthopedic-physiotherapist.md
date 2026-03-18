@@ -168,7 +168,9 @@ The key message is simple:
 
 Fix the movement, strengthen the right muscles, and respect your body’s limits as far as gym exercises are concerned and your shoulder can recover fully through proper physiotherapy.
 
-**Author**
+
+
+### Author
 
 Moses Katasi - Orthopedic Physiotherapist
 
