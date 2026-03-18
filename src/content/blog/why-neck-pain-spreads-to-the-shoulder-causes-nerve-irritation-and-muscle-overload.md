@@ -9,7 +9,17 @@ date: 2026-03-10T08:21:00.000+03:00
 category: Neck Pain
 coverImage: /neck-pain-radiating-to-shoulder.jpg.png
 ---
-Neck pain can sometimes occur only in the neck, but in many cases it can extend into the shoulder. Everyone is looking for a solution why; neck pain goes into the shoulder? why neck pain spreads to the shoulder? neck pain radiating to the shoulder.. This is a common symptom with neck pain and when this happens, it usually indicates that there is irritation or overload in the structures of the neck.
+Neck pain can sometimes occur only in the neck, but in many cases it can extend into the shoulder. 
+
+\-Everyone is looking for a solution: 
+
+\-Why neck pain goes into the shoulder? 
+
+\-Why neck pain spreads to the shoulder? 
+
+\-Neck pain radiating to the shoulder?.
+
+This is a common symptom with neck pain and when this happens, it usually indicates that there is irritation or overload in the structures of the neck.
 
 When neck pain stays localized, it may feel like muscle tightness, stiffness, or difficulty turning your head from side to side or bending the neck. This is often related to muscular tension or temporary joint stiffness. 
 
