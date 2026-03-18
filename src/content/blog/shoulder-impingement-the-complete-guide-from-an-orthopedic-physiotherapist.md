@@ -101,26 +101,75 @@ Possible rotator cuff tear with significant weakness.
 
 Many people often underestimate how much this condition affects them and these is how it can affect your:
 
+* Struggling to wear clothes.
+* Difficulty reaching shelves.
+* Pain while driving.
+* Avoiding exercise.
+* Poor sleep → fatigue → reduced productivity.
 
+This is not “just shoulder pain”—it impacts quality of life.
 
-Struggling to wear clothes
+## Diagnosis: How Our Physiotherapist Identifies It
 
+As physiotherapist it is absolutely possible to diagnose this condition through a proper assessment which includes;
 
+\-Movement analysis.
 
-Difficulty reaching shelves
+\-Strength testing.
 
+\-Special orthopedic tests.
 
+\-Postural evaluation.
 
-Pain while driving
+Imaging (like MRI or ultrasound) is sometimes used, but not always necessary.
 
+## Why Choose Our Physiotherapy Approach?
 
+We don’t just treat symptoms, we fix the root cause.
 
-Avoiding exercise
+**✔ Accurate Diagnosis**
 
+We assess your movement, posture, and muscle function to identify exactly what’s causing your pain.
 
+**✔ Personalized Treatment Plan**
 
-Poor sleep → fatigue → reduced productivity
+No generic exercises. Your rehab is tailored specifically to your condition.
 
+**✔ Proven Recovery Methods**
 
+We use evidence-based physiotherapy techniques to:
 
-This is not “just shoulder pain”—it impacts quality of lif
+* Reduce pain.
+* Restore mobility.
+* Rebuild strength.
+* Prevent recurrence.
+
+## Frequently Asked Questions
+
+**1. Can shoulder impingement heal on its own?**
+
+Sometimes mild cases improve, but most require guided physiotherapy to fully recover.
+
+**2. Should I exercise with shoulder pain?**
+
+Yes, but only the right/targeted exercises as advised by a physiotherapist. Incorrect movements can worsen the condition.
+
+**3. Do I need surgery?**
+
+Most cases do not require surgery when treated early with physiotherapy.
+
+## Final Advice
+
+Shoulder impingement is one of the most common and most misunderstood shoulder conditions.
+
+The key message is simple:
+
+*Pain is not the problem - the way your shoulder moves is.*
+
+Fix the movement, strengthen the right muscles, and respect your body’s limits as far as gym exercises are concerned and your shoulder can recover fully through proper physiotherapy.
+
+**Author**
+
+Moses Katasi - Orthopedic Physiotherapist
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
