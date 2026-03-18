@@ -1,11 +1,12 @@
 ---
-title: "Shoulder Impingement: The Complete Guide from an Orthopedic Physiotherapist"
-slug: shoulder-impingement-pain
+title: "Shoulder Impingement: The Complete Guide From Our Orthopedic Physiotherapist"
+slug: shoulder-impingement-pain-physiotherapy
 description: If you’ve ever felt a sharp pinch, dull ache, or burning sensation
   in your shoulder when reaching overhead, lifting weights, or even sleeping on
   your side - you may be dealing with shoulder impingement.
 date: 2026-03-15T16:52:00.000+03:00
 category: Shoulder Pain
+coverImage: /white-blue-physiotherapy-instagram-post-instagram-post-7-.png
 ---
 ## Understanding Shoulder Impingement
 
@@ -164,11 +165,9 @@ Shoulder impingement is one of the most common and most misunderstood shoulder c
 
 The key message is simple:
 
-*Pain is not the problem - the way your shoulder moves is.*
+***Pain is not the problem - the way your shoulder moves is**.*
 
 Fix the movement, strengthen the right muscles, and respect your body’s limits as far as gym exercises are concerned and your shoulder can recover fully through proper physiotherapy.
-
-
 
 ### Author
 
