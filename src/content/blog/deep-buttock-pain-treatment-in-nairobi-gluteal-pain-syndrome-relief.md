@@ -143,6 +143,6 @@ And the **right physiotherapy approach,** like ours can completely change your r
 
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist. [Link](https://katasiphysiotherapy.co.ke/contact/)
+Moses Katasi - Orthopedic Physiotherapist. [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
