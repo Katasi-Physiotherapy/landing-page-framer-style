@@ -23,7 +23,7 @@ This is a common symptom with neck pain and when this happens, it usually indica
 
 When neck pain stays localized, it may feel like muscle tightness, stiffness, or difficulty turning your head from side to side or bending the neck. This is often related to muscular tension or temporary joint stiffness. 
 
-However, when the pain spreads from the neck into the shoulder, there are usually two main causes: **nerve irritation from the neck** or **muscle overload in the neck and shoulder**.
+However, when the pain spreads from the neck into the shoulder, there are usually two main causes: ***nerve irritation from the neck*** or ***muscle overload in the neck*** and** *shoulder***.
 
 ## Causes of Neck Pain That Goes Into the Shoulder
 
