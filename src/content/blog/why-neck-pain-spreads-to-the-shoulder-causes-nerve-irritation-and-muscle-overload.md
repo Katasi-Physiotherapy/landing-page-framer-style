@@ -11,7 +11,7 @@ coverImage: /neck-pain-radiating-to-shoulder.jpg.png
 ---
 Neck pain can sometimes occur only in the neck, but in many cases it can extend into the shoulder. 
 
-\-Everyone is looking for a solution: 
+**Everyone is looking for a solution..** 
 
 \-Why neck pain goes into the shoulder? 
 
