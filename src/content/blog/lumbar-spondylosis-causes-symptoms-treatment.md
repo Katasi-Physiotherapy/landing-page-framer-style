@@ -5,6 +5,7 @@ description: Lumbar spondylosis is simply age-related wear and tear of the bones
   of the lower back.
 date: 2026-03-19T13:55:00.000+03:00
 category: Lower Back Pain
+coverImage: /lumbar-spndylosis-back-pain-jpg.png
 ---
 After suffering back pain for a while or a short time the pain won’t go away? Stiffness when you wake up? Pain when standing, walking, or bending? And when an X-ray is done results show you have lumbar spondylosis. Are you contented with the treatment or explanation what lumbar spondylosis is?
 
