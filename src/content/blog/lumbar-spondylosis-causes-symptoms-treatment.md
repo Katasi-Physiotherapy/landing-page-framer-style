@@ -52,6 +52,93 @@ It does not automatically mean something is seriously wrong, but also its impact
 
 ## What Causes Pain
 
+Pain usually happens when these changes start affecting nearby structures:
+
+**1. Joint Irritation**
+
+Small joints in your spine become stiff and inflamed causes **localized lower back pain.**
+
+**2. Disc Changes**
+
+Spondylosis causes reduced cushioning of the discs, increased pressure, aching and stiffness.
+
+**3. Nerve Irritation**
+
+If structures narrow around where nerves are, this symptoms occur;
+
+* Pain going to the buttock or leg.
+* Numbness or tingling.
+* Burning sensation.
+
+
+
+## What Most People Experience
+
+You’re fine in your 30s…
+
+Then gradually you start;
+
+* Feeling morning stiffness.
+* Sitting too long causes discomfort
+* Standing or walking for long becomes painful
+* Bending feels restricted.
+
+When you go for a scan → **“lumbar spondylosis”**
+
+Sometimes many people are anxious an worried.
+
+
+## Common Symptoms of Lumbar Spondylosis
+
+1. Lower back pain (dull or sharp).
+2. Morning stiffness.
+3. Pain after prolonged sitting.
+4. Reduced flexibility.
+5. Pain when standing or walking long.
+6. Occasional leg pain or heaviness.
+
+## Treatment Backed By Physiotherapy
+
+**1. Movement is Medicine**
+
+Targeted exercises help reduce stiffness, enhance flexibility and strengthen muscles.
+
+**2. Strengthen Abdominal Muscles**
+
+Strong muscles reduce load on the spine.
+
+**3. Posture Correction**
+
+Simple changes make a big difference like sitting upright, avoid slouching and adjust your work station.
+
+**4. Manual Therapy**
+
+Through physiotherapy various treatment approaches and techniques are used.
+
+**5. Education**
+
+Understanding your condition reduces fear and pain reduces too.
+
+
+
+## Final Advice
+
+Lumbar spondylosis is common, its manageable, its not a life sentence. 
+
+The key is early physiotherapy, movement and right guidance.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+
+
+
+
 
 
 ##
