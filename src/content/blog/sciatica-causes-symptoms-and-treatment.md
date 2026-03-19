@@ -131,12 +131,8 @@ Consult a professional if you experience:
 
 Sciatica is a treatable nerve condition, not just back pain. Understanding the cause and starting the right treatment early especially physiotherapy can significantly speed up recovery and prevent long-term problems.
 
-
-
-
-
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
