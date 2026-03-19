@@ -108,9 +108,6 @@ If neck pain continues or becomes frequent, our orthopedic physiotherapist can h
 
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
-
-
-*Ready to start your recovery?* <https://katasiphysiotherapy.co.ke/contact/>*at Katasi physiotherapy.*
