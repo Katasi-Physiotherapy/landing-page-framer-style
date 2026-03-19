@@ -56,7 +56,6 @@ Back pain when standing up from sitting usually means your back needs better mov
 
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist
-
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment ](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
