@@ -165,12 +165,12 @@ Shoulder impingement is one of the most common and most misunderstood shoulder c
 
 The key message is simple:
 
-***Pain is not the problem - the way your shoulder moves is**.*
+**\*Pain is not the problem - the way your shoulder moves is**.*
 
 Fix the movement, strengthen the right muscles, and respect your body’s limits as far as gym exercises are concerned and your shoulder can recover fully through proper physiotherapy.
 
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
