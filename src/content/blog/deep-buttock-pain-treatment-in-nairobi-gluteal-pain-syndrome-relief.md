@@ -32,7 +32,7 @@ Instead of coming from the spine, the pain originates from:
 * Nerve compression.
 * Movement dysfunction associated with muscle weakness and compensation during movement.
 
-This is why many people are misdiagnosed with **“sciatica.”** Which is not always the case!
+This is why many people are misdiagnosed with **“[sciatica](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/).”** Which is not always the case!
 
 ## Why Is It Misdiagnosed
 
@@ -40,7 +40,7 @@ In many scenarios buttock pain is originally associated with 'nerve-related' pai
 
 \-“It’s a slipped disc”.
 
-\-“It’s sciatica”.
+\-“It’s [sciatica](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/)”.
 
 \-“It’s just muscle strain”.
 
