@@ -11,7 +11,7 @@ coverImage: /white-blue-physiotherapy-instagram-post-instagram-post-6-.png
 
 Sciatica is basically a symptom or a condition that causes pain that starts in the lower back or buttock and travels down one leg. It occurs when the sciatic nerve becomes irritated or compressed. 
 
-Sciatica is a nerve pain that is directly associated with back pain. This type of pain is not just an ordinary back pain. Sciatica is nerve-related and often feels sharp, burning, or like an electric shock moving down the leg.
+Sciatica is a nerve pain that is directly associated with[ back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/). This type of pain is not just an ordinary back pain. Sciatica is nerve-related and often feels sharp, burning, or like an electric shock moving down the leg.
 
 ## What Causes Sciatica
 
