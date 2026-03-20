@@ -83,7 +83,7 @@ Then gradually you start;
 
 When you go for a scan → **“lumbar spondylosis”**
 
-Sometimes many people are anxious an worried.
+Sometimes many people are anxious and worried.
 
 ## Common Symptoms of Lumbar Spondylosis
 
