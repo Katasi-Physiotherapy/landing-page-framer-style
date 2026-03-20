@@ -21,7 +21,7 @@ Sciatica develops when pressure is placed on the nerve in the lower spine. The m
 
 A disc in your spine can **bulge or slip out of place**, pressing on the nerve and causing pain down the leg. This is the most common cause of sciatica.
 
-**2. Lumbar Spinal Stenosis**
+**2. [Lumbar Spinal Stenosis](https://katasiphysiotherapy.co.ke/blog/lumbar-spinal-stenosis-causes-symptoms-treatment/)**
 
 Stenosis is basically narrowing, meaning the back(lumbar) there is narrowing of space where the spine is housed. Occurs more common as you age, this is when the space in the spine narrows, compressing nearby nerves.
 
@@ -29,7 +29,7 @@ Stenosis is basically narrowing, meaning the back(lumbar) there is narrowing of 
 
 A tight muscle in the buttock (piriformis) can irritate the sciatic nerve, especially in people who sit for long periods. This muscle; piriformis is where the nerve passes under it while a small percentage of individuals have the sciatic nerve pass inside the muscle.
 
-**4. Degenerative Changes**
+**4. Degenerative Changes [(Lumbar Spondylosis)](https://katasiphysiotherapy.co.ke/blog/lumbar-spondylosis-causes-treatment/)**
 
 Natural wear and tear in the spine can reduce support and lead to **nerve irritation over time**.
 
