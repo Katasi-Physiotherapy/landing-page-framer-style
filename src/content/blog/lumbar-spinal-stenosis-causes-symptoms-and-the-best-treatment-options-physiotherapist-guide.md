@@ -10,14 +10,11 @@ date: 2026-03-20T11:46:00.000+03:00
 category: Lower Back Pain
 coverImage: /spinal-stenosis-picture.jpg.png
 ---
-## What Is Lumbar Stenosis
-
+## What Is Lumbar Spinal Stenosis(LSS)?
 
 Lumbar spinal stenosis (LSS) is a condition where the spaces in your lower spine become narrowed, putting pressure on the nerves that travel through the spine into your legs.
 
-
 This narrowing can happen in the central spinal canal, on the sides of the spinal canal (lateral recess stenosis) or nerve exit opening (foramina). 
-
 
 As an orthopedic physiotherapist, one of the most important things patients need to understand is this:
 
@@ -60,7 +57,7 @@ Amazingly this may be present but often less prominent than leg symptoms.
 
 When you bend forward the spinal canal slightly widens and pressure on the nerve reduces. This is why activities like cycling, sitting are easer to do.
 
-## Conditions That Can Mimic Lumbar Spinal Stenosis 
+## Conditions That Can Mimic Lumbar Spinal Stenosis
 
 This condition is critical among clinicians to differentiate it from other conditions such as;
 
@@ -71,7 +68,7 @@ This condition is critical among clinicians to differentiate it from other condi
 
 And many older patients may have **more than one condition simultaneously**, which complicates diagnosis.
 
-## How Is Lumbar Stenosis Diagnosed 
+## How Is Lumbar Stenosis Diagnosed
 
 Diagnosis is clinical first, that is clinical assessment is done which is the most important. Our orthopedic physiotherapist evaluates walking tolerance, posture, neurological signs and symptom behavior. Other special tests are also done to determine the diagnosis.
 
@@ -79,10 +76,9 @@ After this clinical assessment confirmation of this is done by requesting an ima
 
 It's important to note that, imaging alone does **NOT** confirm diagnosis, the symptoms must much findings from the investigations done.
 
-## Best Treatment For Lumbar Stenosis 
+## Best Treatment For Lumbar Stenosis
 
 #### 1. Physiotherapy (First-Line Treatment)
-
 
 This is the **most effective non-surgical approach** that is scientifically proven to reduce nerve compression, improve mobility, increase walking capacity and strengthen support muscles.
 
@@ -114,47 +110,10 @@ Lumbar spinal stenosis is one of the most misunderstood causes of back and leg p
 
 The key is not just identifying the condition but understanding the symptom patterns, managing it correctly and restoring function. 
 
-
 With the right physiotherapy approach, **you can walk longer, move better, and live pain-free**
-
 
 ### Author
 
 Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 
-
-
-
-
-###
