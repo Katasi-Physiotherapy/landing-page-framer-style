@@ -5,7 +5,7 @@ slug: lumbar-spinal-stenosis-causes-symptoms-treatment
 description: Lumbar spinal stenosis (LSS) is a degenerative condition
   characterized by the narrowing of the spinal canal in the lower back. It
   typically affects individuals over 60 years of age and is a significant cause
-  of disability in the elderly
+  of disability in the elderly.
 date: 2026-03-20T11:46:00.000+03:00
 category: Lower Back Pain
 coverImage: /spinal-stenosis-picture.jpg.png
