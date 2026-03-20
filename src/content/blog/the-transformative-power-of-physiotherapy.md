@@ -4,7 +4,7 @@ slug: physiotherapy-physical-therapy
 description: Physiotherapy, a beacon of hope in healthcare, employs diverse
   techniques to address physical ailments, fostering recovery and overall
   well-being.
-date: 2024-05-20
+date: 2025-03-11T09:00:00.000+03:00
 category: Physiotherapy
 coverImage: /blog-cover-1.jpg
 ---
@@ -34,7 +34,22 @@ The benefits of physiotherapy extend beyond the physical realm. Engaging in regu
 
 Physiotherapy isn't reserved solely for those recovering from injuries. Adopting a proactive approach to healthcare, many individuals now turn to physiotherapy for preventive measures. By addressing muscle imbalances, promoting proper posture, and providing education on ergonomics, physiotherapists empower individuals to take charge of their physical health and prevent future issues.
 
-So, welcome aboard this holistic journey to wellness – a journey that nourishes your body, mind, and soul. We are excited to have you here, and together, we'll embrace the beauty of life's unfolding and unlock the secrets to living a happier, healthier, and more soulful existence. Let's grow, learn, and thrive together.
+So, welcome aboard this holistic journey to wellness a journey that nourishes your body, mind, and soul. We are excited to have you here, and together, we'll embrace the beauty of life's unfolding and unlock the secrets to living a happier, healthier, and more soulful existence. Let's grow, learn, and thrive together.
+
+
+
+
+## Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+
+
+
+
+
 
 - - -
 
