@@ -70,8 +70,6 @@ If structures narrow around where nerves are, this symptoms occur;
 * Numbness or tingling.
 * Burning sensation.
 
-
-
 ## What Most People Experience
 
 You’re fine in your 30s…
@@ -79,14 +77,13 @@ You’re fine in your 30s…
 Then gradually you start;
 
 * Feeling morning stiffness.
-* Sitting too long causes discomfort
-* Standing or walking for long becomes painful
+* Sitting too long causes discomfort.
+* Standing or walking for long becomes painful.
 * Bending feels restricted.
 
 When you go for a scan → **“lumbar spondylosis”**
 
 Sometimes many people are anxious an worried.
-
 
 ## Common Symptoms of Lumbar Spondylosis
 
@@ -119,26 +116,14 @@ Through physiotherapy various treatment approaches and techniques are used.
 
 Understanding your condition reduces fear and pain reduces too.
 
-
-
 ## Final Advice
 
 Lumbar spondylosis is common, its manageable, its not a life sentence. 
 
 The key is early physiotherapy, movement and right guidance.
 
-
-
 ### Author
 
 Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
-
-
-
-
-
-
-
-##
