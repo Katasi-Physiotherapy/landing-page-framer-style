@@ -35,7 +35,6 @@ When patients come in with knee pain after gym workouts, they often describe;
 
 ## Findings On Assessment
 
-
 When I assess pain around the knee after a gym workout, there are 3 consistent findings that i don't miss theses include:
 
 ### a) Tight Thigh Muscles (Quadriceps)
@@ -78,7 +77,7 @@ Tight quadriceps, IT band and weak glutes significantly impact mechanics.
 
 This combination creates tension and poor control, leading to pain.
 
-## Why Lunges Are Commonly Blamed 
+## Why Lunges Are Commonly Blamed
 
 Lunges are not “bad” exercises but they are very demanding.
 
@@ -105,7 +104,7 @@ You don’t need to stop going to the gym.
 
 You need to train smarter, not just harder.
 
-
+See us if you have this problem.
 
 ### Author
 
