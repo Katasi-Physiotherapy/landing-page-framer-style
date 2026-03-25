@@ -17,7 +17,6 @@ And here’s the truth most people don’t realize:
 
 And "It’s not always the knee that’s the problem." What do i really mean.. 
 
-
 Many people assume knee pain means injury after gyming. But in most cases, it’s your body reacting to how the movement is being performed and what muscles are (or aren’t) doing their job.
 
 1st when you exercise in the gym expect muscle soreness what is referred as delayed onset of muscle soreness (DOMS) which occurs due to build up of lactic acid after exercise. 
@@ -32,3 +31,18 @@ When patients come in with knee pain after gym workouts, they often describe;
 2. Discomfort when going up/down stairs.
 3. Pain during lunges or squats.
 4. Stiffness after sitting for long.
+
+## Findings On Assessment
+
+
+When I assess pain around the knee after a gym workout, there are 3 consistent findings that i don't miss theses include:
+
+### a) Tight Thigh Muscles (Quadriceps)
+
+Front thigh muscles are always tight and they pull on your kneecap.
+
+This creates pressure and irritation around the knee, especially during bending movements like lunges.
+
+### b) Tight Outer Thigh Muscle (Iliotibial band)
+
+The IT band runs along the outside of your thigh. When tight, it can pull the kneecap slightly out of alignment an increase friction around the knee.  These can cause pain around or outside the knee.
