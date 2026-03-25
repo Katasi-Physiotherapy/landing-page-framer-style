@@ -52,3 +52,62 @@ The IT band runs along the outside of your thigh. When tight, it can pull the kn
 This is the most overlooked issue. 
 
 Your glutes are responsible for controlling hip movement, stabilizing your knee during exercise so when they are weak, stability is lost, your knee muscles are overloaded, the knee muscles compensate, your form breaks when doing the exercises and by doing so stress shifts directly onto the knee, the muscles tension so much and become tight then pain sets in.
+
+## What Causes Knee Pain After Gym
+
+Knee pain after gym workouts usually comes down to:
+
+#### 1. Joint Loading
+
+Exercises like lunges place significant load on the knee joint. If your body isn’t prepared → overload happens.
+
+#### 2. Poor Movement Mechanics
+
+Small mistakes make a big difference such as:
+
+* Knee collapsing inward.
+* Poor alignment during lunges.
+* Excess forward knee movement.
+
+Can increase stress on the knee.
+
+#### 3. Muscle Imbalance (Tight Vs Weak Muscles)
+
+Tight quadriceps, IT band and weak glutes significantly impact mechanics.
+
+This combination creates tension and poor control, leading to pain.
+
+## Why Lunges Are Commonly Blamed 
+
+Lunges are not “bad” exercises but they are very demanding.
+
+And this is the reason why they are demanding because they require
+
+* Strength.
+* Balance.
+* Control.
+* Proper alignment.
+
+So if muscle is compromised in terms of strength, lunges won't be nice exercises on you if over-done.
+
+Because if any of these are lacking, your knee becomes the shock absorber for everything that goes wrong.
+
+## What You Should Do
+
+Visit a physiotherapist in our clinic for consultation where an assessment wil be done.
+
+Note that this information is based on a specific presentation of knee pain after a gym work out and as do you may hurt your knee still when you are at the gym, so don't ignore, see us we will advice, diagnose, treat and request any investigation if needed.
+
+## Final Advice
+
+You don’t need to stop going to the gym.
+
+You need to train smarter, not just harder.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
