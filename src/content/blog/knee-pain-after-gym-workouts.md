@@ -6,6 +6,7 @@ description: You went to the gym, pushed yourself, did your lunges, squats,
   knee.
 date: 2026-03-23T08:05:00.000+03:00
 category: Knee pain
+coverImage: /knee-pain-after-gym.jpg.png
 ---
 Sound familiar? You’re not alone. This is one of the most common complaints I see in clinic as an orthopedic physiotherapist.
 
