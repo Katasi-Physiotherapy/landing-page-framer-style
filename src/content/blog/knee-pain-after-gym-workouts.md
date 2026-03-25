@@ -46,3 +46,9 @@ This creates pressure and irritation around the knee, especially during bending 
 ### b) Tight Outer Thigh Muscle (Iliotibial band)
 
 The IT band runs along the outside of your thigh. When tight, it can pull the kneecap slightly out of alignment an increase friction around the knee.  These can cause pain around or outside the knee.
+
+### c) Weak Glute Muscle (The Hidden Problem)
+
+This is the most overlooked issue. 
+
+Your glutes are responsible for controlling hip movement, stabilizing your knee during exercise so when they are weak, stability is lost, your knee muscles are overloaded, the knee muscles compensate, your form breaks when doing the exercises and by doing so stress shifts directly onto the knee, the muscles tension so much and become tight then pain sets in.
