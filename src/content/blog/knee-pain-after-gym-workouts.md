@@ -12,19 +12,19 @@ Sound familiar? You’re not alone. This is one of the most common complaints I 
 
 And here’s the truth most people don’t realize:
 
-"It’s not always the knee that’s the problem."
+**"It’s not always the knee that’s the problem."**
 
 ## Why Your Knee Hurts After Exercises In The Gym
 
 And "It’s not always the knee that’s the problem." What do i really mean.. 
 
-Many people assume knee pain means injury after gyming. But in most cases, it’s your body reacting to how the movement is being performed and what muscles are (or aren’t) doing their job.
+Many people assume knee pain means injury after gym. But in most cases, it’s your body reacting to movement being performed and what muscles are (or aren’t) doing their job.
 
-1st when you exercise in the gym expect muscle soreness what is referred as delayed onset of muscle soreness (DOMS) which occurs due to build up of lactic acid after exercise. 
+1st when you exercise in the gym expect muscle soreness referred to as delayed onset of muscle soreness (DOMS) which occurs due to build up of lactic acid after exercise. 
 
-Secondly your body reacts out of poor mechanics while doing the exercises in the gym as a result of inappropriate landing, lifting or loading mechanics which can strain your muscles especially when for fatigue out completely but you still pushing on with the exercise safely.
+Secondly, your body reacts out of poor mechanics while doing the exercises in the gym as a result of inappropriate landing, lifting or loading mechanics which can strain your muscles especially when one fatigues out completely but still pushes on safely with exercise.
 
-Lastly is that if you've just joined the gym, there muscles that are weak and maybe they have not been exercised very well in this case the hip muscles, and when they or one is weak affect proper control of the hip and this affects the knee muscles which end up compensating and cause them to tighten resulting to pain around the knee.
+Lastly if you've just joined the gym, there muscles that are weak and maybe they have not been exercised very well in this case the hip muscles, and when they or one is weak affect proper control of the hip and this affects the knee muscles which end up compensating and cause them to tighten resulting to pain around the knee.
 
 When patients come in with knee pain after gym workouts, they often describe;
 
