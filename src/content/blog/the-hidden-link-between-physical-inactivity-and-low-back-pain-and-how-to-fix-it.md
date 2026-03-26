@@ -1,7 +1,7 @@
 ---
 title: The Hidden Link Between Physical Inactivity and Low Back Pain (And How to
   Fix It)
-slug: low-back-pain-treatment-nairobi
+slug: low-back-pain-treatment-nairobi-physiotherapy
 description: Low back pain is one of the most common reasons people seek
   physiotherapy and increasingly, one of the most misunderstood condition.
 date: 2026-03-24T08:50:00.000+03:00
@@ -9,7 +9,7 @@ category: Lower Back Pain
 ---
 Low back pain is one of the most common reasons people seek physiotherapy and increasingly, one of the most misunderstood condition. 
 
-As an orthopedic physiotherapist, I see a recurring pattern **people with persistent low back pain are often not injured they are inactive.**
+As an orthopedic physiotherapist, I see a recurring pattern people with persistent [low back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/) are often not injured they are inactive.
 
 Let’s break this down in a clear, practical way of what back pain is as we proceed.
 
@@ -17,7 +17,7 @@ Let’s break this down in a clear, practical way of what back pain is as we pro
 
 Now everyone when i ask, "What's going on.. i can see your back is telling you stories.." And the answer is always describing pain along the spine, which is 'okay' but this is what is described clinically as low back according to clinical guidelines.. the lower back is the area between your **12th ribs and the buttock creases**.
 
-Most people with low back pain fall in the category of non-specific low back pain, means that there is no serious disease or structural damage and the pain is not caused by fractures, infections, tumors or nerve compression. 
+Most people with [low back pain](https://katasiphysiotherapy.co.ke/blog/lumbar-spondylosis-causes-treatment/) fall in the category of non-specific low back pain, means that there is no serious disease or structural damage and the pain is not caused by fractures, infections, tumors or [nerve compression](https://katasiphysiotherapy.co.ke/blog/lumbar-spinal-stenosis-causes-symptoms-treatment/). 
 
 In simple terms, **your back hurts, but nothing “serious”** is structurally wrong. This is where lifestyle especially physical inactivity plays a major role which now validates this writing.
 
@@ -90,3 +90,19 @@ The good news is that low back pain that is non-specific responds extremely well
 Just as it is; *"Movement Is Medicine"* It's exercise, exercise, exercise.. physical activity!
 
 ## Final Advice
+
+Low back pain is not always a sign of damage it is often a sign of **inactivity**. Physiotherapy can help you a lot through this, just [call us](https://katasiphysiotherapy.co.ke/contact/).
+
+In today’s modern lifestyle we sit more, move less and unknowingly create  a good environment for pain.
+
+The solution is not rest, it is strategic movement.
+
+
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
