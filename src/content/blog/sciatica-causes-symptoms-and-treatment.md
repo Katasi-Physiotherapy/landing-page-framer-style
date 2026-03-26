@@ -67,7 +67,7 @@ Which includes;
 
 **b) Scans**
 
-Scans like MRI are usually only needed if:
+Scans like[ MRI](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/) are usually only needed if:
 
 * Symptoms are severe.
 * Pain persists.
@@ -101,7 +101,7 @@ A physiotherapist focuses on:
 
 **4. Targeted Exercises**
 
-\-Specific exercises can relieve pressure on the nerve and prevent recurrence.
+\-Specific exercises can relieve pressure on the nerve and prevent recurrence combined with guided [physical activity](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/).
 
 ## **When Should You Seek Medical Help?**
 
