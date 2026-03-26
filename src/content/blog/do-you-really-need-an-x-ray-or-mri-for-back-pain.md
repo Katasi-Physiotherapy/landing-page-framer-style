@@ -44,3 +44,14 @@ Imaging is very important but only in special cases where a clinician suspects;
 
 
 Above may indicate serious conditions that need urgent attention.
+
+## Does Sciatica Need MRI
+
+If you have pain going down the leg, numbness or tingling nerve related symptoms MRI may be needed especially if symptoms are severe, symptoms are persistent beyond 6 to 8 weeks or when surgery is being considered.
+
+## The Problem With Early Imaging
+
+
+Getting an MRI too early can actually harm your recovery because of over-diagnosis when you are told you have a disc bulge or wear and tear even if its normal for your age.
+
+These can actually cause axaiety, stress and fear avoidance thinking that "my spine is damaged" or "
