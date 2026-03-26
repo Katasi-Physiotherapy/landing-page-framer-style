@@ -6,6 +6,7 @@ description: Low back pain is one of the most common reasons people seek
   physiotherapy and increasingly, one of the most misunderstood condition.
 date: 2026-03-24T08:50:00.000+03:00
 category: Lower Back Pain
+coverImage: /low-back-pain-treatment-nairobi-physiotherapy.jpg.png
 ---
 Low back pain is one of the most common reasons people seek physiotherapy and increasingly, one of the most misunderstood condition. 
 
