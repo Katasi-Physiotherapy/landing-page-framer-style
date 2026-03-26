@@ -29,3 +29,18 @@ Research has actually shown that many people with NO back pain still have disc b
 What does this mean? 
 
 Not everything seen is the cause of your pain and this is critical because as an orthopedic physiotherapist findings from MRI can make someone panic unnecessarily, receive the wrong treatment and one may believe that their spine is damaged when it is not.
+
+## When Do You Need X-ray or MRI
+
+Imaging is very important but only in special cases where a clinician suspects;
+
+* Severe trauma like a fall or an accident.
+* Suspected fracture.
+* History of cancer.
+* Unexplained weight loss.
+* Fever with back pain (possible infection).
+* Progressive weakness in the legs.
+* Loss of bladder or bowel control.
+
+
+Above may indicate serious conditions that need urgent attention.
