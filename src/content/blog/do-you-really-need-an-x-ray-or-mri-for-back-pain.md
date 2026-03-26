@@ -47,7 +47,7 @@ Above may indicate serious conditions that need urgent attention.
 
 ## Does Sciatica Need MRI
 
-If you have pain going down the leg, numbness or tingling sensation a nerve related symptom(s) MRI may be needed especially if symptoms are severe, symptoms are persistent beyond 6 to 8 weeks or when surgery is being considered.
+If you have pain going down the leg, numbness or tingling sensation a nerve related symptom(s) commonly referred as[ sciatica ](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/)an MRI may be needed especially if symptoms are severe, symptoms are persistent beyond 6 to 8 weeks or when surgery is being considered.
 
 ## The Problem With Early Imaging
 
@@ -71,7 +71,7 @@ You need physiotherapy if pain is mild to moderate, symptoms not related to syst
 
 ## Back Pain Treatment In Nairobi
 
-If you are dealing with persistent back pain, the most important step is getting the **right diagnosis, not just a scan**.
+If you are dealing with persistent [back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/), the most important step is getting the **right diagnosis, not just a scan**.
 
 Our orthopedic physiotherapist's approach focuses on:
 
