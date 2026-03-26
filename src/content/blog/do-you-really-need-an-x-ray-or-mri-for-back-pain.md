@@ -54,4 +54,45 @@ If you have pain going down the leg, numbness or tingling nerve related symptoms
 
 Getting an MRI too early can actually harm your recovery because of over-diagnosis when you are told you have a disc bulge or wear and tear even if its normal for your age.
 
-These can actually cause axaiety, stress and fear avoidance thinking that "my spine is damaged" or "
+These can actually cause anxiety, stress and fear avoidance thinking that "my spine is damaged" or "I should avoid movement" this leads to less activity and more pain. 
+
+As a result this leads to unnecessary treatment such as injections, surgery, long term medication use, all these on findings that may not be causing your pain. 
+
+## What Actually Works For Most Back Pain
+
+Instead of rushing for scans a thorough physiotherapy assessment is enough to identify the cause of your back pain. 
+
+Physically activity actually works as a preventive measure and as a treatment as well when prescribed by a physiotherapist. 
+
+Education is equally important because understanding your pain reduces fear and improves recovery.
+
+## When Should You See A Physiotherapist
+
+You need physiotherapy if pain is mild to moderate, symptoms not related to systemic disease, pain that starts gradually and improves with movement.
+
+
+## Back Pain Treatment In Nairobi
+
+If you are dealing with persistent back pain, the most important step is getting the **right diagnosis, not just a scan**.
+
+Our orthopedic physiotherapist's approach focuses on:
+
+* Identifying the true cause of your pain.
+* Restoring movement.
+* Preventing recurrence.
+
+Book an appointment today and avoid unnecessary tests and treatments.
+
+## Final Advice
+
+* **Not all back pain needs an X-ray or MRI.**
+* Imaging should be used **only when clinically necessary.**
+* Movement and rehabilitation are often the real solution.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
