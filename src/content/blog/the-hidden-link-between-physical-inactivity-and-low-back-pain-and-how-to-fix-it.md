@@ -66,7 +66,7 @@ Sedentary behavior include sitting for long hours, watching or excessive screen 
 
 It's important also to note that activities like cooking, slow walking or writing still use energy but prolonged sitting uses minimal energy thus high risk to back pain.
 
-#### Clinical takeaway;
+#### Clinical Takeaway;
 
 
 Sitting for long periods is one of the strongest contributors to chronic low back pain.
