@@ -5,6 +5,7 @@ description: Back pain is one of the most common reasons people rush to the
   hospital asking for an X-ray or MRI.
 date: 2026-03-25T09:44:00.000+03:00
 category: Lower Back Pain
+coverImage: /do-i-need-mri-xray-back-pain.jpg.png
 ---
 Back pain is one of the most common reasons people rush to the hospital asking for an **X-ray or MRI**. 
 
