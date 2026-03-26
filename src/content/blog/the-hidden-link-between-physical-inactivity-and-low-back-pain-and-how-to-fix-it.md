@@ -7,7 +7,6 @@ description: Low back pain is one of the most common reasons people seek
 date: 2026-03-24T08:50:00.000+03:00
 category: Lower Back Pain
 ---
-
 Low back pain is one of the most common reasons people seek physiotherapy and increasingly, one of the most misunderstood condition. 
 
 As an orthopedic physiotherapist, I see a recurring pattern **people with persistent low back pain are often not injured they are inactive.**
@@ -37,8 +36,7 @@ The global reality is that we are moving less than ever! Data is alarming too..
 * Physical inactivity is the 4th leading risk factor for death worldwide.
 * About 3.2 million deaths per year are linked to inactivity.
 * Women and older adults are more affected.
-* A majority of both adults and children do not meet activity guidelines**.**
-
+* A majority of both adults and children do not meet activity guidelines.
 
 This is no longer just a lifestyle issue, it is a **public health crisis**.
 
@@ -60,25 +58,35 @@ Movement improves circulation and without it muscles fatigue faster, healing slo
 
 ### 4. Increased Sensitivity To Pain
 
-
 Long-term inactivity can make your nervous system more sensitive, more reactive to normal movements and this explains why some people feel pain even without clear injury.
 
+## Sedentary Lifestyle; The Silent Trigger
+
+Sedentary behavior include sitting for long hours, watching or excessive screen time. 
+
+It's important also to note that activities like cooking, slow walking or writing still use energy but prolonged sitting uses minimal energy thus high risk to back pain.
+
+#### Clinical takeaway;
+
+
+Sitting for long periods is one of the strongest contributors to chronic low back pain.
 
 
 
+## Self-Check.. Are You At Risk?
 
 
+You are likely at risk if;
 
-### 
+* You sit for more than **6–8 hours daily.**
+* You rarely exercise.
+* You feel stiff after inactivity.
+* Your pain improves slightly when you move.
 
+## The Solution.. "Movement Is Medicine"
 
+The good news is that low back pain that is non-specific responds extremely well to activity. 
 
+Just as it is; *"Movement Is Medicine"* It's exercise, exercise, exercise.. physical activity!
 
-
-
-
-
-
-
-
-###
+## Final Advice
