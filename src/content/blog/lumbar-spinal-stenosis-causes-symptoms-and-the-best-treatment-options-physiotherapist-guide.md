@@ -72,7 +72,7 @@ And many older patients may have **more than one condition simultaneously**, whi
 
 Diagnosis is clinical first, that is clinical assessment is done which is the most important. Our orthopedic physiotherapist evaluates walking tolerance, posture, neurological signs and symptom behavior. Other special tests are also done to determine the diagnosis.
 
-After this clinical assessment confirmation of this is done by requesting an imaging investigation referred to MRI which is a gold standard investigation. X-ray can also be done to see any structural changes, a CT scan can be done as well depending on priority. 
+After this clinical assessment confirmation of this is done by requesting an imaging investigation referred to [MRI ](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/)which is a gold standard investigation. [X-ray](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/) can also be done to see any structural changes, a CT scan can be done as well depending on priority. 
 
 It's important to note that, imaging alone does **NOT** confirm diagnosis, the symptoms must much findings from the investigations done.
 
@@ -86,7 +86,7 @@ And a well-structured rehab program can **delay or even prevent surgery**.
 
 #### 2. Activity Modification
 
-Activity modification helps to prove, worsen symptoms. These include avoid prolonged sitting, walking long distances without brakes instead; do cycling  and walk with a slight forward-lean walking posture.
+Activity modification helps to prove, worsen symptoms. These include avoid prolonged sitting, walking long distances without brakes instead; do cycling  and walk with a slight forward-lean walking posture. Basically engaging in [physical activity](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/).
 
 #### 3. Pain Management
 
