@@ -39,4 +39,14 @@ Another cause is wear and tear which is common as you age with the spine termed 
 
 ## What You Should Know
 
-It does take
+It does take too much pressure to irritate a nerve.
+
+Even a very small pressure can reduce blood flow to the nerve, cause inflammation and trigger pain, tingling or weakness. 
+
+That's why your symptoms can feel intense even when if the problem looks "small" on a scan either an X-ray or MRI.
+
+## Why Does Your Pain Travel Down The Arm
+
+Each nerve on your neck supplies/goes to a specific area of four arm and hand. So when one nerve is affected the pain follows a pattern for instance pain in the thumb i as a result of a specific nerve irritated, tingling in the little finger the same.
+
+This is why physiotherapists can often identify the exact problem without without even asking for a scan.
