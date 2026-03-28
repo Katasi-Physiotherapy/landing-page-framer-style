@@ -11,3 +11,5 @@ Have you ever felt a sharp pain starting in your neck(neck pain)… then shootin
 Or maybe it’s not pain but numbness, tingling (“pins and needles”), or weakness in your arm?
 
 That’s not random your neck could be pressing on a nerve and this symptom(s) is what is referred to as **cervical radiculopathy**.
+
+## What Is Cervical Radiculopathy
