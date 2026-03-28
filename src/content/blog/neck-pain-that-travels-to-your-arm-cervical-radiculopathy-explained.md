@@ -47,6 +47,23 @@ That's why your symptoms can feel intense even when if the problem looks "small"
 
 ## Why Does Your Pain Travel Down The Arm
 
-Each nerve on your neck supplies/goes to a specific area of four arm and hand. So when one nerve is affected the pain follows a pattern for instance pain in the thumb i as a result of a specific nerve irritated, tingling in the little finger the same.
+Each nerve on your neck supplies/goes to a specific area of four arm and hand. So when one nerve is affected the pain follows a pattern for instance pain in the thumb as a result of a specific nerve irritated, tingling in the little finger the same.
 
 This is why physiotherapists can often identify the exact problem without without even asking for a scan.
+
+## When Should You Be Concerned?
+
+Seek proffesional help if;
+
+* There is increasing weakness in the arm.
+* Severe or worsening pain.
+* Loss of coordination.
+* Symptoms in both arms.
+
+## Can Cervical Radiculopathy Heal?
+
+Yes, most cases improve within weeks with physiotherapy other cases may take months.
+
+The right treatment speeds up recovery and prevents chronic pain.
+
+## Treatment -Physiotherapy Approach
