@@ -13,3 +13,22 @@ Or maybe it’s not pain but numbness, tingling (“pins and needles”), or wea
 That’s not random your neck could be pressing on a nerve and this symptom(s) is what is referred to as **cervical radiculopathy**.
 
 ## What Is Cervical Radiculopathy
+
+
+Think of your neck as a highway of nerves these nerves exit your spine and travel into your shoulder, arms and hands that controls movement and sensation.
+
+Now think of one of the nerves gets squeezed or irritated the pressure causes symptoms along the entire path of the nerve; from the neck, shoulder, arm and fingers.
+
+## Symptoms You Should Not Ignore
+
+Cervical radiculopathy doesn't always feel the same for everyone, most people do experience the following;
+
+1. Neck pain.
+2. Pain spreading to the shoulder or arm.
+3. Tingling or "pins and needles" in the hand.
+4. Numbness in fingers.
+5. Weak grip or arm weakness.
+
+This symptoms usually affect one side; left or right but in more serious cases both sides can be involved.
+
+## What Causes Your Pain
