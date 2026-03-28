@@ -35,7 +35,9 @@ This symptoms usually affect one side; left or right but in more serious cases b
 
 The most common cause of symptoms as a result of cervical radiculopathy is as a result of a disc bulge or slip in the neck which is also a reason too for back pain that has symptoms radiating down the leg.
 
-Another cause is wear and tear which is common as you age with the spine termed as cervical spondylosis affecting the neck and lumbar spondylosis affecting the back.
+Another cause is wear and tear which is common as you age with the spine termed as cervical spondylosis affecting the neck and[ lumbar spondylosis](https://katasiphysiotherapy.co.ke/blog/lumbar-spondylosis-causes-treatment/) affecting the back.
+
+Spinal stenosis is also enjoined here as a cause of symptoms above. Spinal stenosis can be on the neck termed as cervical spinal stenosis and on the back as [lumbar spinal stenosis](https://katasiphysiotherapy.co.ke/blog/lumbar-spinal-stenosis-causes-symptoms-treatment/).
 
 ## What You Should Know
 
@@ -53,7 +55,7 @@ This is why physiotherapists can often identify the exact problem without withou
 
 ## When Should You Be Concerned?
 
-Seek proffesional help if;
+Seek profesional help if;
 
 * There is increasing weakness in the arm.
 * Severe or worsening pain.
@@ -67,3 +69,22 @@ Yes, most cases improve within weeks with physiotherapy other cases may take mon
 The right treatment speeds up recovery and prevents chronic pain.
 
 ## Treatment -Physiotherapy Approach
+
+As an orthopedic physiotherapist, a well designed therapy that is targeted is able to relieve pressure on the nerve, improve mobility and strengthen supporting muscles.
+
+Posture correction plays a vital role also to help minimize pressure on the nerve combined with nerve mobility exercises and other pain management strategies as guided by our orthopedic physiotherapist.
+
+## Final Advice 
+
+If your pain is traveling to your arm, cause tingling or numbness and affects your strength don't ignore it. 
+
+Book a physiotherapy assessment today and start your  recovery journey.
+
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
