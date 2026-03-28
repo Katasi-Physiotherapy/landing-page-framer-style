@@ -5,6 +5,7 @@ description: Have you ever felt a sharp pain starting in your neck… then
   shooting down your shoulder, arm, or even into your fingers?
 date: 2026-03-26T08:15:00.000+03:00
 category: Neck Pain
+coverImage: /cervical-radiculopathy-neck-pain.jpg.png
 ---
 Have you ever felt a sharp pain starting in your neck(neck pain)… then shooting down your shoulder, arm, or even into your fingers?
 
