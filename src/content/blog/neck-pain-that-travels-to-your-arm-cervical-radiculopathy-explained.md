@@ -32,3 +32,11 @@ Cervical radiculopathy doesn't always feel the same for everyone, most people do
 This symptoms usually affect one side; left or right but in more serious cases both sides can be involved.
 
 ## What Causes Your Pain
+
+The most common cause of symptoms as a result of cervical radiculopathy is as a result of a disc bulge or slip in the neck which is also a reason too for back pain that has symptoms radiating down the leg.
+
+Another cause is wear and tear which is common as you age with the spine termed as cervical spondylosis affecting the neck and lumbar spondylosis affecting the back.
+
+## What You Should Know
+
+It does take
