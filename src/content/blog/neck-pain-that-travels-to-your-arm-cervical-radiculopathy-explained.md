@@ -45,7 +45,7 @@ It does take too much pressure to irritate a nerve.
 
 Even a very small pressure can reduce blood flow to the nerve, cause inflammation and trigger pain, tingling or weakness. 
 
-That's why your symptoms can feel intense even when if the problem looks "small" on a scan either an X-ray or MRI.
+That's why your symptoms can feel intense even if the problem looks "small" on a scan either an[ X-ray or MRI](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/) and the same happens with [back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/).
 
 ## Why Does Your Pain Travel Down The Arm
 
@@ -55,7 +55,7 @@ This is why physiotherapists can often identify the exact problem without withou
 
 ## When Should You Be Concerned?
 
-Seek profesional help if;
+Seek professional help if;
 
 * There is increasing weakness in the arm.
 * Severe or worsening pain.
@@ -64,7 +64,7 @@ Seek profesional help if;
 
 ## Can Cervical Radiculopathy Heal?
 
-Yes, most cases improve within weeks with physiotherapy other cases may take months.
+Yes, most cases improve within weeks with[ physiotherapy](https://katasiphysiotherapy.co.ke/blog/physiotherapy-physical-therapy/) other cases may take months.
 
 The right treatment speeds up recovery and prevents chronic pain.
 
@@ -79,7 +79,6 @@ Posture correction plays a vital role also to help minimize pressure on the nerv
 If your pain is traveling to your arm, cause tingling or numbness and affects your strength don't ignore it. 
 
 Book a physiotherapy assessment today and start your  recovery journey.
-
 
 
 
