@@ -35,3 +35,9 @@ Some of the common causes include;
 * Poor posture especially sitting for long hours.
 * Heavy lifting with bad technique.
 * High body mass index (overweight).
+
+## Where Does It Occur?
+
+Disc problems are common on the lower back which is more common than the neck while on the mid-back is very rare. 
+
+It's common on the back and neck because they move more and carry more stress.
