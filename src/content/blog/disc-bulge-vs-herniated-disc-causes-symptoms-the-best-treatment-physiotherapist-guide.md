@@ -7,7 +7,7 @@ description: Back pain is one of the leading reasons people seek physiotherapy
 date: 2026-03-30T10:33:00.000+03:00
 category: Back and Neck
 ---
-Back pain is one of the most common problems today and one of the most misunderstood.
+[Back pain ](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/) and neck pain are one of the most common problems today and one of the most misunderstood.
 
 If you’ve ever been told you have a **disc bulge** or **herniated disc**, you might feel worried… even scared.
 
@@ -54,12 +54,37 @@ When you have a disc bulge or herniation does not always cause symptoms but when
 
 These warning signs might actually indicate severe nerve compression and need urgent medical attention.
 
-Actually as much as it is, if a random MRI was done many people have disc problems that are asymptomatic/without any symptoms, like it doesn't bother them.
+Actually as much as it is, if a random [MRI ](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/)was done many people have disc problems that are asymptomatic/without any symptoms, like it doesn't bother them.
 
 ## Types Of Disc Herniation
 
 There are three types;
 
 1. **Posterolateral** disc herniation- most common where the disc presses on a nerve causing leg or arm pain.
-2. **Central** disc herniation- where a disc can press on the spinal cord and can cause spinal stenosis.
+2. **Central** disc herniation- where a disc can press on the spinal cord and can cause[ spinal stenosis](https://katasiphysiotherapy.co.ke/blog/lumbar-spinal-stenosis-causes-symptoms-treatment/).
 3. **Lateral** disc herniation - the disc more on the side which affects nerve at the same level.
+
+## Treatment For Disc Bulge Or Herniation
+
+Physiotherapy is always a game changer and the 1st treatment plan, it focuses on pain relief, posture correction, therapeutic exercises, nerve mobility exercises among others.
+
+Mostly patients who do exercises ([physical activity](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/)), follow treatment plan do recover faster.
+
+
+Pain relievers may help reduce inflammation but they don’t fix the root problem. Sometimes they are so much misused and they just end up masking pain.
+
+Surgery is always the last option especially if you have the warning signs mentioned earlier that don't resolve with physiotherapy.
+
+It takes a few weeks or months to heal depending on personal activity level, body weight, consistency with exercises and posture habits.
+
+## Final Advice
+
+Having diagnosed of a disc bulge or herniation is not the end of life as an orthopedic physiotherapist perspective, your spine is strong and your body can heal.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
