@@ -49,7 +49,7 @@ When you have a disc bulge or herniation does not always cause symptoms but when
 
 **a) Pain** - one may present with sharp or stinging pain or pain that radiates/travels down from the back or neck down the limbs. 
 
-**b) Nerve symptoms** -one can also present with numbness, tingling ("pins and needles") and weakness in arm or leg.
+**b) Nerve symptoms** -one can also present with numbness, tingling ("pins and needles") and weakness in arm or leg [(sciatica)](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/).
 
 **c) Warning signs** -when you have loss of bladder and bowel control, severe leg weakness and difficulty in walking. 
 
@@ -71,7 +71,6 @@ Physiotherapy is always a game changer and the 1st treatment plan, it focuses on
 
 Mostly patients who do exercises ([physical activity](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/)), follow treatment plan do recover faster.
 
-
 Pain relievers may help reduce inflammation but they don’t fix the root problem. Sometimes they are so much misused and they just end up masking pain.
 
 Surgery is always the last option especially if you have the warning signs mentioned earlier that don't resolve with physiotherapy.
@@ -81,8 +80,6 @@ It takes a few weeks or months to heal depending on personal activity level, bod
 ## Final Advice
 
 Having diagnosed of a disc bulge or herniation is not the end of life as an orthopedic physiotherapist perspective, your spine is strong and your body can heal.
-
-
 
 ### Author
 
