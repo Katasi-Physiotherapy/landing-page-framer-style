@@ -6,6 +6,7 @@ description: Back pain is one of the leading reasons people seek physiotherapy
   in Nairobi especially due to disc problems like bulges and herniations.
 date: 2026-03-30T10:33:00.000+03:00
 category: Back and Neck
+coverImage: /disc-herniation-bulged-disc.jpg.png
 ---
 [Back pain ](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/) and neck pain are one of the most common problems today and one of the most misunderstood.
 
