@@ -41,3 +41,17 @@ Some of the common causes include;
 Disc problems are common on the lower back which is more common than the neck while on the mid-back is very rare. 
 
 It's common on the back and neck because they move more and carry more stress.
+
+## Common Disc Bulge Or Herniation Symptoms
+
+When you have a disc bulge or herniation does not always cause symptoms but when it does the following are symptoms;
+
+**a) Pain** - one may present with sharp or stinging pain or pain that radiates/travels down from the back or neck down the limbs. 
+
+**b) Nerve symptoms** -one can also present with numbness, tingling ("pins and needles") and weakness in arm or leg.
+
+**c) Warning signs** -when you have loss of bladder and bowel control, severe leg weakness and difficulty in walking. 
+
+These warning signs might actually indicate severe nerve compression and need urgent medical attention.
+
+Actually as much as it is, if a random MRI was done many people have disc problems that are asymptomatic/without any symptoms, like it doesn't bother them.
