@@ -55,3 +55,11 @@ When you have a disc bulge or herniation does not always cause symptoms but when
 These warning signs might actually indicate severe nerve compression and need urgent medical attention.
 
 Actually as much as it is, if a random MRI was done many people have disc problems that are asymptomatic/without any symptoms, like it doesn't bother them.
+
+## Types Of Disc Herniation
+
+There are three types;
+
+1. **Posterolateral** disc herniation- most common where the disc presses on a nerve causing leg or arm pain.
+2. **Central** disc herniation- where a disc can press on the spinal cord and can cause spinal stenosis.
+3. **Lateral** disc herniation - the disc more on the side which affects nerve at the same level.
