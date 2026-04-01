@@ -19,7 +19,7 @@ But what if someone has not experienced the above instances that translate to th
 
 The buttocks clinically or anatomically they are referred to as, **the glutes.**
 
-They are a group of three muscles that make up the buttock. The glutes consists of the gluteus maximus, medius and minimus, these muscles attach from top of your pelvis to your thigh bone. 
+They are a group of three muscles that make up the buttock. The glutes consists of the gluteus maximus, [gluteus medius](https://katasiphysiotherapy.co.ke/blog/back-pain-buttock-hurts-hip-pain/) and gluteus minimus, these muscles attach from top of your pelvis to your thigh bone. 
 
 And they are also responsible for hip pain, [buttock pain](https://katasiphysiotherapy.co.ke/blog/deep-buttock-pain-treatment/), [sciatica ](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/)and pelvis alignment or support during walking.
 
