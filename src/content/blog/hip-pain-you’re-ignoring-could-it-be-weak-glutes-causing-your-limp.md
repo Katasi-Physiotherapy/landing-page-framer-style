@@ -13,8 +13,7 @@ As an orthopedic physiotherapist, one of the most overlooked causes I see is **w
 
 ## What Is The Gluteus Medius & Why Does It Matter?
 
-
-The **gluteus medius** is a muscle located on the side of your hip. Its main job is simple but critical it is responsible with **keeping your pelvis level** when you stand or walk, s**tabilizes your hip** during movement and **prevents your body from dropping on one side**.
+The **gluteus medius** is a muscle located on the side of your hip, the [buttocks muscles](https://katasiphysiotherapy.co.ke/blog/back-pain-buttock-hurts-hip-pain/). Its main job is simple but critical it is responsible with **keeping your pelvis level** when you stand or walk, s**tabilizes your hip** during movement and **prevents your body from dropping on one side**.
 
 Every time you take a step, this muscle works to keep you balanced. If it’s weak, your body starts compensating and that’s where problems begin.
 
@@ -44,13 +43,11 @@ As an orthopedic physiotherapist in this type of knee pain, however much the kne
 
 ## The Link To Low Back Pain
 
-
 If your pelvis is unstable, your lower back tries to compensate in the process and overtime causes tightness in the lower back, muscle fatigue and its persistence results to chronic back pain.
-
 
 So if you’ve been treating back pain without success, your hip strength may be the missing piece and that's the reason why you need to see us.
 
-## Signs Your Glute Medius Is Weak
+## Signs Your Gluteus Medius Is Weak
 
 In general this are signs to suggest that your gluteus medius may be weak, this can be well diagnosed by a physiotherapist.
 
@@ -66,7 +63,6 @@ This signs include;
 
 Yes, this can be fixed.. absolutely through exercises. 
 
-
 In this case you need specific exercises that activate the gluteus medius not just general workouts and this can only be well done by physiotherapists together with other treatments.
 
 ## Final Advice
@@ -75,11 +71,7 @@ Not all hip or knee pain starts where you feel it.
 
 Sometimes, the real problem is a small muscle on the side of your hip that’s quietly failing to do its job.
 
-
 If you’re in Nairobi and dealing with hip, knee, or back pain, a proper physiotherapy assessment can identify the root cause not just treat the symptoms **BUT** the problem.
-
-
-
 
 ### Author
 
