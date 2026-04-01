@@ -5,6 +5,7 @@ description: If you’ve been dealing with hip pain, knee discomfort, or even
   stubborn low back pain, you might be focusing on the wrong area.
 date: 2026-03-30T08:43:00.000+03:00
 category: Hip pain
+coverImage: /hip-painfull-walking.jpg.png
 ---
 If you’ve been dealing with hip pain, knee discomfort, or even stubborn [low back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/), you might be focusing on the wrong area.
 
