@@ -40,3 +40,11 @@ These are common symptoms related;
 * Feeling of instability.
 
 As an orthopedic physiotherapist in this type of knee pain, however much the knee is treated it doesn't get better if its treated alone, because the root problem is higher up in the hip.
+
+## The Link To Low Back Pain
+
+
+If your pelvis is unstable, your lower back tries to compensate in the process and overtime causes tightness in the lower back, muscle fatigue and its persistence results to chronic back pain.
+
+
+So if you’ve been treating back pain without success, your hip strength may be the missing piece and that's the reason why you need to see us.
