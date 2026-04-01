@@ -1,5 +1,5 @@
 ---
-title: "Hip Pain You’re Ignoring: Could It Be Weak Glutes Causing Your Limp?"
+title: "That Hip Pain You’re Ignoring: Could It Be Weak Glutes Causing Your Limp?"
 slug: hip-pain
 description: If you’ve been dealing with hip pain, knee discomfort, or even
   stubborn low back pain, you might be focusing on the wrong area.
