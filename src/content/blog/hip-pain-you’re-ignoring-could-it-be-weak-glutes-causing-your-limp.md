@@ -48,3 +48,15 @@ If your pelvis is unstable, your lower back tries to compensate in the process a
 
 
 So if you’ve been treating back pain without success, your hip strength may be the missing piece and that's the reason why you need to see us.
+
+## Signs Your Glute Medius Is Weak\
+
+In general this are signs to suggest that your gluteus medius may be weak, this can be well diagnosed by a physiotherapist.
+
+This signs include;
+
+1. Slight limp when walking.
+2. Hip dropping on one side.
+3. Pain when standing on one leg.
+4. Knee pain without a clear injury
+5. Pain on the back that doesn't improve.
