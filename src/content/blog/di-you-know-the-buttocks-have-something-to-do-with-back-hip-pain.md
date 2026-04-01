@@ -8,8 +8,6 @@ description: The buttock muscles (gluteal muscles) are not just for appearance,
 date: 2026-04-01T15:31:00.000+03:00
 category: Back and Hip Pain
 ---
-
-
 In almost every occasion out of 70% of the population suffering from muscle and joint disorders, back pain tops the list. 
 
 Most of the [back pain](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/) complaints have been associated with muscle or ligament strain due to sudden awkward or heavy lifting, [bulging discs ](https://katasiphysiotherapy.co.ke/blog/disc-bulge-disc-herniation/)(discs act as cushions between the bones of your spine), arthritis that affects the spine [(spondylosis)](https://katasiphysiotherapy.co.ke/blog/lumbar-spondylosis-causes-treatment/), osteoporosis( spine bones become porous and brittle) and many other causes that can lead to referred pain on your back as a result of organ dysfunction or disease.
@@ -53,15 +51,13 @@ Sitting as a result causes the muscles at the front of the thigh to become short
 
 ## The Solution
 
-In these cases with respect to back pain you are always advised to seek consultation of a skilled and experienced orthopedic physiotherapist who will be able to do a thorough assessment and treatment and advice on proper exercises.
+In these cases with respect to back pain you are always advised to seek consultation of a skilled and experienced orthopedic physiotherapist who will be able to do a thorough assessment and treatment and advice on proper [exercises](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/).
 
 ## Final Advice
 
 In most back pain cases many clinicians forget about this muscles, its the main reason many people are struggling to walk with back, hip and knee pain.
 
 The earlier you look into this the better, you'll receive uncensored advice and individualized treatments that will save you a dime. 
-
-
 
 ### Author
 
