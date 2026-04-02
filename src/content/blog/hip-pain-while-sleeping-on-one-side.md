@@ -12,6 +12,10 @@ By morning, you're not rested… you're frustrated and most probably your back h
 
 You may also think its arthritis, you're getting old or maybe a its sciatica because of  lower back pain that you have been treating for so long. 
 
+## Why Hip Hurts When You Sleep On One Side
+
 If the pain is hyper-localized on the hard bony bump on the side of your hip and it gets worse when you lay on it your mattress is entirely innocent.
 
-The problem is your tendon from the gluteus medius muscle is inflammed and cannot allow you body weight on the prominence of the outer bone where it attaches.
+The problem is your tendon from the gluteus medius muscle is inflammed and cannot allow you body weight on the prominence of the outer bone where it attaches. 
+
+When persistent weight is exerted on the side of the hip the tiny fluid-filled sac protecting the bone gets crushed and this leads to more irritable pain.
