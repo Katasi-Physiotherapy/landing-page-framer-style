@@ -5,6 +5,7 @@ description: A deep, sharp, burning pain builds on the outside of your hip. It
   spreads down your thigh when asleep on one side.
 date: 2026-04-02T13:31:00.000+03:00
 category: Hip pain
+coverImage: /white-blue-physiotherapy-instagram-post-instagram-post-18-.png
 ---
 You finally get into bed after a long, exhausting day. You roll onto your favorite side to sleep… then it starts a deep, sharp, burning pain builds on the outside of your hip. It spreads down your thigh. You toss, turn, flip sides nothing helps.
 
