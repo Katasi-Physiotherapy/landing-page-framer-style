@@ -1,0 +1,575 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allProducts = await getCollection('products');
+
+const products = allProducts
+  .filter(p => p.data.active)
+  .sort((a, b) => (a.data.category ?? 'Other').localeCompare(b.data.category ?? 'Other'));
+
+const categories = [...new Set(products.map(p => p.data.category ?? 'Other'))];
+
+const phone = '254705717353';
+---
+
+<Layout
+  title="Shop"
+  description="Browse professional physiotherapy products — tapes, gels, supports, and exercise equipment. Order directly on WhatsApp."
+>
+  <!-- Hero -->
+  <section class="shop-hero section section--blue">
+    <div class="container">
+      <p class="shop-hero__label">Physio Shop</p>
+      <h1 class="shop-hero__title">
+        Products to support your <span class="accent-italic">recovery journey</span>
+      </h1>
+      <p class="shop-hero__subtitle">
+        Professional-grade physiotherapy products. Select your quantity and order directly on WhatsApp — we'll confirm and arrange delivery.
+      </p>
+      {categories.length > 0 && (
+        <div class="shop-hero__pills">
+          {categories.map(cat => (
+            <a
+              href={`#cat-${cat?.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}
+              class="category-pill"
+            >
+              {cat}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Products -->
+  <section class="shop-body section">
+    <div class="container">
+      {products.length === 0 ? (
+        <div class="shop-empty">
+          <p>No products listed yet — check back soon.</p>
+          <a
+            href={`https://wa.me/${phone}?text=${encodeURIComponent("Hi, I'd like to enquire about available physiotherapy products.")}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn btn--green"
+          >
+            Enquire on WhatsApp
+          </a>
+        </div>
+      ) : (
+        <>
+          {categories.map(cat => {
+            const catProducts = products.filter(p => (p.data.category ?? 'Other') === cat);
+            const catId = `cat-${cat?.toLowerCase().replace(/[^a-z0-9]+/g, '-') ?? 'other'}`;
+            return (
+              <div class="category-section" id={catId}>
+                <h2 class="category-section__title">{cat}</h2>
+                <div class="product-grid">
+                  {catProducts.map(product => (
+                    <div
+                      class:list={['product-card', { 'product-card--oos': !product.data.inStock }]}
+                      data-name={product.data.name}
+                      data-price={product.data.price}
+                      data-unit={product.data.unit}
+                      data-in-stock={product.data.inStock ? 'true' : 'false'}
+                    >
+                      <!-- Image -->
+                      <div class="product-card__img-wrap">
+                        {product.data.image ? (
+                          <img
+                            src={product.data.image}
+                            alt={product.data.name}
+                            class="product-card__img"
+                            loading="lazy"
+                          />
+                        ) : (
+                          <div class="product-card__img-placeholder" aria-hidden="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2" width="52" height="52">
+                              <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 3h1.386c.51 0 .955.343 1.087.835l.383 1.437M7.5 14.25a3 3 0 00-3 3h15.75m-12.75-3h11.218c1.121-2.3 2.1-4.684 2.924-7.138a60.114 60.114 0 00-16.536-1.84M7.5 14.25L5.106 5.272M6 20.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm12.75 0a.75.75 0 11-1.5 0 .75.75 0 011.5 0z" />
+                            </svg>
+                          </div>
+                        )}
+                        {!product.data.inStock && (
+                          <span class="oos-badge">Out of stock</span>
+                        )}
+                      </div>
+
+                      <!-- Info -->
+                      <div class="product-card__body">
+                        <h3 class="product-card__name">{product.data.name}</h3>
+                        {product.data.description && (
+                          <p class="product-card__desc">{product.data.description}</p>
+                        )}
+                        <p class="product-card__price">
+                          KES {product.data.price.toLocaleString('en-KE')}
+                          <span class="product-card__unit">/ {product.data.unit}</span>
+                        </p>
+
+                        <!-- Order controls -->
+                        {product.data.inStock ? (
+                          <div class="product-card__actions">
+                            <div class="qty-row">
+                              <span class="qty-label">Qty</span>
+                              <div class="qty-wrap">
+                                <button class="qty-btn qty-btn--minus" type="button" aria-label="Decrease quantity">−</button>
+                                <input
+                                  id={`qty-${product.slug}`}
+                                  class="qty-input"
+                                  type="number"
+                                  min="1"
+                                  max="99"
+                                  value="1"
+                                  aria-label="Quantity"
+                                />
+                                <button class="qty-btn qty-btn--plus" type="button" aria-label="Increase quantity">+</button>
+                              </div>
+                            </div>
+                            <a
+                              class="order-btn btn btn--green btn--full"
+                              href="#"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              aria-label={`Order ${product.data.name} on WhatsApp`}
+                            >
+                              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="18" height="18" aria-hidden="true">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                              </svg>
+                              Order on WhatsApp
+                            </a>
+                          </div>
+                        ) : (
+                          <div class="product-card__actions">
+                            <a
+                              class="btn btn--outline btn--full"
+                              href={`https://wa.me/${phone}?text=${encodeURIComponent(`Hi, I'm interested in *${product.data.name}*. Is it back in stock soon?`)}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              Notify me when back
+                            </a>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            );
+          })}
+        </>
+      )}
+    </div>
+  </section>
+
+  <!-- Bottom CTA -->
+  <section class="shop-cta section section--blue">
+    <div class="container shop-cta__inner">
+      <div>
+        <h2 class="shop-cta__title">Can't find what you need?</h2>
+        <p class="shop-cta__text">
+          We stock a wide range of physiotherapy products. Reach out and we'll help you find the right product for your recovery.
+        </p>
+      </div>
+      <a
+        href={`https://wa.me/${phone}?text=${encodeURIComponent("Hi, I'm looking for a physiotherapy product and need some guidance.")}`}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="btn btn--green"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+        </svg>
+        Chat on WhatsApp
+      </a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  /* ── Hero ── */
+  .shop-hero {
+    text-align: left;
+  }
+
+  .shop-hero__label {
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-green);
+    margin: 0 0 16px;
+  }
+
+  .shop-hero__title {
+    font-family: var(--font-heading);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.15;
+    color: var(--color-white);
+    margin: 0 0 20px;
+    max-width: 680px;
+  }
+
+  .shop-hero__subtitle {
+    font-size: 1.0625rem;
+    color: rgba(255, 255, 255, 0.75);
+    max-width: 560px;
+    margin: 0 0 32px;
+    line-height: 1.6;
+  }
+
+  .shop-hero__pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .category-pill {
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 999px;
+    border: 1.5px solid rgba(255, 255, 255, 0.3);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.85);
+    transition: all 0.2s ease;
+    text-decoration: none;
+  }
+
+  .category-pill:hover {
+    background: var(--color-green);
+    border-color: var(--color-green);
+    color: var(--color-text);
+    opacity: 1;
+  }
+
+  /* ── Shop body ── */
+  .shop-body {
+    background: var(--color-cream);
+  }
+
+  .shop-empty {
+    text-align: center;
+    padding: 80px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    color: var(--color-text-muted);
+    font-size: 1.125rem;
+  }
+
+  /* ── Category sections ── */
+  .category-section {
+    margin-bottom: 64px;
+    scroll-margin-top: 100px;
+  }
+
+  .category-section:last-child {
+    margin-bottom: 0;
+  }
+
+  .category-section__title {
+    font-family: var(--font-heading);
+    font-size: 1.375rem;
+    font-weight: 700;
+    color: var(--color-blue);
+    margin: 0 0 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  /* ── Product grid ── */
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+  }
+
+  /* ── Product card ── */
+  .product-card {
+    background: var(--color-cream-dark);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    box-shadow: var(--shadow-card);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-elevated);
+  }
+
+  .product-card--oos {
+    opacity: 0.75;
+  }
+
+  /* Image */
+  .product-card__img-wrap {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    background: var(--color-cream);
+  }
+
+  .product-card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .product-card:hover .product-card__img {
+    transform: scale(1.04);
+  }
+
+  .product-card__img-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.15);
+  }
+
+  .oos-badge {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: rgba(6, 85, 152, 0.85);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 999px;
+    backdrop-filter: blur(4px);
+  }
+
+  /* Body */
+  .product-card__body {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    flex: 1;
+  }
+
+  .product-card__name {
+    font-family: var(--font-heading);
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .product-card__desc {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    line-height: 1.55;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .product-card__price {
+    font-family: var(--font-heading);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-blue);
+    margin: 4px 0 0;
+  }
+
+  .product-card__unit {
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  /* Actions */
+  .product-card__actions {
+    margin-top: auto;
+    padding-top: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  /* Qty stepper */
+  .qty-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .qty-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-text-muted);
+    min-width: 24px;
+  }
+
+  .qty-wrap {
+    display: flex;
+    align-items: center;
+    border: 1.5px solid rgba(0, 0, 0, 0.12);
+    border-radius: 999px;
+    overflow: hidden;
+    height: 40px;
+    background: var(--color-white);
+  }
+
+  .qty-btn {
+    width: 40px;
+    height: 100%;
+    background: none;
+    border: none;
+    font-size: 1.125rem;
+    color: var(--color-text);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s ease;
+    user-select: none;
+    flex-shrink: 0;
+  }
+
+  .qty-btn:hover {
+    background: var(--color-cream);
+  }
+
+  .qty-btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+
+  .qty-input {
+    width: 48px;
+    height: 100%;
+    border: none;
+    border-left: 1.5px solid rgba(0, 0, 0, 0.1);
+    border-right: 1.5px solid rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 0.95rem;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    color: var(--color-text);
+    background: var(--color-white);
+    outline: none;
+    -moz-appearance: textfield;
+  }
+
+  .qty-input::-webkit-inner-spin-button,
+  .qty-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+  }
+
+  /* Buttons */
+  .btn--full {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    font-size: 0.9375rem;
+  }
+
+  .btn--outline {
+    font-size: 0.9375rem;
+    padding: 12px 24px;
+    border: 2px solid var(--color-blue);
+    color: var(--color-blue);
+    border-radius: var(--radius-xl);
+  }
+
+  /* ── Bottom CTA ── */
+  .shop-cta__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+
+  .shop-cta__title {
+    font-family: var(--font-heading);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--color-white);
+    margin: 0 0 12px;
+  }
+
+  .shop-cta__text {
+    color: rgba(255, 255, 255, 0.75);
+    max-width: 500px;
+    line-height: 1.6;
+  }
+
+  @media (max-width: 640px) {
+    .shop-cta__inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .shop-cta__inner .btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>
+
+<script define:vars={{ phone }}>
+  document.querySelectorAll('.product-card').forEach(card => {
+    if (card.dataset.inStock !== 'true') return;
+
+    const name = card.dataset.name;
+    const price = parseInt(card.dataset.price, 10);
+    const unit = card.dataset.unit;
+    const qtyInput = card.querySelector('.qty-input');
+    const minusBtn = card.querySelector('.qty-btn--minus');
+    const plusBtn = card.querySelector('.qty-btn--plus');
+    const orderBtn = card.querySelector('.order-btn');
+
+    function formatKES(n) {
+      return n.toLocaleString('en-KE');
+    }
+
+    function buildUrl() {
+      const qty = Math.max(1, parseInt(qtyInput.value, 10) || 1);
+      const total = price * qty;
+      const text = `Hi, I'd like to order *${qty} × ${name}* (KES ${formatKES(price)} per ${unit}).\nTotal: *KES ${formatKES(total)}*.\nPlease confirm availability.`;
+      return `https://wa.me/${phone}?text=${encodeURIComponent(text)}`;
+    }
+
+    function sync() {
+      const qty = Math.max(1, parseInt(qtyInput.value, 10) || 1);
+      qtyInput.value = qty;
+      minusBtn.disabled = qty <= 1;
+      orderBtn.href = buildUrl();
+    }
+
+    minusBtn.addEventListener('click', () => {
+      qtyInput.value = Math.max(1, (parseInt(qtyInput.value, 10) || 1) - 1);
+      sync();
+    });
+
+    plusBtn.addEventListener('click', () => {
+      qtyInput.value = Math.min(99, (parseInt(qtyInput.value, 10) || 1) + 1);
+      sync();
+    });
+
+    qtyInput.addEventListener('input', sync);
+    qtyInput.addEventListener('blur', sync);
+
+    sync();
+  });
+</script>

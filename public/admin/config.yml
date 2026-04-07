@@ -32,3 +32,32 @@ collections:
           media_library: { config: { multiple: false } },
         }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: products
+    label: Products
+    folder: "src/content/products"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: name
+    format: "frontmatter"
+    extension: "md"
+    fields:
+      - { label: "Product Name", name: "name", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - {
+          label: "Product Image",
+          name: "image",
+          widget: "image",
+          required: false,
+          media_library: { config: { multiple: false } },
+        }
+      - { label: "Unit Price (KES)", name: "price", widget: "number", value_type: "int", min: 0 }
+      - { label: "Unit Label", name: "unit", widget: "string", default: "unit", hint: "e.g. roll, tube, bottle, piece, pack" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        required: false
+        options: ["Tapes", "Gels & Creams", "Supports & Braces", "Exercise Equipment", "Other"]
+      - { label: "In Stock", name: "inStock", widget: "boolean", default: true }
+      - { label: "Active (visible on site)", name: "active", widget: "boolean", default: true }
+      - { label: "Additional Notes", name: "body", widget: "markdown", required: false }
