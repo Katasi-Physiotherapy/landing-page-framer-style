@@ -5,6 +5,7 @@ description: This back support cushion is designed to adapt to the natural curve
   most. The high-density memory foam responds to your body shape, helping
   maintain optimal spinal alignment and reducing strain on the lower back during
   prolonged sitting.
+image: /back-support.jpg.png
 price: 5000
 unit: unit
 category: Supports & Braces
