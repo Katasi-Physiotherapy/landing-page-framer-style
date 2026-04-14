@@ -7,7 +7,6 @@ description: Back pain is one of the most common health complaints among women
 date: 2026-04-14T13:46:00.000+03:00
 category: Back Pain
 ---
-
 If this sounds familiar, you’re not alone. You have tried all means to treat back pain a mother and yet no fixed solution yet. 
 
 Here is why, 
@@ -15,7 +14,6 @@ Here is why,
 The problem has never been addressed in detail, after delivery, your previous injury or episode..
 
 After trying pain killers, gym workouts, massage and even rest the pain keeps coming back. 
-
 
 Sometimes it spreads to your hips. Sometimes it settles deep in your pelvis.
 And sometimes… it never fully goes away. Here is what you are missing!
@@ -25,3 +23,24 @@ And sometimes… it never fully goes away. Here is what you are missing!
 Back pain in women is rarely just a “back problem.” In this case for women especially post-partum mothers, office workers and or women with sedentary lifestyles.
 
 The root cause is core abdominal muscle weakness that results to pelvic girdle instability and back pain.
+
+## The 'Core' Issue Here..
+
+Your core muscles are what is actually referred as abdominal muscles and they are key muscles in supporting the pelvis offering robust stability on the lower back. 
+
+The core muscles on everyone suffering of back pain include the following;
+
+1. Abdominal muscles (core).
+2. Pelvic floor (muscles inside the pelvis). 
+3. Lower back muscles.
+4. Other stabilizing muscles.
+
+Are usually affected in women after delivery or even with prolonged sitting these muscles become;
+
+* Weak.
+* Loose coordination.
+* Stop supporting your spine properly. 
+
+With this your back responds with alot of compensation from the muscles that causes pain.
+
+## What To Do
