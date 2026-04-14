@@ -47,3 +47,10 @@ With this your back responds with alot of compensation from the muscles that cau
 
 Just strengthen your Abs.. but its not just that by you doing say sit ups alone, No 
 you need guided physiotherapy assessment, targeted core stabilization exercises, pelvic alignment correction and gradual strengthening program.
+
+## Common Causes Of Back Pain In Women
+
+1. Post-natal changes.
+2. Sedentary office work.
+3. Daily lifestyle strain like carrying children, house chores or long standing.
+4. Previous history of sciatica.
