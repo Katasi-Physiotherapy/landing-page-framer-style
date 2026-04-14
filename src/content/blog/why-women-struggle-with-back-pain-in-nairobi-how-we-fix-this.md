@@ -54,3 +54,30 @@ you need guided physiotherapy assessment, targeted core stabilization exercises,
 2. Sedentary office work.
 3. Daily lifestyle strain like carrying children, house chores or long standing.
 4. Previous history of sciatica.
+
+## Signs You Need Help
+
+Don't ignore pain if;
+
+* Have persistent lower back pain.
+* Pain spreading to hips or legs.
+* Pelvic discomfort after delivery.
+* Pain that returns after temporary relief.
+* Difficulty sitting or standing for long.
+
+## The Solution Of Back Pain In Nairobi
+
+At **Katasi Physiotherapy Services**, we don’t guess, we assess, advice and educate on your case in person and on call.
+
+We help women:
+
+1. Identify the root cause of pain.
+2. Restore core strength safely.
+3. Eliminate recurring pain.
+4. Return to normal life pain-free.
+
+## Final Advice
+
+Back pain is not something you should **“manage.”**
+
+It’s something you can **fix with the right approach.**
