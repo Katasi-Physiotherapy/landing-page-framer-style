@@ -53,7 +53,7 @@ you need guided physiotherapy assessment, targeted core stabilization exercises,
 1. Post-natal changes.
 2. Sedentary office work.
 3. Daily lifestyle strain like carrying children, house chores or long standing.
-4. Previous history of sciatica.
+4. Previous history of[ sciatica](https://katasiphysiotherapy.co.ke/blog/sciatica-causes-treatment-physiotherapy/).
 
 ## Signs You Need Help
 
@@ -63,11 +63,11 @@ Don't ignore pain if;
 * Pain spreading to hips or legs.
 * Pelvic discomfort after delivery.
 * Pain that returns after temporary relief.
-* Difficulty sitting or standing for long.
+* Difficulty [sitting or standing](https://katasiphysiotherapy.co.ke/blog/back%20pain-standing-from-sitting/) for long.
 
 ## The Solution Of Back Pain In Nairobi
 
-At **Katasi Physiotherapy Services**, we don’t guess, we assess, advice and educate on your case in person and on call.
+At **[Katasi Physiotherapy Services](https://katasiphysiotherapy.co.ke/)**, we don’t guess, we assess, advice and educate on your case in person and on call.
 
 We help women:
 
@@ -81,3 +81,9 @@ We help women:
 Back pain is not something you should **“manage.”**
 
 It’s something you can **fix with the right approach.**
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
