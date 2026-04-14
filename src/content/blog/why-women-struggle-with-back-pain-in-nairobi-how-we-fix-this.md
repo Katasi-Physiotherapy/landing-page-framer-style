@@ -44,3 +44,6 @@ Are usually affected in women after delivery or even with prolonged sitting thes
 With this your back responds with alot of compensation from the muscles that causes pain.
 
 ## What To Do
+
+Just strengthen your Abs.. but its not just that by you doing say sit ups alone, No 
+you need guided physiotherapy assessment, targeted core stabilization exercises, pelvic alignment correction and gradual strengthening program.
