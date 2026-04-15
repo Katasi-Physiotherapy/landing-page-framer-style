@@ -17,4 +17,11 @@ Then this might be the **real problem you’ve not been told about.**
 
 ## Pelvis As Cause Of Lower Back & Hip Pain
 
-As an orthopedic physiotherapist, one of the most common things I see is that pain is not always coming from the place your are having it or feeling it.
+As an orthopedic physiotherapist, one of the most common things I see is that pain is not always coming from the place your are having it or feeling it. 
+
+So as much as you have hip pain or back pain it may not be a typical pain from this places and in most cases if you have done an X-ray or MRI for you will be told they are normal.
+
+Through my studies and clinical practice pain can be from the pelvis.
+
+
+Your pelvis acts as the **foundation of your spine,** when it is not moving well or is slightly misaligned your lower back over works
