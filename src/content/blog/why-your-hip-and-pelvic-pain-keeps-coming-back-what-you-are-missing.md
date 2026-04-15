@@ -8,4 +8,13 @@ date: 2026-04-15T17:00:00.000+03:00
 ---
 
 
-*
+Now you have done physiotherapy.. the pain is still there! 
+
+And maybe this sounds familiar; hip pain that keeps coming back, you feel pain when walking or turning in bed and lower back pain doesn't seem to fully go away.
+
+
+Then this might be the **real problem you’ve not been told about.**
+
+## Pelvis As Cause Of Lower Back & Hip Pain
+
+As an orthopedic physiotherapist, one of the most common things I see is that pain is not always coming from the place your are having it or feeling it.
