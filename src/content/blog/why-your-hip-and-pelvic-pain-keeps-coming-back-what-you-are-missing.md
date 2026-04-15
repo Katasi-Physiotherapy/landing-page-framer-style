@@ -1,5 +1,5 @@
 ---
-title: Why Your Hip and Pelvic Pain Keeps Coming Back - What You Are Missing!
+title: Hip, Back Pain Treatment In Nairobi - Physiotherapy You Are Missing!
 slug: hip-pelvic-pain-women
 description: If you’ve been struggling with nagging lower back pain that just
   won't go away, the culprit might not be your back at all. As an orthopedic
@@ -44,4 +44,15 @@ Usually many people present with;
 * Pain when walking standing.
 * Pain on one side of the hip.
 * Heavy feeling in the pelvis.
-* Lower back pain that won't go away after medical clearance from other conditions.
+* Lower back pain that won't go away after medical clearance from other conditions. 
+
+## Why Other Treatments Fail
+
+The truth is if the pelvis is not assessed properly, the real problem will be missed.
+
+You may stretch, strengthen, get temporary relief but if the joint mechanics are not corrected the pain will return.
+
+## Final Advice
+
+
+Stop managing pain. Start fixing the cause.
