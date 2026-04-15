@@ -25,3 +25,11 @@ Through my studies and clinical practice pain can be from the pelvis.
 
 
 Your pelvis acts as the **foundation of your spine,** when it is not moving well or is slightly misaligned your lower back over works, your hips compensate and pain keeps returning.
+
+And this is why general treatments don't last for long.
+
+## Why Pelvis?!
+
+1. Your pelvis controls the back, if it **tilts forward** your back arches too much when it does **tilts backwards** your spine flattens and both increase pressure on your back and joints.
+2. Your pelvic joints can be too "loose" or too "stiff", if they happen to be too loose which is common in women after pregnancy on the other hand stiffness is as a result of muscle spasm or muscle tightness.
+3.
