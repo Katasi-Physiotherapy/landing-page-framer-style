@@ -24,4 +24,4 @@ So as much as you have hip pain or back pain it may not be a typical pain from t
 Through my studies and clinical practice pain can be from the pelvis.
 
 
-Your pelvis acts as the **foundation of your spine,** when it is not moving well or is slightly misaligned your lower back over works
+Your pelvis acts as the **foundation of your spine,** when it is not moving well or is slightly misaligned your lower back over works, your hips compensate and pain keeps returning.
