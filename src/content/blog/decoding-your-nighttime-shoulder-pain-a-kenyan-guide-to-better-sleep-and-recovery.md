@@ -7,6 +7,7 @@ description: Waking up with shoulder pain? The location and nature of your
   all-around? Does movement or rotation trigger it?
 date: 2026-05-01T09:30:00.000+03:00
 category: Shoulder Pain
+coverImage: /shoulder-pain-at-night.jpg.png
 ---
 Are you constantly tossing and turning, struggling to find a comfortable position because of nagging shoulder pain? 
 
