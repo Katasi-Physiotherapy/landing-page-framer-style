@@ -14,7 +14,7 @@ You're not alone. Nighttime shoulder pain is a common and frustrating issue that
 
 But what if we told you that understanding where your pain is located could be the first crucial step towards finding lasting relief?
 
-At Katasi Physiotherapy, we understand the unique challenges Kenyans face, from busy work schedules (kazi) to daily activities that can strain our bodies. Our goal is to provide accessible and effective physiotherapy in Kenya that gets you back to living pain-free.
+At [Katasi Physiotherapy](https://katasiphysiotherapy.co.ke/), we understand the unique challenges Kenyans face, from busy work schedules (kazi) to daily activities that can strain our bodies. Our goal is to provide accessible and effective physiotherapy in Kenya that gets you back to living pain-free.
 
 ## The Power of Location: Pinpointing Your Shoulder Pain
 
@@ -51,7 +51,7 @@ While a clinical diagnosis is always necessary, some common conditions often lea
 4. **Frozen Shoulder (Adhesive Capsulitis):** A condition characterized by stiffness and pain in your shoulder joint, often worsening at night in its early stages.
 5. **Osteoarthritis:** Wear and tear of the cartilage in the shoulder joint, leading to pain and stiffness.
 
-## Why Choose Katasi Physiotherapy for Your Shoulder Pain?
+## Why Choose [Katasi Physiotherapy](https://katasiphysiotherapy.co.ke/) for Your Shoulder Pain?
 
 At Katasi Physiotherapy, we pride ourselves on being among the best physiotherapists in Nairobi. Our approach goes beyond just treating symptoms.
 
@@ -61,7 +61,7 @@ Our personalized treatment plans are designed to not only alleviate your current
 
 Don't let nighttime shoulder pain steal your sleep and limit your life. If you're experiencing persistent shoulder discomfort, especially at night, it's time to seek expert help. 
 
-Contact Katasi Physiotherapy today to schedule a consultation and take the first step towards a pain-free tomorrow. Your journey to better sleep and full shoulder mobility starts here.
+[Contact](https://katasiphysiotherapy.co.ke/contact/) Katasi Physiotherapy today to schedule a consultation and take the first step towards a pain-free tomorrow. Your journey to better sleep and full shoulder mobility starts here.
 
 ## Final Advice
 
