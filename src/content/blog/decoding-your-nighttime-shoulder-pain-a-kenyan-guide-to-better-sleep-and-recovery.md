@@ -65,7 +65,7 @@ Contact Katasi Physiotherapy today to schedule a consultation and take the first
 
 ## Final Advice
 
-Indentify the pain location on your shoulder, movements affected and referral pain pattern.
+Identify the pain location on your shoulder, movements affected and referral pain pattern.
 
 
 
@@ -74,3 +74,9 @@ Indentify the pain location on your shoulder, movements affected and referral pa
 Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+
+
+### *Disclaimer:* 
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
