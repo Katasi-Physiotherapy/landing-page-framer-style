@@ -8,6 +8,7 @@ description: Neck pain doesn’t just “show up”  It often builds silently un
   the neck out of alignment.
 date: 2026-05-04T09:59:00.000+03:00
 category: Neck Pain
+coverImage: /cervical-muscle-spasm.jpg.png
 ---
 Neck pain is a pervasive issue, often disrupting daily life and diminishing overall well-being. 
 
