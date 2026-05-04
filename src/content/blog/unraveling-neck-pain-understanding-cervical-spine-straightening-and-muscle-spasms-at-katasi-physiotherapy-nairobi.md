@@ -97,16 +97,20 @@ If you are experiencing neck pain, tight neck muscles, nerve pain, or have recei
 
 Contact Katasi Physiotherapy today to schedule a consultation and embark on your journey to a pain-free life. We are committed to helping you move without pain again.
 
-
-
 ### Author
 
 Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
 
 *BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
 
-
-
 ### *Disclaimer:*
 
 *This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
+
+### *References*
+
+* Radiopaedia. (2023). Straightening of the cervical lordosis. Available at: <https://radiopaedia.org/cases/straightening-of-the-cervical-lordosis>
+* NCBI. (2025). Documenting Cervical Spine Injuries Following Negative MRI Findings. Available at: <https://pmc.ncbi.nlm.nih.gov/articles/PMC12273891/>
+* Medscape. (2024). Cervical Myofascial Pain Treatment & Management. Available at: [https://emedicine.medscape.com/article/305937-treatment](https://emedicine.medscape.com/article/305937-treatment?form=fpf)
+* Healthline. (2024). Does Dry Needling Relieve Neck Pain?. Available at: <https://www.healthline.com/health/neck-pain/dry-needling-for-neck-pain>
+* Effectiveness of Dry Needling in Improving Pain and Function in Patients with Chronic Neck Pain: A Systematic Review and Meta-Analysis. Available at: <https://pmc.ncbi.nlm.nih.gov/articles/PMC10469395/>
