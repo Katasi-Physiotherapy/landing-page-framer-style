@@ -24,3 +24,25 @@ However, various factors can lead to a loss of this natural curve, resulting in 
 When a patient undergoes an MRI for neck pain, the report might indicate "loss of cervical lordosis" or "straightening of the cervical spine." It is important to understand that these MRI findings often reflect the body's immediate reaction to pain. 
 
 The muscles surrounding the cervical spine, can go into spasm to *guard* the injured or painful area. This sustained muscular contraction pulls the spine into a straighter alignment, which, while protective in the short term, can exacerbate **pain** and **stiffness** over time.
+
+## Living with Neck Pain
+
+Patients experiencing cervical spine straightening due to muscle spasm often describe a range of debilitating symptoms. 
+
+The most prominent is, of course, **neck pain**, which can vary from a dull ache to sharp, stabbing sensations. 
+
+This pain is frequently accompanied by a profound sense of tight neck muscles, making simple movements like turning the head or looking over the shoulder incredibly difficult and painful. 
+
+Many report a feeling of their head being **"heavy"** or disproportionately weighted, contributing to constant fatigue in the neck and shoulders.
+
+Beyond localized pain, the presence of tight muscles and muscle spasms can lead to the development of *trigger points*. These are hyperirritable spots within a taut band of muscle that can cause referred pain to other areas, such as *headaches*, *jaw pain*, or even pain radiating into the upper back. 
+
+When nerve roots in the cervical spine become irritated or compressed; sometimes due to the altered spinal mechanics from straightening. 
+
+Patients may experience nerve pain, characterized by **numbness, tingling, burning sensations, or weakness radiating down the arm** and into the **hand**. This can be particularly alarming and significantly impact daily activities.
+
+## Katasi Physiotherapy's Holistic Approach to Neck Pain Relief
+
+At Katasi Physiotherapy, we understand that effective treatment for cervical spine straightening and muscle spasms requires a multi-faceted approach. 
+
+Our expert orthopedic physiotherapists in Nairobi employ a combination of evidence-based techniques to address the root causes of pain, restore function, and empower patients to regain control over their health.
