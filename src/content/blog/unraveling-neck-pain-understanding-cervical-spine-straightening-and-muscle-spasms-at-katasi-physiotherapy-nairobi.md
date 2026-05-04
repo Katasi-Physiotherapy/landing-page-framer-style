@@ -46,3 +46,31 @@ Patients may experience nerve pain, characterized by **numbness, tingling, burni
 At Katasi Physiotherapy, we understand that effective treatment for cervical spine straightening and muscle spasms requires a multi-faceted approach. 
 
 Our expert orthopedic physiotherapists in Nairobi employ a combination of evidence-based techniques to address the root causes of pain, restore function, and empower patients to regain control over their health.
+
+This include and not limited to one of the following;
+
+1. ### Manual Therapy: Restoring Movement and Releasing Tension
+
+   Manual therapy is a cornerstone of our treatment philosophy. Our skilled orthopedic physiotherapists use **hands-on techniques** to mobilize stiff joints, improve spinal movement, and release tension in tight muscles. 
+
+   This includes: 
+
+   **Joint Mobilization:** Gentle, rhythmic movements applied to the cervical vertebrae to restore normal joint play and reduce stiffness.
+
+   **Soft Tissue Mobilization:** Techniques such as massage, myofascial release, and sustained pressure to lengthen tight muscles, break down adhesions, and improve blood flow.
+
+   These techniques are crucial for reducing the protective **muscle spasms** that contribute to cervical spine straightening, allowing the neck to gradually regain its natural curvature and mobility.
+2. ### Dry Needling: Targeting Trigger Points and Deep Muscle Spasms
+
+   For stubborn muscle tightness and active trigger points, **dry needling** is an exceptionally effective treatment modality offered at Katasi Physiotherapy. 
+
+   This technique involves inserting fine, sterile needles into specific trigger points or taut bands of muscle. The aim is to elicit a "twitch response," which helps to: 
+
+   **Deactivate Trigger Points:** Releasing the sustained contraction within the muscle fibers.
+
+   **Reduce Muscle Spasm:** Promoting relaxation in hyperactive muscles.
+
+   **Improve Blood Flow:** Enhancing nutrient delivery and waste removal from the affected area.
+
+   Dry needling can provide **faster rapid relief** from deep-seated muscle pain and is particularly beneficial for patients experiencing chronic neck pain and associated symptoms like headaches or radiating arm pain.
+3.
