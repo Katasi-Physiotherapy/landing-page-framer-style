@@ -1,5 +1,5 @@
 ---
-title: Tired of Neck & Shoulder Pain? Discover How Katasi Physiotherapy in
+title: Rotator Cuff Tear & Shoulder Pain? Discover How Katasi Physiotherapy in
   Nairobi Rebuilds Your Strength
 slug: nairobiphysiotherapy-shoulderpainrelief-nairobi-rotatorcuff-treatment-kenya,-orthopedic-physiotherapynairobi-shoulder-strengthexercises-physiotherapyclinicnairobi-neckpain-treatmentnairobi-shoulderinjuryrehabilitation-physicaltherapynairobi-elderlyshoulderpain
 description: Experiencing persistent neck and shoulder pain in Nairobi? Learn
