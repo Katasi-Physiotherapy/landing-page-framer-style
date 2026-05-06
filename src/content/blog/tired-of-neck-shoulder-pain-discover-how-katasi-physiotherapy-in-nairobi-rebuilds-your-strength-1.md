@@ -56,3 +56,23 @@ We focus on:
 2. Restoring Motion: Gently guiding your shoulder back to its full range of movement.
 3. Rebuilding Strength: Targeted exercises to strengthen your rotator cuff and surrounding muscles, preventing future injuries.
 4. Functional Recovery: Helping you return to your daily activities, hobbies, and work with confidence and renewed "shoulder power."
+
+## Final Advice
+
+Don't let shoulder pain hold you back. If you're experiencing discomfort or suspect a rotator cuff issue. 
+
+[Contact](https://katasiphysiotherapy.co.ke/contact/) Katasi Physiotherapy in Nairobi today. 
+
+Let us be your partner in rebuilding your strength and unlocking your full potential.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
