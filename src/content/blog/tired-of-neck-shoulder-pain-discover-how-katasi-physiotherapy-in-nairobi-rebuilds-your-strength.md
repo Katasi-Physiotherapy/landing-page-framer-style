@@ -36,3 +36,14 @@ When your neck and shoulder muscles get tired or out of balance, that smooth tea
 * Limited Movement - Finding everyday tasks like carrying groceries or playing with your kids harder than they should be.
 
 This isn't just discomfort; it's your body telling you that its natural power system isn't working efficiently. One muscle group might be overworking, while another is underperforming, leading to a cycle of **pain** and **weakness**.
+
+## Katasi Physiotherapy: Rebuilding Your Body's Power System in Nairobi
+
+At Katasi Physiotherapy, located conveniently in Westlands, Nairobi, we understand this intricate connection. Our expert orthopedic physiotherapists go beyond quick fixes.
+
+We assess how your neck and shoulders work together to identify the root cause of your discomfort. We focus on:
+
+1. Restoring Balance - We use targeted exercises and hands-on techniques to re-educate your muscles, ensuring they work as a cohesive team again.
+2. Enhancing Stability - By strengthening the core muscles that support your neck and shoulder blades, we build a strong foundation for all your movements.
+3. Improving Movement - We help you regain full, pain-free range of motion, making daily activities and sports enjoyable again.
+4. Preventing Future Issues - We equip you with the knowledge and tools to maintain your body's power system, preventing recurring pain and stiffness.
