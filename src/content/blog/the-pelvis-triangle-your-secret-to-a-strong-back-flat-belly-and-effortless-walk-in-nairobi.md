@@ -47,3 +47,21 @@ Let's introduce the three protagonists of this vital triangle, each with a speci
 * The third is the transverse abdominis, the deep muscular belt that wraps around your torso with horizontal fibers. 
 * Unlike the other two, the transverse doesn't pull the pelvis in any specific direction; its role is to stabilize it.
 * It holds the pelvis steady while the gluteus and psoas pull in opposite directions. Simultaneously, it creates the internal pressure that supports your spinal column from the inside out.
+
+When all three are in balance, your pelvis rests in a neutral position. Your back maintains its natural, healthy curve, your abdomen is contained and supported, and every movement feels fluid and effortless.
+
+## Why the 'Pelvic Triangle' Breaks
+
+The trouble is that modern life is essentially a training program designed to overwork just one of these three muscles: the **psoas**. 
+
+Hours spent sitting on the couch, driving in the car, or hunched over a desk cause the psoas to *shorten*. Gradually, it becomes increasingly dominant, while the other two muscles slowly *"switch off."*
+
+This is what happens;
+
+**The Gluteus Shuts Down**
+
+* It's never *called upon* to work. Hours spent with the gluteus crushed and inactive lead the brain to stop "remembering" to activate it effectively.
+
+**The Transverse Turns Off** 
+
+* Why?! Because nothing in a sedentary day stimulates it. A sedentary lifestyle never asks it to contract and stabilize.
