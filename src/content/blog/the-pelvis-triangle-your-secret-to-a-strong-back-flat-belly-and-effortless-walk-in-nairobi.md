@@ -65,3 +65,28 @@ This is what happens;
 **The Transverse Turns Off** 
 
 * Why?! Because nothing in a sedentary day stimulates it. A sedentary lifestyle never asks it to contract and stabilize.
+
+At this point, the psoas wins the tug-of-war without any opposition, and the pelvis loses its balance.
+
+## The Domino Effect: When the Psoas Wins
+
+Let's examine what happens when this balance is lost. The shortened psoas pulls the pelvis forward. 
+
+The "switched off" gluteus cannot counter this pull, and the weak transverse fails to stabilize the structure. 
+
+The pelvis tilts forward, much like a tipping bowl. And you feel the consequences everywhere that include;
+
+**The toll on your back**
+
+* The lumbar curve becomes exaggerated, and the spinal discs are compressed. That stiffness you feel after sitting for a while and then standing up is often exactly this: the shortened psoas keeping your spine tense, and the gluteus failing to "open" your hip when you stand. 
+* It's akin to a car running solely on the starter motor because the main engine is off. Technically, it moves, but everything is under immense stress.
+
+**The strain on your pelvic floor**
+
+* The abdominal contents slide forward into the tilted "bowl" of the pelvis, and the weak transverse abdominis cannot hold them back. 
+* The lower part of the abdomen protrudes, especially below the belly button. No diet will change this because it's not fat; it's the container itself that has tilted and is no longer containing its contents effectively.
+
+**The change in your walk**
+
+* The gluteus, which should be the primary engine of every step, is essentially turned off. 
+* Consequently, the lumbar spine compensates for every step you take. You walk, but you are walking with your back instead of with your glutes, leading to fatigue and pain.
