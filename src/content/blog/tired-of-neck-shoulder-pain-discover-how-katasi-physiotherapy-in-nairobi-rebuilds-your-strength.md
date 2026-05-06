@@ -7,6 +7,7 @@ description: Expert physiotherapy for neck and shoulder pain in Nairobi. Katasi
   and posture correction. Book your consultation today
 date: 2026-05-06T09:53:00.000+03:00
 category: Neck Pain & Shoulder Pain
+coverImage: /physiotherapist-assessing-nack-shoulder-pain.jpg.png
 ---
 Ever wonder why that nagging neck pain just won't quit, or why your shoulders feel constantly stiff? 
 
