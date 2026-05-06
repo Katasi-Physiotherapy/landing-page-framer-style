@@ -30,3 +30,14 @@ Sometimes, these vital muscles and their tendons can face a challenge, a **tear*
 One of the most common causes of persistent shoulder pain is a tear in one or more of these rotator cuff tendons. While it can affect any of the six, tears most frequently occur in the upper tendon of the shoulder. 
 
 This injury can range from a partial fraying to a complete detachment, leading to significant pain, weakness, and restricted movement.
+
+## Why Do Rotator Cuff Tears Happen?
+
+While injuries can cause a tear, they are particularly prevalent among the elderly population. 
+
+This is often due to a combination of factors:
+
+* **Irritation:** Repetitive motions or sustained overhead activities can irritate the tendons over time.
+* **Wear and Tear:** Just like any other part of the body, tendons can naturally degenerate and weaken with age, making them more susceptible to tearing.
+
+This age-related wear and tear means that what might seem like a minor strain to a younger individual could result in a more significant injury for someone older.
