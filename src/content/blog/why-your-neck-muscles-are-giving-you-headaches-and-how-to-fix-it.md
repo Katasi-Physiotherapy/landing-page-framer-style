@@ -105,11 +105,7 @@ Here's the good news: **this is fixable.** Really fixable. We've helped hundre
 
 The key is addressing the actual problem, your tight neck muscles and dysfunctional neck joints, not just masking the pain with medication.
 
-
-
 ## Our Treatment Approach
-
-
 
 ### 1. We Find the Problem
 
@@ -140,3 +136,27 @@ We also help you set up your workspace properly so you're not fighting your envi
 ### 5. We Teach You Prevention
 
 Once your headaches are gone, we make sure they stay gone. We give you exercises to do at home, stretches to perform daily, and habits to maintain so you never have to deal with this again.
+
+## Final Advice
+
+If you're experiencing persistent headaches, especially ones that feel like they're coming from your neck, don't just accept them as part of life. They're not. They're your body's way of telling you something needs to change.
+
+The good news? With proper physiotherapy, the right exercises, and some lifestyle adjustments, you can get rid of these headaches for good. 
+
+No more reaching for painkillers. No more suffering through your workday. Just relief.
+
+We've seen it happen hundreds of times, and it can happen for you too.
+
+[Just Call Us..](https://katasiphysiotherapy.co.ke/contact/)
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Contact](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
