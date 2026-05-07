@@ -51,3 +51,28 @@ This sustained tension is a recipe for headaches.
 That pillow that's too high? The one you've had for five years? It's probably contributing to your headaches. 
 
 Your neck spends 8 hours in a twisted, uncomfortable position every night. No wonder it's angry with you.
+
+## How Do You Know It's Your Neck?
+
+Not all headaches are created equal. Here's how to tell if your neck is the culprit:
+
+* **The pain is one-sided**
+
+   and always on the same side (not bouncing between left and right)
+* **It starts at the back of your head**
+
+   and sometimes radiates forward toward your eye
+* **Your neck feels stiff**
+
+   when the headache shows up
+* **Turning your head**
+
+   or looking down makes it worse
+* **Massaging your neck**
+
+   gives you temporary relief
+* **It's worse after long periods**
+
+   at your desk or on your phone
+
+If most of these sound like you, congratulations you've probably figured out why you have headaches!
