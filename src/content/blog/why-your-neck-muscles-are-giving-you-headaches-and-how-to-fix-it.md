@@ -76,3 +76,67 @@ Not all headaches are created equal. Here's how to tell if your neck is the culp
    at your desk or on your phone
 
 If most of these sound like you, congratulations you've probably figured out why you have headaches!
+
+## The Anatomy (Explained Simply)
+
+Let me break down what's actually happening in your neck without getting too technical:
+
+Your neck has several muscles that can cause trouble. The big ones are:
+
+* **Upper Trapezius:**
+
+   The muscle at the top of your shoulders. When it's tight, it pulls on your neck and creates tension that radiates up into your head.
+* **Sternocleidomastoid:**
+
+   This muscle runs from behind your ear to your collarbone. When it gets tight, it can refer pain directly to your head and temples.
+* **Suboccipital Muscles:**
+
+   These tiny muscles at the base of your skull are super sensitive. Even slight tension here can trigger significant headache pain.
+
+When these muscles develop trigger points and stay tight, they irritate the nerves in your neck. 
+
+These nerves connect directly to the pain-processing center in your brain, which interprets the signals as a **headache**.
+
+**✓ Pro Tip:** Your brain doesn't actually know where the pain is coming from. It just knows there's a pain signal coming from your neck region, so it interprets it as a headache. Sneaky, right?
+
+## How Katasi Physiotherapy Fixes This
+
+Here's the good news: **this is fixable.** Really fixable. We've helped hundreds of people get rid of neck headaches completely.
+
+The key is addressing the actual problem, your tight neck muscles and dysfunctional neck joints, not just masking the pain with medication.
+
+
+
+## Our Treatment Approach
+
+
+
+### 1. We Find the Problem
+
+First, we do a thorough assessment. 
+
+We check your neck's movement, feel for trigger points, evaluate your posture, and figure out exactly what's causing your headaches. 
+
+This isn't a generic treatment, it's specific to YOUR problem.
+
+### 2. We Release the Tension
+
+Using techniques like **dry needling**, manual therapy, and trigger point release, we help your tight muscles actually relax. 
+
+Many patients feel relief after just one or two sessions.
+
+### 3. We Strengthen What's Weak
+
+Weak neck muscles can't support your spine properly, so other muscles have to work overtime. 
+
+We teach you specific exercises to strengthen your deep neck stabilizers. This prevents your headaches from coming back.
+
+### 4. We Fix Your Posture
+
+We show you how to sit, stand, and work in a way that doesn't overload your neck muscles. 
+
+We also help you set up your workspace properly so you're not fighting your environment all day.
+
+### 5. We Teach You Prevention
+
+Once your headaches are gone, we make sure they stay gone. We give you exercises to do at home, stretches to perform daily, and habits to maintain so you never have to deal with this again.
