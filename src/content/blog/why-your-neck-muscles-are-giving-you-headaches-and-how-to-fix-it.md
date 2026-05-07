@@ -37,3 +37,17 @@ For every inch your head moves forward, your neck muscles have to work **10 time
 Looking down at your phone for hours? Same problem. This "tech neck" posture is absolutely brutal on your neck muscles. 
 
 Commuting on a matatu? Phone in hand. Coffee break? Phone. Dinner? Phone. Your poor neck never gets a break.
+
+### 🚗 Traffic Stress
+
+Nairobi traffic is stressful. When you're stressed, your muscles tense up automatically. 
+
+Your shoulders hunch, your neck tightens, and you're gripping the steering wheel like it owes you money. 
+
+This sustained tension is a recipe for headaches.
+
+### 😴 Bad Sleep Position
+
+That pillow that's too high? The one you've had for five years? It's probably contributing to your headaches. 
+
+Your neck spends 8 hours in a twisted, uncomfortable position every night. No wonder it's angry with you.
