@@ -17,7 +17,7 @@ When one of these gets injured, it's what we commonly call a torn meniscus, and 
 
 Whether you're an active Nairobi resident, a dedicated athlete, or just someone living your daily life, understanding what's going on with your meniscus is the first crucial step towards feeling better.
 
-## So, What Kind of Meniscus Tear Do You Have? Let's Break Down the Grades
+## So, What Kind of Meniscus Tear Do We Have? Let's Break Down the Grades
 
 When you get an MRI, your doctor might talk about different grades of meniscus tears. It can sound a bit technical, but let me simplify it for you. 
 
@@ -30,3 +30,19 @@ These grades are basically how we classify the severity of the tear, usually see
    The damage has gone all the way through to the surface of the meniscus. This is usually when things get really uncomfortable, significant pain, swelling, and sometimes your knee might even lock up or feel like it's giving way. 
 
    Grade 3 tears can come in different shapes and sizes (like longitudinal, radial, or even a "bucket-handle" tear), and the specific type helps us decide the best way forward for your treatment.
+
+## How Did This Happen? Common Knee Injury Scenarios in Our Nairobi Lives
+
+It's easy to think knee injuries only happen to professional athletes, but the truth is, a meniscus tear can affect anyone. 
+
+Living in a dynamic city like Nairobi, with its mix of active lifestyles and everyday hustle, we see these injuries pop up in various ways:
+
+* **On the Pitch or Court:** If you're passionate about football, whether it's a friendly match at Camp Toyoyo or a more competitive league, or if rugby and basketball are your game, sudden twists, pivots, and quick changes in direction are common culprits. 
+
+  Even a rigorous gym session or a misstep during your morning run can put unexpected stress on your knee.
+* **Exploring Our Beautiful Outdoors:** Kenya offers incredible opportunities for hiking, from the scenic Ngong Hills to the challenging trails of Mt. Longonot or even a leisurely walk through Karura Forest. 
+
+  But uneven terrain, a sudden slip, or an awkward landing can cause your knee to twist in just the wrong way, leading to a meniscus tear.
+* **The Daily Grind in Nairobi:** Sometimes, it's the simplest things. 
+
+  A slip on a wet pavement during our rainy season, stepping into an unseen pothole while navigating the CBD, or even an unexpected jolt or twist getting in or out of a matatu, these everyday moments can unfortunately lead to a meniscus injury.
