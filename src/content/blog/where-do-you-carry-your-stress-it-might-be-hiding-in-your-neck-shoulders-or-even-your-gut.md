@@ -24,3 +24,17 @@ Some feel it in their stomach, experiencing a "running stomach" like a student b
 Others feel it in their lower back, a heavy, persistent ache. As an orthopedic physiotherapist, this connection between our emotional state and physical pain is not just fascinating; it's incredibly important. 
 
 It's a key reason why so many people in Nairobi, and across Kenya, experience chronic muscle and joint pain, from constant tension along their spine to debilitating neck pain. And it's something we absolutely need to talk about.
+
+## How Stress Physically Manifests in Your Body
+
+It's not just in your head, stress truly impacts your body. When you're under pressure, your body instinctively shifts into "fight or flight" mode. This isn't just a feeling; it's a physiological response. 
+
+Your body releases hormones like cortisol and adrenaline, which are designed to prepare you for immediate danger. Part of this preparation involves your muscles tensing up, ready for action.
+
+Now, imagine living in Nairobi, with its vibrant energy, demanding work schedules, and sometimes challenging commutes. If this "fight or flight" response is constantly triggered by daily stressors , traffic on Waiyaki Way, tight deadlines in the CBD, or even just the general hustle, your muscles stay tense. 
+
+This prolonged tension isn't harmless. It reduces blood flow, irritates nerves, and puts undue pressure on your joints, leading to that nagging pain you just can't shake .
+
+This phenomenon, where psychological distress shows up as physical symptoms, is called somatization. 
+
+It's far more common than you might think, with studies showing that a significant portion of people with chronic pain also experience somatization.
