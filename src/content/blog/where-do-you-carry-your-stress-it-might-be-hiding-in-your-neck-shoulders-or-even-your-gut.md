@@ -42,7 +42,7 @@ It's far more common than you might think, with studies showing that a significa
 
 ## So, Where Does Your Stress Go?
 
-Neck and Shoulders: The Weight of the World. Just like my patient, and even myself, many people literally "carry the weight of the world" on their shoulders. This is often linked to anxiety, worry, and feeling overwhelmed. That persistent stiffness and ache in your upper back and neck? It could be your body's way of telling you to lighten your load.
+Neck and Shoulders: The Weight of the World. Just like my client, and even myself, many people literally "carry the weight of the world" on their shoulders. This is often linked to anxiety, worry, and feeling overwhelmed. That persistent stiffness and ache in your upper back and neck? It could be your body's way of telling you to lighten your load.
 
 1. **The Gut Feeling:** Stress in Your Stomach. Ever felt your stomach churn before a big presentation or during a stressful period? 
 
