@@ -6,6 +6,7 @@ description: It's easy to think knee injuries only happen to professional
   athletes, but the truth is, a meniscus tear can affect anyone.
 date: 2026-05-08T14:30:00.000+03:00
 category: Knee Pain
+coverImage: /meniscus-knee-injury.jpg.png
 ---
 ## Ever Wondered What Your Knee's Meniscus Actually Does?
 
