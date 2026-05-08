@@ -47,7 +47,7 @@ Neck and Shoulders: The Weight of the World. Just like my client, and even mysel
 1. **The Gut Feeling:** Stress in Your Stomach. Ever felt your stomach churn before a big presentation or during a stressful period? 
 
    You're not alone. The "gut-brain axis" is a powerful connection, and stress can manifest as digestive issues, from a nervous stomach to more chronic discomfort.
-2. **Lower Back:** The Foundation Under Pressure. For others, stress settles in the lower back. 
+2. **[Lower Back](https://katasiphysiotherapy.co.ke/blog/back-pain-standing-from-sitting/):** The Foundation Under Pressure. For others, stress settles in the lower back. 
 
    This can sometimes be linked to feelings of instability, lack of support, or financial worries. It's your body signaling that its foundation is under strain.
 3. [**Headaches:** ](https://katasiphysiotherapy.co.ke/blog/neck-headache-muscle-tightness/)The Pressure Cooker. My own experience with stress-induced headaches is a classic example. 
