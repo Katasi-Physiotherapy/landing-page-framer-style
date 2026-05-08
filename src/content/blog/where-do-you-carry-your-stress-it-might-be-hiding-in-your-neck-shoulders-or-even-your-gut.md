@@ -8,7 +8,7 @@ coverImage: /muscle-stress-pain.jpg.png
 ---
 ## A Realization from the Treatment Table: It All Starts with Stress
 
-Just the other day, while I was working with a client at Katasi Physiotherapy in Westlands, a thought struck me. 
+Just the other day, while I was working with a client at [Katasi Physiotherapy](https://katasiphysiotherapy.co.ke/) in Westlands, a thought struck me. 
 
 We were addressing her persistent [shoulder](https://katasiphysiotherapy.co.ke/blog/nighttime-shoulderpain-physiotherap-shoulder-injury/) and neck tension, and I remembered another client, struggling with a meniscus tear, whose pain levels were incredibly high, coupled with deep worry.
 
