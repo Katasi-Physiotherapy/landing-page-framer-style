@@ -77,3 +77,13 @@ Here's a glimpse into how we typically guide you through your meniscus injury re
    We'll work on sport-specific drills, agility training, and plyometrics. 
 
    Our goal is to ensure your knee is not just recovered, but stronger and more resilient than before, so you can return to your passions with confidence.
+
+## Don't Let a Meniscus Injury Keep You on the Sidelines. Let's Get You Moving Again!
+
+A meniscus injury can feel like a huge setback, but it doesn't have to define your life. 
+
+With the right diagnosis, a personalized, evidence-based physiotherapy program, and the unwavering support of the Katasi Physiotherapy team, you can absolutely regain full function, significantly reduce your pain, and confidently get back to doing all the things you love. 
+
+Don't wait, reach out to us today and let's start your journey back to a pain-free, active life.
+
+Just Call Us Now!
