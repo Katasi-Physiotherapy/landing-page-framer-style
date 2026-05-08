@@ -1,7 +1,7 @@
 ---
 title: Where Do You Carry Your Stress? It Might Be Hiding in Your Neck,
   Shoulders, or Even Your Gut!
-slug: stress-muscle-pain
+slug: stress-muscle-pain-joint
 date: 2026-05-04T08:57:00.000+03:00
 category: Pain
 ---
