@@ -1,7 +1,7 @@
 ---
 title: "The Pelvis Triangle: Your Secret to a Strong Back, Flat Belly, and
   Effortless Walk in Nairobi"
-slug: glutes-psoas-pelvictriangle-backpain
+slug: glutes-psoas-pelvictriangle-backpain-1
 description: Discover the powerful connection between your muscles such as
   glutes, psoas, and transverse abdominis. Learn how rebalancing this 'Pelvis
   Triangle' at Katasi Physiotherapy in Nairobi can eliminate back pain, flatten
