@@ -4,7 +4,7 @@ title: Where Do You Carry Your Stress? It Might Be Hiding in Your Neck,
 slug: stress-muscle-pain-joint
 date: 2026-05-08T16:34:00.000+03:00
 category: Pain
-coverImage: /stress_pain_nairobi.png
+coverImage: /muscle-stress-pain.jpg.png
 ---
 ## A Realization from the Treatment Table: It All Starts with Stress
 
