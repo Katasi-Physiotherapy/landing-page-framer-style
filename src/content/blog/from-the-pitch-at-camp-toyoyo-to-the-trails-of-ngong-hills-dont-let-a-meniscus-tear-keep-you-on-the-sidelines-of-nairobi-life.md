@@ -86,4 +86,16 @@ With the right diagnosis, a personalized, evidence-based physiotherapy program, 
 
 Don't wait, reach out to us today and let's start your journey back to a pain-free, active life.
 
-Just Call Us Now!
+[Just Call Us Now!](https://katasiphysiotherapy.co.ke/contact/)
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
