@@ -95,3 +95,11 @@ What makes Katasi Physiotherapy stand out in Nairobi?
 2. **Expertise You Can Trust:** Our physiotherapists are not only highly qualified but also deeply empathetic, committed to providing the most effective, evidence-based care.
 3. **Modern Techniques, Proven Results:** We combine cutting-edge techniques with a deep understanding of human physiology to deliver lasting relief.
 4. **Relatable & Understanding:** We live and work in Nairobi too. We understand the unique pressures and lifestyle that can contribute to your pain, and we're here to help you navigate them.
+
+## Don't Let Stress Be Your Silent Pain Partner. Let's Talk
+
+If you're constantly battling unexplained neck pain, shoulder tension, headaches, or backaches, and you suspect stress might be playing a role, it's time to seek help. You don't have to carry that burden alone. 
+
+At Katasi Physiotherapy, we're ready to help you understand your pain, release the tension, and empower you to live a healthier, more balanced life. 
+
+Contact us today in Westlands, Nairobi, and let's start your journey to a pain-free existence
