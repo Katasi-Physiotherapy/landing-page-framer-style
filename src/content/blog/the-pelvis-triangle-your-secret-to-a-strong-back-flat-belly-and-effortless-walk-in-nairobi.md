@@ -9,6 +9,7 @@ description: Discover the powerful connection between your muscles such as
   orthopedic physiotherapy in Kenya.
 date: 2026-05-04T08:40:00.000+03:00
 category: "The Pelvis "
+coverImage: /pelvis_triangle_anatomy.jpg.png
 ---
 ## The Pelvis Secret to a Pain-Free Back, Flat Belly & Effortless Walking
 
