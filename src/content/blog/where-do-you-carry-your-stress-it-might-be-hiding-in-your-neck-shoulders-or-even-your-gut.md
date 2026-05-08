@@ -10,7 +10,7 @@ coverImage: /muscle-stress-pain.jpg.png
 
 Just the other day, while I was working with a client at Katasi Physiotherapy in Westlands, a thought struck me. 
 
-We were addressing her persistent shoulder and neck tension, and I remembered another client, struggling with a meniscus tear, whose pain levels were incredibly high, coupled with deep worry.
+We were addressing her persistent [shoulder](https://katasiphysiotherapy.co.ke/blog/nighttime-shoulderpain-physiotherap-shoulder-injury/) and neck tension, and I remembered another client, struggling with a meniscus tear, whose pain levels were incredibly high, coupled with deep worry.
 
 It made me ask my current patient, "How do you cope with stress?" Her answer was immediate and insightful: "I carry it on my shoulders and neck." I admit, I chuckled a bit, thinking it was a figure of speech. 
 
@@ -28,7 +28,7 @@ It's a key reason why so many people in Nairobi, and across Kenya, experience ch
 
 ## How Stress Physically Manifests in Your Body
 
-It's not just in your head, stress truly impacts your body. When you're under pressure, your body instinctively shifts into "fight or flight" mode. This isn't just a feeling; it's a physiological response. 
+It's not just in your head, stress truly impacts your body. When you're under pressure, your body instinctively shifts into **"fight or flight"** mode. This isn't just a feeling; it's a physiological response. 
 
 Your body releases hormones like cortisol and adrenaline, which are designed to prepare you for immediate danger. Part of this preparation involves your muscles tensing up, ready for action.
 
@@ -42,7 +42,7 @@ It's far more common than you might think, with studies showing that a significa
 
 ## So, Where Does Your Stress Go?
 
-Neck and Shoulders: The Weight of the World. Just like my client, and even myself, many people literally "carry the weight of the world" on their shoulders. This is often linked to anxiety, worry, and feeling overwhelmed. That persistent stiffness and ache in your upper back and neck? It could be your body's way of telling you to lighten your load.
+Neck and Shoulders: The Weight of the World. Just like my client, and even myself, many people literally "carry the weight of the world" on their shoulders. This is often linked to anxiety, worry, and feeling overwhelmed. That persistent stiffness and ache in your upper back and [neck](https://katasiphysiotherapy.co.ke/blog/cervical-spine-muscle-spasm-physiotherapy/)? It could be your body's way of telling you to lighten your load.
 
 1. **The Gut Feeling:** Stress in Your Stomach. Ever felt your stomach churn before a big presentation or during a stressful period? 
 
@@ -50,7 +50,7 @@ Neck and Shoulders: The Weight of the World. Just like my client, and even mysel
 2. **Lower Back:** The Foundation Under Pressure. For others, stress settles in the lower back. 
 
    This can sometimes be linked to feelings of instability, lack of support, or financial worries. It's your body signaling that its foundation is under strain.
-3. **Headaches:** The Pressure Cooker. My own experience with stress-induced headaches is a classic example. 
+3. [**Headaches:** ](https://katasiphysiotherapy.co.ke/blog/neck-headache-muscle-tightness/)The Pressure Cooker. My own experience with stress-induced headaches is a classic example. 
 
    Tensed muscles in the neck and scalp can lead directly to tension headaches, making your head feel like it's in a vice.
 
@@ -70,7 +70,7 @@ At Katasi Physiotherapy in Westlands, we understand that pain is rarely just phy
 
 We pride ourselves on being more than just a clinic that treats symptoms. Our approach is holistic, evidence-based, and deeply personal. 
 
-We don't just look at your X-rays or MRI; we listen to your story, understand your lifestyle, and recognize the invisible burdens you might be carrying.
+We don't just look at your [X-rays or MRI;](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/) we listen to your story, understand your lifestyle, and recognize the invisible burdens you might be carrying.
 
 We then craft a personalized treatment plan that goes beyond simple exercises:
 
