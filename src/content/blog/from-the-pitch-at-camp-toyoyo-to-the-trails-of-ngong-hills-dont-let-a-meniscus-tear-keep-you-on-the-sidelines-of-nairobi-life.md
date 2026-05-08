@@ -46,3 +46,34 @@ Living in a dynamic city like Nairobi, with its mix of active lifestyles and eve
 * **The Daily Grind in Nairobi:** Sometimes, it's the simplest things. 
 
   A slip on a wet pavement during our rainy season, stepping into an unseen pothole while navigating the CBD, or even an unexpected jolt or twist getting in or out of a matatu, these everyday moments can unfortunately lead to a meniscus injury.
+
+## Your Recovery Journey: The Katasi Physiotherapy Difference in Westlands
+
+At Katasi Physiotherapy in Westlands, Nairobi, we don't just look at your MRI scan; we look at you. 
+
+Our philosophy is all about getting you back to moving without pain, restoring your strength, and rebuilding your confidence.
+
+This means your treatment plan isn't generic; it's meticulously tailored to your specific injury, your lifestyle, and your personal recovery goals.
+
+Here's a glimpse into how we typically guide you through your meniscus injury recovery:
+
+1. **Phase 1:** Calming Things Down & Protecting Your Knee. When you first come to us, especially if you're in pain and swollen, our priority is to settle things down. 
+
+   We'll use strategies like modified RICE (Rest, Ice, Compression, Elevation), gentle hands-on techniques to ease stiffness, and other modalities to reduce inflammation. 
+
+   Think of it as creating the perfect environment for your knee to start healing.
+2. **Phase 2:** Getting Your Movement Back & Gentle Strengthening. As the pain starts to subside, we'll gradually introduce exercises to help you regain your full knee movement. 
+
+   This includes carefully guided stretches and early strengthening exercises, like simple quadriceps contractions and straight leg raises. 
+
+   We ensure every step is controlled and safe, building a solid foundation.
+3. **Phase 3:** Building Strength & Stability for Everyday Life. This is where we really start to rebuild your knee's resilience. 
+
+   We'll progress to more functional movements, think squats, lunges, and step-ups. Crucially, we'll also incorporate proprioception (your body's awareness of its position in space) training using tools like balance boards. 
+
+   This re-educates your knee, making it smarter and more stable, which is key to preventing future injuries.
+4. **Phase 4:** Back to What You Love, Stronger Than Before! For those of you eager to get back to sports or demanding activities, this final phase is all about preparing your knee for those specific challenges. 
+
+   We'll work on sport-specific drills, agility training, and plyometrics. 
+
+   Our goal is to ensure your knee is not just recovered, but stronger and more resilient than before, so you can return to your passions with confidence.
