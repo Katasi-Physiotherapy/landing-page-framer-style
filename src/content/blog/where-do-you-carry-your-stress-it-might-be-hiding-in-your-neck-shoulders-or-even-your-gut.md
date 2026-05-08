@@ -8,9 +8,9 @@ coverImage: /muscle-stress-pain.jpg.png
 ---
 ## A Realization from the Treatment Table: It All Starts with Stress
 
-Just the other day, while I was working with a patient at Katasi Physiotherapy in Westlands, a thought struck me. 
+Just the other day, while I was working with a client at Katasi Physiotherapy in Westlands, a thought struck me. 
 
-We were addressing her persistent shoulder and neck tension, and I remembered another patient, struggling with a meniscus tear, whose pain levels were incredibly high, coupled with deep worry.
+We were addressing her persistent shoulder and neck tension, and I remembered another client, struggling with a meniscus tear, whose pain levels were incredibly high, coupled with deep worry.
 
 It made me ask my current patient, "How do you cope with stress?" Her answer was immediate and insightful: "I carry it on my shoulders and neck." I admit, I chuckled a bit, thinking it was a figure of speech. 
 
@@ -104,8 +104,6 @@ If you're constantly battling unexplained neck pain, shoulder tension, headaches
 At Katasi Physiotherapy, we're ready to help you understand your pain, release the tension, and empower you to live a healthier, more balanced life. 
 
 [Contact us today ](https://katasiphysiotherapy.co.ke/contact/)in Westlands, Nairobi, and let's start your journey to a pain-free existence.
-
-
 
 ### Author
 
