@@ -102,4 +102,20 @@ If you're constantly battling unexplained neck pain, shoulder tension, headaches
 
 At Katasi Physiotherapy, we're ready to help you understand your pain, release the tension, and empower you to live a healthier, more balanced life. 
 
-Contact us today in Westlands, Nairobi, and let's start your journey to a pain-free existence
+[Contact us today ](https://katasiphysiotherapy.co.ke/contact/)in Westlands, Nairobi, and let's start your journey to a pain-free existence.
+
+
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+*BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.*
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
+
+* Stress Effects on the body <https://www.apa.org/topics/stress/body>
+* How Stress And Tension Lead To Neck Pain <https://www.rehabilitationphysicians.com/blog/1365847-how-stress-and-tension-lead-to-neck-pain/>
+* A scoping review of somatization: characteristics and implications among health profession students <https://pmc.ncbi.nlm.nih.gov/articles/PMC12628534/>
