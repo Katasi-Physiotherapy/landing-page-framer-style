@@ -8,6 +8,7 @@ description: Experiencing persistent neck and shoulder pain in Nairobi? Learn
   orthopedic physiotherapy in Kenya
 date: 2026-05-05T08:40:00.000+03:00
 category: Shouder Pain Rotator Cuff Injury
+coverImage: /rotator-cuff-tear-shoulder-pain-nairobi.jpg.png
 ---
 That nagging ache in your neck, the stiffness that limits your reach, or the sharp pain when you lift your arm; if this sounds familiar, you're not alone. 
 
