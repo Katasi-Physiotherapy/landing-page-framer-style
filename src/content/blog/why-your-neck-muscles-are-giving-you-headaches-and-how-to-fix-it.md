@@ -5,6 +5,7 @@ description: "Here's the thing: your headaches might not be a headache problem
   at all. They might be a neck problem."
 date: 2026-05-07T10:29:00.000+03:00
 category: Neck Headache
+coverImage: /neck-headache-muscle-tight.jpg.png
 ---
 You're sitting at your desk, scrolling through emails, when it starts. That familiar dull ache at the back of your head. By lunch, it's a full-blown throbbing pain. You reach for the painkillers... again.
 
