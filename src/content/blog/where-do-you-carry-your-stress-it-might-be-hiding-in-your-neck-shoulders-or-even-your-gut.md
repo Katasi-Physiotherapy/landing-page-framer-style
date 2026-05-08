@@ -76,7 +76,7 @@ We then craft a personalized treatment plan that goes beyond simple exercises:
 
 Unraveling the Tension: We use advanced manual therapy techniques, including dry needling, to release those deeply held muscle tensions in your neck, shoulders, and back. This isn't just a temporary fix; it's about restoring natural movement and reducing the physical grip of stress.
 
-* **Movement as Medicine:** Targeted exercises are crucial. They help to strengthen weakened areas, improve flexibility, and, importantly, release endorphins, your body's natural painkillers and mood boosters. 
+* **Movement as Medicine:** [Targeted exercises](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/) are crucial. They help to strengthen weakened areas, improve flexibility, and, importantly, release endorphins, your body's natural painkillers and mood boosters. 
 
   Movement helps break the cycle of pain and tension.
 * **Calming Your Nervous System:** We guide you through breathing techniques and relaxation strategies that help to dial down that constant **"fight or flight"** response.
