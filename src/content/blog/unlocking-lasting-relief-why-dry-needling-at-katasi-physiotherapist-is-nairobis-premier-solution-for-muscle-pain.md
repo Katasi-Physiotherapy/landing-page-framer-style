@@ -7,6 +7,7 @@ description: "Don't let muscle pain dictate your life. Embrace the cutting-edge
   authentic, and effective treatment meets compassionate care. "
 date: 2026-05-09T13:49:00.000+03:00
 category: Dry Needling
+coverImage: /katasi_dry_needling_refined.png
 ---
 ## A New Era of Muscle Pain Management in Nairobi
 
