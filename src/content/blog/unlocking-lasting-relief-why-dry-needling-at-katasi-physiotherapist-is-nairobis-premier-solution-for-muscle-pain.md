@@ -1,5 +1,5 @@
 ---
-title: "Unlocking Lasting Relief: Why Dry Needling at Katasi Physiotherapist is
+title: "Unlocking Lasting Relief: Why Dry Needling at Katasi Physiotherapy is
   Nairobi's Premier Solution for Muscle Pain"
 slug: best-physiotherapy-dry-needling
 description: "Don't let muscle pain dictate your life. Embrace the cutting-edge
