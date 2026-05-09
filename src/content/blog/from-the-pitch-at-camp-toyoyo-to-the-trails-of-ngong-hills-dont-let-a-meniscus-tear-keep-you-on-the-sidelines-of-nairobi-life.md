@@ -40,7 +40,7 @@ Living in a dynamic city like Nairobi, with its mix of active lifestyles and eve
 
 * **On the Pitch or Court:** If you're passionate about football, whether it's a friendly match at Camp Toyoyo or a more competitive league, or if rugby and basketball are your game, sudden twists, pivots, and quick changes in direction are common culprits. 
 
-  Even a rigorous gym session or a misstep during your morning run can put unexpected stress on your knee.
+  Even a rigorous gym session or a misstep during your morning run can put unexpected stress on your[ knee](https://katasiphysiotherapy.co.ke/blog/knee-pain-after-gym/).
 * **Exploring Our Beautiful Outdoors:** Kenya offers incredible opportunities for hiking, from the scenic Ngong Hills to the challenging trails of Mt. Longonot or even a leisurely walk through Karura Forest. 
 
   But uneven terrain, a sudden slip, or an awkward landing can cause your knee to twist in just the wrong way, leading to a meniscus tear.
@@ -63,7 +63,7 @@ Here's a glimpse into how we typically guide you through your meniscus injury re
    We'll use strategies like modified RICE (Rest, Ice, Compression, Elevation), gentle hands-on techniques to ease stiffness, and other modalities to reduce inflammation. 
 
    Think of it as creating the perfect environment for your knee to start healing.
-2. **Phase 2:** Getting Your Movement Back & Gentle Strengthening. As the pain starts to subside, we'll gradually introduce exercises to help you regain your full knee movement. 
+2. **Phase 2:** Getting Your Movement Back & Gentle Strengthening. As the pain starts to subside, we'll gradually introduce [exercises](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/) to help you regain your full knee movement. 
 
    This includes carefully guided stretches and early strengthening exercises, like simple quadriceps contractions and straight leg raises. 
 
