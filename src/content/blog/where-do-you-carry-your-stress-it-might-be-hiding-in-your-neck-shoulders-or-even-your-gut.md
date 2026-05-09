@@ -121,6 +121,8 @@ Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasip
 
 *This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
 
+### *References*
+
 * Stress Effects on the body <https://www.apa.org/topics/stress/body>
 * How Stress And Tension Lead To Neck Pain <https://www.rehabilitationphysicians.com/blog/1365847-how-stress-and-tension-lead-to-neck-pain/>
 * A scoping review of somatization: characteristics and implications among health profession students <https://pmc.ncbi.nlm.nih.gov/articles/PMC12628534/>
