@@ -50,7 +50,7 @@ Living in a dynamic city like Nairobi, with its mix of active lifestyles and eve
 
 ## Your Recovery Journey: The Katasi Physiotherapy Difference in Westlands
 
-At Katasi Physiotherapy in Westlands, Nairobi, we don't just look at your MRI scan; we look at you. 
+At Katasi Physiotherapy in Westlands, Nairobi, we don't just look at your [MRI scan;](https://katasiphysiotherapy.co.ke/blog/x-ray-mri-back-pain-physiotherapy/) we look at you. 
 
 Our philosophy is all about getting you back to moving without pain, restoring your strength, and rebuilding your confidence.
 
@@ -88,8 +88,6 @@ With the right diagnosis, a personalized, evidence-based physiotherapy program, 
 Don't wait, reach out to us today and let's start your journey back to a pain-free, active life.
 
 [Just Call Us Now!](https://katasiphysiotherapy.co.ke/contact/)
-
-
 
 ### Author
 
