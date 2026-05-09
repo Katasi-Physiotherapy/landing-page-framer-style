@@ -58,7 +58,7 @@ At Katasi Physiotherapist, we pride ourselves on being at the forefront of advan
 
 Here's why we are your best choice for dry needling:
 
-* **Expertise and Experience:** Our team, led by Moses, comprises highly trained and certified dry needling specialist by [ONDS IAOM](https://iaom-us.com/odns-iaom-us-dry-needling/), USA and an orthopedic  extensive experience in dry needling. 
+* **Expertise and Experience:** Our team, led by Moses, comprises highly trained and certified dry needling specialist by [ONDS IAOM](https://iaom-us.com/odns-iaom-us-dry-needling/), USA and an orthopedic physiotherapist who has extensive experience in dry needling. 
 
   We apply sound clinical reasoning, ensuring safety and efficacy in every treatment.
 * **Authentic and Professional Approach:** We adhere to the highest standards of professionalism and authenticity. 
@@ -90,11 +90,9 @@ Ready to experience the difference?
 
 [Contact Katasi Physiotherapist](https://katasiphysiotherapy.co.ke/contact/) today to schedule your consultation and discover how dry needling can transform your muscle pain management.
 
-
-
 ### Author
 
-Moses Katasi - Orthopedic Physiotherapist [Book an appointment](<Author
+Moses Katasi - Orthopedic Physiotherapist \[Book an appointment](<Author
 Moses Katasi - Orthopedic Physiotherapist Book an appointment
 
 BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.
