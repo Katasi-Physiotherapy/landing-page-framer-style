@@ -2,6 +2,9 @@
 title: Where Do You Carry Your Stress? It Might Be Hiding in Your Neck,
   Shoulders, or Even Your Gut!
 slug: stress-muscle-pain-joint
+description: "As physiotherapists, we see it every day: stress manifesting as
+  chronic muscle knots and systemic tension. Causing you shoulder & even neck
+  pain."
 date: 2026-05-08T16:34:00.000+03:00
 category: Pain
 coverImage: /muscle-stress-pain.jpg.png
