@@ -126,8 +126,6 @@ Visit our clinic today to discover how physiotherapy can be the missing piece in
 
 Let's work together to unlock your potential for better sleep and a healthier, more vibrant life.
 
-
-
 ### Author
 
 Moses Katasi - Orthopedic Physiotherapist \[Book an appointment](<Author Moses Katasi - Orthopedic Physiotherapist Book an appointment
@@ -143,7 +141,6 @@ BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF Internationa
 * **[Gender Differences in Obstructive Sleep Apnea and Treatment. Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/)**
 * **[The Struggle of Women with Sleep Apnea & Why It's Underdiagnosed. Available at:https://www.tmjtexas.com/women-with-sleep-apnea](https://www.tmjtexas.com/women-with-sleep-apnea)**
 * **[The gender gap in obstructive sleep apnea. Available at:https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false](https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false)**
-* **[Postural Strain Affects Upper Airway Muscles in Awake Patients With OSA. Available at:](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)[\[5] Neck Pain and Breathing Pattern Disorders - Physiopedia. Available at:https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)**
 * **[Myofascial trigger points therapy increases neck mobility and... Available at:https://pubmed.ncbi.nlm.nih.gov/39893364/](https://pubmed.ncbi.nlm.nih.gov/39893364/)**
 * **[Efficacy of orofacial myofunctional therapy combined with myofascial release in patients with mild obstructive sleep apnoea. Available at:https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456](https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456)**
 * **[Effects of respiratory muscle therapy on obstructive sleep apnea: a systematic review and meta-analysis. Available at:https://link.springer.com/article/10.5664/jcsm.8318](https://link.springer.com/article/10.5664/jcsm.8318)**
