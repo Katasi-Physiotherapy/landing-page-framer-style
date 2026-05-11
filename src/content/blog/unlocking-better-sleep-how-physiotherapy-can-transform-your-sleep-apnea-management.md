@@ -140,36 +140,19 @@ BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF Internationa
 
 ### *References:*
 
-**[\[1] Gender Differences in Obstructive Sleep Apnea and Treatment. Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/)**
-
-**[\[2] The Struggle of Women with Sleep Apnea & Why It's Underdiagnosed. Available at:https://www.tmjtexas.com/women-with-sleep-apnea](https://www.tmjtexas.com/women-with-sleep-apnea)**
-
-**[\[3] The gender gap in obstructive sleep apnea. Available at:https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false](https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false)**
-
-**[\[4] Postural Strain Affects Upper Airway Muscles in Awake Patients With OSA. Available at:](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)[\[5] Neck Pain and Breathing Pattern Disorders - Physiopedia. Available at:https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)**
-
-**[\[6] Myofascial trigger points therapy increases neck mobility and... Available at:https://pubmed.ncbi.nlm.nih.gov/39893364/](https://pubmed.ncbi.nlm.nih.gov/39893364/)**
-
-**[\[7] Efficacy of orofacial myofunctional therapy combined with myofascial release in patients with mild obstructive sleep apnoea. Available at:https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456](https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456)**
-
-**[\[8] Effects of respiratory muscle therapy on obstructive sleep apnea: a systematic review and meta-analysis. Available at:https://link.springer.com/article/10.5664/jcsm.8318](https://link.springer.com/article/10.5664/jcsm.8318)**
-
-**[\[9] Myofunctional Therapy to Treat Obstructive Sleep Apnea. Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC4402674/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4402674/)**
-
-**[\[10] Treating Sleep Apnea With Orofacial Myofunctional Therapy. Available at:https://tonguetieindia.com/blog/treating-sleep-apnea-with-orofacial-myofunctional-therapy/](https://tonguetieindia.com/blog/treating-sleep-apnea-with-orofacial-myofunctional-therapy/)**
-
-**[\[11] Efficacy of myofunctional therapy for obstructive sleep apnea. Available at:https://www.sciencedirect.com/science/article/pii/S1532338225000521](https://www.sciencedirect.com/science/article/pii/S1532338225000521)**
-
-**[\[12] Efficacy of orofacial myofunctional therapy combined with myofascial release in patients with mild obstructive sleep apnoea: a randomized controlled trial. Available at:https://pubmed.ncbi.nlm.nih.gov/37010143/](https://pubmed.ncbi.nlm.nih.gov/37010143/)**
-
-**[\[13] CPAP Therapy Effects on Neck and Shoulder Muscles in OSA Patients. Available at:http://www.jmatonline.com/PDF/S137-S141-PB-101-S7.pdf](http://www.jmatonline.com/PDF/S137-S141-PB-101-S7.pdf)**
-
-**[\[14] Alcohol and the risk of sleep apnoea: a systematic review and meta... Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC5840512/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5840512/)**
-
-**[\[15] The Link Between Alcohol and Sleep Apnea - Sleep Foundation. Available at:https://www.sleepfoundation.org/sleep-apnea/alcohol-and-sleep-apnea](https://www.sleepfoundation.org/sleep-apnea/alcohol-and-sleep-apnea)**
-
-**[\[16] Nutrition Impacts Sleep Apnea Symptoms | CSAT Meridian. Available at:https://www.sleepidaho.com/nutrition-impacts-sleep-apnea-symptoms](https://www.sleepidaho.com/nutrition-impacts-sleep-apnea-symptoms)**
-
-**[\[17] The Role of Antioxidant-Rich Diets in Supporting Sleep Apnea... Available at:https://www.thesnoozedoc.com/blog/the-role-of-antioxidant-rich-diets-in-supporting-sleep-apnea-treatment](https://www.thesnoozedoc.com/blog/the-role-of-antioxidant-rich-diets-in-supporting-sleep-apnea-treatment)**
-
-``
+* **[Gender Differences in Obstructive Sleep Apnea and Treatment. Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2642982/)**
+* **[The Struggle of Women with Sleep Apnea & Why It's Underdiagnosed. Available at:https://www.tmjtexas.com/women-with-sleep-apnea](https://www.tmjtexas.com/women-with-sleep-apnea)**
+* **[The gender gap in obstructive sleep apnea. Available at:https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false](https://academic.oup.com/sleep/article/48/7/zsaf068/8116540?login=false)**
+* **[Postural Strain Affects Upper Airway Muscles in Awake Patients With OSA. Available at:](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)[\[5] Neck Pain and Breathing Pattern Disorders - Physiopedia. Available at:https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/](https://www.pulmonologyadvisor.com/news/postural-strain-affects-upper-airway-muscles-in-awake-patients-with-osa/)**
+* **[Myofascial trigger points therapy increases neck mobility and... Available at:https://pubmed.ncbi.nlm.nih.gov/39893364/](https://pubmed.ncbi.nlm.nih.gov/39893364/)**
+* **[Efficacy of orofacial myofunctional therapy combined with myofascial release in patients with mild obstructive sleep apnoea. Available at:https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456](https://onlinelibrary.wiley.com/doi/full/10.1111/joor.13456)**
+* **[Effects of respiratory muscle therapy on obstructive sleep apnea: a systematic review and meta-analysis. Available at:https://link.springer.com/article/10.5664/jcsm.8318](https://link.springer.com/article/10.5664/jcsm.8318)**
+* **[Myofunctional Therapy to Treat Obstructive Sleep Apnea. Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC4402674/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4402674/)**
+* **[Treating Sleep Apnea With Orofacial Myofunctional Therapy. Available at:https://tonguetieindia.com/blog/treating-sleep-apnea-with-orofacial-myofunctional-therapy/](https://tonguetieindia.com/blog/treating-sleep-apnea-with-orofacial-myofunctional-therapy/)**
+* **[Efficacy of myofunctional therapy for obstructive sleep apnea. Available at:https://www.sciencedirect.com/science/article/pii/S1532338225000521](https://www.sciencedirect.com/science/article/pii/S1532338225000521)**
+* **[Efficacy of orofacial myofunctional therapy combined with myofascial release in patients with mild obstructive sleep apnoea: a randomized controlled trial. Available at:https://pubmed.ncbi.nlm.nih.gov/37010143/](https://pubmed.ncbi.nlm.nih.gov/37010143/)**
+* **[CPAP Therapy Effects on Neck and Shoulder Muscles in OSA Patients. Available at:http://www.jmatonline.com/PDF/S137-S141-PB-101-S7.pdf](http://www.jmatonline.com/PDF/S137-S141-PB-101-S7.pdf)**
+* **[Alcohol and the risk of sleep apnoea: a systematic review and meta... Available at:https://pmc.ncbi.nlm.nih.gov/articles/PMC5840512/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5840512/)**
+* **[The Link Between Alcohol and Sleep Apnea - Sleep Foundation. Available at:https://www.sleepfoundation.org/sleep-apnea/alcohol-and-sleep-apnea](https://www.sleepfoundation.org/sleep-apnea/alcohol-and-sleep-apnea)**
+* **[Nutrition Impacts Sleep Apnea Symptoms | CSAT Meridian. Available at:https://www.sleepidaho.com/nutrition-impacts-sleep-apnea-symptoms](https://www.sleepidaho.com/nutrition-impacts-sleep-apnea-symptoms)**
+* **[The Role of Antioxidant-Rich Diets in Supporting Sleep Apnea... Available at:https://www.thesnoozedoc.com/blog/the-role-of-antioxidant-rich-diets-in-supporting-sleep-apnea-treatment](https://www.thesnoozedoc.com/blog/the-role-of-antioxidant-rich-diets-in-supporting-sleep-apnea-treatment)**``
