@@ -71,3 +71,29 @@ Physiotherapy Interventions for Psoas Release include:
    By addressing the psoas, you're not just treating a muscle; you're engaging with a powerful pathway to your emotional and nervous system health. 
 
    This integrated approach can lead to profound improvements in physical comfort, emotional well-being, and overall quality of life.
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist \[Book an appointment](<Author Moses Katasi - Orthopedic Physiotherapist Book an appointment
+
+BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
+
+## References
+
+***[\[1] The Psoas Muscle: How it Holds onto Trauma and How to Let it Go, with Yoga. Trauma-Conscious Yoga Institute.](https://traumaconsciousyoga.com/psoas/)***
+
+***[\[2] Anatomy, Bony Pelvis and Lower Limb: Psoas Major. NCBI Bookshelf. ](https://www.ncbi.nlm.nih.gov/books/NBK535418/)***
+
+***[\[3] The Psoas Muscle: A Hidden Bridge Between Body, Stress, and Safety. Inner Summits.](https://innersummits.ca/the-psoas-muscle-a-hidden-bridge-between-body-stress-and-safety/)***
+
+***[\[4] The limbic system and chronic musculoskeletal pain. International Journal of Medical and …, 2014. ](https://search.proquest.com/openview/b2731203dab044c7c188aff8b68f8249/1?pq-origsite=gscholar&cbl=2034862)***
+
+***[\[5] The Psoas: The Most Important Muscle You’ve Probably Never Heard Of. YogaUOnline. ](https://yogauonline.com/yoga-practice-teaching-tips/yoga-teaching/the-psoas-the-most-important-muscle-youve-probably-never-heard-of/)***
+
+***[\[6] Releasing Trauma and Stress with the Psoas Muscle. Psychiatry Institute. ](https://psychiatryinstitute.com/releasing-trauma-and-stress-with-the-psoas-muscle/)[\[7] Stress, Breath, and The Psoas. Integrative Therapies and Wellness.](https://www.integrativetherapiesandwellness.com/blog/stress-breath-and-the-psoas)***
+
+***[\[8] The Psoas: The Most Important Muscle You’ve Probably Never Heard Of. YogaUOnline. ](https://yogauonline.com/yoga-practice-teaching-tips/yoga-teaching/the-psoas-the-most-important-muscle-youve-probably-never-heard-of/)***
