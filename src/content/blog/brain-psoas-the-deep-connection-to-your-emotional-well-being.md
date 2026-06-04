@@ -6,6 +6,7 @@ description: Did you know that your deepest core muscle, the psoas, is
   brain?
 date: 2026-06-04T12:56:00.000+03:00
 category: Back and Hip Pain
+coverImage: /brain-psoas.jpg.png
 ---
 ## Unlocking the "Muscle of the Soul" for Lasting Relief
 
