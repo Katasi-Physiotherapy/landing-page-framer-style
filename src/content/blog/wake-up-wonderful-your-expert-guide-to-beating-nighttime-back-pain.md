@@ -5,10 +5,11 @@ description: Do you dread going to bed, knowing that back pain will be your
   unwelcome companion through the night? You're not alone.
 date: 2026-06-08T15:58:00.000+03:00
 category: Lower Back Pain
+coverImage: /backpain-when-asleep.jpg.png
 ---
 Do you dread going to bed, knowing that back pain will be your unwelcome companion through the night? You're not alone. 
 
-Many people experience back pain that intensifies in the evening or during sleep, only to feel relatively better once they are up and moving during the day.
+Many people experience [back pain](https://katasiphysiotherapy.co.ke/blog/why-my-lower-back-hurts/) that intensifies in the evening or during [sleep](https://katasiphysiotherapy.co.ke/blog/sleep-apnea-physiotherapy-treatment/), only to feel relatively better once they are up and moving during the day.
 
 This is common yet frustrating phenomenon can significantly impact your quality of life and sleep. 
 
@@ -30,7 +31,7 @@ However, several factors contribute to this nocturnal discomfort:
 Nighttime back pain can manifest in various ways, with the location often providing clues about its potential cause:
 
 * **Pain Along the Side of the Back While Sleeping:** If you primarily sleep on your side, pain in this region can often be attributed to improper spinal alignment. Without adequate support (e.g., a pillow between your knees), your upper leg can pull your pelvis and spine out of a neutral position, straining the lower back and hip joints. It could also indicate issues with the sacroiliac (the tailbone) joint or trochanteric bursitis (inflammation of the bursa/fluid sac on the outside of your hip).
-* **Hip Pain at Night:** This is a common complaint, especially for side sleepers. Conditions like hip bursitis, osteoarthritis of the hip, or even referred pain from the lower back can cause significant discomfort, making it difficult to find a comfortable position. 
+* **[Hip Pain](https://katasiphysiotherapy.co.ke/blog/back-pain-buttock-hurts-hip-pain/) at Night:** This is a common complaint, especially for side sleepers. Conditions like hip bursitis, osteoarthritis of the hip, or even referred pain from the lower back can cause significant discomfort, making it difficult to find a comfortable position. 
 * **Tailbone Pain (Coccydynia):** Discomfort around the tailbone can be severely aggravated by sitting or lying on your back. This pain can result from direct trauma, repetitive strain, or even poor posture that places undue pressure on the coccyx. It often feels like a sharp, localized ache. 
 * **Pain Radiating Down the Leg (Sciatica):** This distinctive symptom, characterized by a sharp, shooting pain, numbness, or tingling that travels from the lower back, through the buttock, and down the leg, is a hallmark of sciatic nerve irritation or compression. Conditions like a herniated disc, spinal stenosis, or piriformis syndrome can cause sciatica, which frequently worsens at night due to sustained pressure on the nerve roots or inflammatory processes.
 
@@ -55,7 +56,7 @@ Reclaiming your nights from back pain is achievable with a targeted approach. He
 
 ### 3. Strengthen Your Core and Glutes
 
-* A strong core and well-conditioned gluteal muscles provide essential stability and support for your spine. Incorporate exercises such as planks, bird-dog, and glute bridges into your routine. A physiotherapist can design a personalized program to strengthen these vital muscle groups effectively.
+* A strong core and well-conditioned gluteal muscles provide essential stability and support for your spine. Incorporate [exercises ](https://katasiphysiotherapy.co.ke/blog/low-back-pain-treatment-nairobi-physiotherapy/)such as planks, bird-dog, and glute bridges into your routine. A physiotherapist can design a personalized program to strengthen these vital muscle groups effectively.
 
 ### 4. Manage Inflammation and Pain
 
@@ -85,32 +86,30 @@ BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF Internationa
 
 *This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
 
-
-
 ## References
 
-[\[1] Mayo Clinic. (n.d. ). Back pain - Diagnosis and treatment.](https://www.mayoclinic.org/diseases-conditions/back-pain/diagnosis-treatment/drc-20369911)
+\[[1] Mayo Clinic. (n.d. ). Back pain - Diagnosis and treatment.](https://www.mayoclinic.org/diseases-conditions/back-pain/diagnosis-treatment/drc-20369911)
 
-[\[2] Chou, R., & Huffman, L. H. (2007 ). Nonpharmacologic therapies for acute and chronic low back pain: a review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline. Annals of Internal Medicine, 147(7), 492-504.](https://www.acpjournals.org/doi/abs/10.7326/0003-4819-147-7-200710020-00007)
+\[[2] Chou, R., & Huffman, L. H. (2007 ). Nonpharmacologic therapies for acute and chronic low back pain: a review of the evidence for an American Pain Society/American College of Physicians clinical practice guideline. Annals of Internal Medicine, 147(7), 492-504.](https://www.acpjournals.org/doi/abs/10.7326/0003-4819-147-7-200710020-00007)
 
-[\[3] George, S. Z., et al. (2021 ). Interventions for the Management of Acute and Chronic Low Back Pain: Revision 2021. Journal of Orthopaedic & Sports Physical Therapy, 51(11), CPG1-CPG60.](https://www.jospt.org/doi/10.2519/jospt.2021.0304)
+\[[3] George, S. Z., et al. (2021 ). Interventions for the Management of Acute and Chronic Low Back Pain: Revision 2021. Journal of Orthopaedic & Sports Physical Therapy, 51(11), CPG1-CPG60.](https://www.jospt.org/doi/10.2519/jospt.2021.0304)
 
-[\[4] Mayo Clinic. (2024 ). Sleeping positions that reduce back pain.](https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852)
+\[[4] Mayo Clinic. (2024 ). Sleeping positions that reduce back pain.](https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/sleeping-positions/art-20546852)
 
-[\[5] Cleveland Clinic. (n.d. ). Sciatica: What It Is, Causes, Symptoms, Treatment & Pain Relief.](https://my.clevelandclinic.org/health/diseases/12792-sciatica)
+\[[5] Cleveland Clinic. (n.d. ). Sciatica: What It Is, Causes, Symptoms, Treatment & Pain Relief.](https://my.clevelandclinic.org/health/diseases/12792-sciatica)
 
-[\[6] Hospital for Special Surgery. (n.d. ). Sciatica: Simple Symptoms, Complex Causes.](https://www.hss.edu/health-library/conditions-and-treatments/list/sciatica)
+\[[6] Hospital for Special Surgery. (n.d. ). Sciatica: Simple Symptoms, Complex Causes.](https://www.hss.edu/health-library/conditions-and-treatments/list/sciatica)
 
-[\[7] National Institute of Neurological Disorders and Stroke. (n.d. ). Back Pain Fact Sheet.](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Back-Pain-Fact-Sheet)
+\[[7] National Institute of Neurological Disorders and Stroke. (n.d. ). Back Pain Fact Sheet.](https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Back-Pain-Fact-Sheet)
 
-[\[8] Davis, D., et al. (2024 ). Sciatica. StatPearls.](https://www.ncbi.nlm.nih.gov/books/NBK507908/)
+\[[8] Davis, D., et al. (2024 ). Sciatica. StatPearls.](https://www.ncbi.nlm.nih.gov/books/NBK507908/)
 
-[\[9] Healthdirect Australia. (2025 ). Sciatica - treatment, symptoms and causes. ](https://www.healthdirect.gov.au/sciatica)
+\[[9] Healthdirect Australia. (2025 ). Sciatica - treatment, symptoms and causes. ](https://www.healthdirect.gov.au/sciatica)
 
-[\[10] Harvard Health Publishing. (n.d. ). Stretching: 8 best stretches for back pain relief. Retrieved from](https://www.health.harvard.edu/pain/stretching-8-best-stretches-for-back-pain-relief)
+\[[10] Harvard Health Publishing. (n.d. ). Stretching: 8 best stretches for back pain relief. Retrieved from](https://www.health.harvard.edu/pain/stretching-8-best-stretches-for-back-pain-relief)
 
-[\[11] Hospital for Special Surgery. (n.d. ). Physical Therapy for Lower Back Pain.](https://www.hss.edu/health-library/move-better/physical-therapy-for-lower-back-pain)[(n.d. ). Back pain - Self-care.](https://www.mayoclinic.org/diseases-conditions/back-pain/self-care)
+\[[11] Hospital for Special Surgery. (n.d. ). Physical Therapy for Lower Back Pain.](https://www.hss.edu/health-library/move-better/physical-therapy-for-lower-back-pain)[(n.d. ). Back pain - Self-care.](https://www.mayoclinic.org/diseases-conditions/back-pain/self-care)
 
-[\[13] American College of Physicians. (n.d. ). American College of Physicians issues guideline for treating nonradicular low back pain.](https://www.acponline.org/acp-newsroom/american-college-of-physicians-issues-guideline-for-treating-nonradicular-low-back-pain)
+\[[13] American College of Physicians. (n.d. ). American College of Physicians issues guideline for treating nonradicular low back pain.](https://www.acponline.org/acp-newsroom/american-college-of-physicians-issues-guideline-for-treating-nonradicular-low-back-pain)
 
-[\[14] Shipton, E. A. (2018 ). Physical Therapy Approaches in the Treatment of Low Back Pain. Anesthesiology and Pain Medicine, 8(6).](https://pmc.ncbi.nlm.nih.gov/articles/PMC6251828/)
+\[[14] Shipton, E. A. (2018 ). Physical Therapy Approaches in the Treatment of Low Back Pain. Anesthesiology and Pain Medicine, 8(6).](https://pmc.ncbi.nlm.nih.gov/articles/PMC6251828/)
