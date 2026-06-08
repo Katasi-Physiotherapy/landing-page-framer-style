@@ -25,7 +25,7 @@ However, several factors contribute to this nocturnal discomfort:
 3. **Reduced Muscle Support:** As you drift into deeper sleep, your muscles relax. If your core muscles are weak or imbalanced, this relaxation can lead to decreased spinal support, allowing for greater strain on ligaments and discs. This is particularly relevant if you have pre-existing conditions. 
 4. **Poor Sleep Ergonomics:** Your mattress, pillows, and sleeping position play a critical role. An unsupportive mattress or an awkward sleeping posture can misalign your spine, compress nerves, or strain soft tissues, leading to pain that becomes more pronounced as the night progresses.
 
-## Pinpointing Your Pain: Common Areas of Nighttime Back Discomfort
+## Pin-pointing Your Pain: Common Areas of Night-time Back Discomfort
 
 Nighttime back pain can manifest in various ways, with the location often providing clues about its potential cause:
 
