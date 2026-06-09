@@ -7,7 +7,7 @@ description: Ever felt a sharp, nagging pain in a very specific spot on your
   you stretch?
 date: 2026-06-07T21:20:00.000+03:00
 category: Lower Back Pain
-coverImage: /decoding_back_pain_blog_1600x900.png
+coverImage: /muscle-knot-pain.jpg.png
 ---
 Ever felt a sharp, nagging pain in a very specific spot on your back? 
 
