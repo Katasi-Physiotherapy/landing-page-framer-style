@@ -77,4 +77,30 @@ A good assessment goes way beyond just measuring your legs with a tape measure. 
 1. **Talking about your pain:** Understanding when it started, where it hurts, how bad it is, what activities make it worse, and how it affects your daily life. This background information is really important for figuring out whether a leg length difference is really the problem or just something that happens to be there.
 2. **Looking at how you stand:** Watching how your body lines up when you're standing and sitting, including your hip position, spine curves, shoulder height, and head position. A trained professional looks for patterns that show your body is working harder on one side than the other.
 3. **Watching how you walk:** Observing your walking pattern, step length, walking speed, and movement quality to spot any unevenness or ways your body is compensating. Video recording can be really helpful for catching small movement problems.
-4. Testing how far you can move: Checking how much your spine, hips, knees, and ankles can move to find any stiffness or one-sided differences. For example, if one hip doesn't rotate as far as the other, that might explain your symptoms better than a leg length difference.
+4. **Testing how far you can move:** Checking how much your spine, hips, knees, and ankles can move to find any stiffness or one-sided differences. For example, if one hip doesn't rotate as far as the other, that might explain your symptoms better than a leg length difference.
+5. **Testing your strength**: Checking your core strength, hip stability, and leg strength to find weak areas that might be causing problems. Often, uneven strength explains pain better than a measurement difference.
+6. **Comparing with X-rays when needed:** When a real structural leg length difference is suspected, X-rays can confirm it. But X-rays should only be used when they'll actually change how you're treated.
+
+### Why This Matters
+
+This complete approach makes sure treatment focuses on what's actually wrong, not just on a number. One person might have a real structural leg length difference but feel pain mainly because their core is weak or they move in a bad way. Another person might have almost no structural difference but have big movement problems because of tight muscles or bad posture.
+
+## The Bottom Line
+
+A leg length difference is common, but whether it's actually causing your pain varies a lot. While some people do have legs that are actually different lengths, what looks like a short leg is often caused by posture, movement patterns, muscle imbalances, or your body's response to pain. 
+
+The key to getting better isn't just measuring your legs it's understanding how your whole body moves and finding what's really causing the problem. Real healing starts by looking at your whole body, not just one measurement. 
+
+A good assessment helps find the real reason for your pain and guides you toward the right treatment instead of guessing. Whether you need exercises, hands-on treatment, a shoe lift, or a combination of these, the goal is always the same: get your body moving evenly, reduce stress in the wrong places, and help you get back to doing what you want without pain.
+
+If you have back pain and think it might be connected to a leg length difference, talking to a movement specialist can help you figure out if that's really the problem and what to do about it.
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
