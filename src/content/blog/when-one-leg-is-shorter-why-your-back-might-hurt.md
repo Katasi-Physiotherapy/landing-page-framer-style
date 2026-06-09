@@ -49,3 +49,23 @@ This tilting keeps happening even when you're standing still or walking. Your bo
 To keep your head upright and your body straight, your spine may develop a curve to one side. This sideways curve is a common way your body adapts to a leg length difference, especially in your lower back. 
 
 This uneven curving can change how pressure is distributed on your spine bones and joints. Over time, this uneven pressure can lead to wear and tear and pain.
+
+### Your Muscles Work Unevenly
+
+The uneven positioning puts different amounts of stress on your muscles, ligaments, and joints. Muscles on one side of your body have to work harder to keep you balanced and stable. 
+
+This causes them to get tired, tight, and eventually painful. Over time, this can create muscle imbalances, weakness, and injuries from overuse. This is why people with a leg length difference often feel tightness on one side or notice their pain gets worse with activity.
+
+### Your Walking Pattern Changes
+
+The way you walk changes to adjust for the difference. Your body might lift your center of gravity higher with each step, which uses more energy. You might swing one leg out to the side, walk on your tiptoes, or take different sized steps. 
+
+While your body does these things to protect itself at first, over time these walking patterns can cause more problems because they keep putting stress in the wrong places.
+
+## The Important Number: 2 Centimeters
+
+**Here's something important: if one leg is shorter by less than about 3/4 of an inch (2 centimeters),** your body can usually handle it just fine. Your body can adapt to small differences through small curves in your spine, changes in how your joints angle, and adjustments in your muscle length. 
+
+But if the difference is bigger than that, your muscles have to work harder to compensate.This means not every leg length difference needs treatment. The key question is whether the difference is actually causing your pain and making it hard to do things.
+
+## How to Know If a Leg Length Difference Is Your Problem
