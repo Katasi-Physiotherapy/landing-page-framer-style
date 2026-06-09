@@ -105,3 +105,13 @@ BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF Internationa
 ### *Disclaimer:*
 
 *This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
+
+## References
+
+[\[1] Knutson, G. A. (2005 ). Anatomic and functional leg-length inequality: a review and recommendation for clinical decision-making. Part I, anatomic leg-length inequality: prevalence, magnitude, effects and clinical significance. Chiropractic & Osteopathy, 13(1), 1–10.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1232860/)
+
+[\[2] Physiopedia. (n.d. ). Leg Length Discrepancy. ](https://www.physio-pedia.com/Leg_Length_Discrepancy)
+
+[\[3] Defrin, R., Benyamin, S. B., Aldubi, R. D., & Pick, C. G. (2005 ). Conservative correction of leg-length discrepancies of 10 mm or less for the relief of chronic low back pain. Archives of Physical Medicine and Rehabilitation, 86(12), 2330–2336.](https://pubmed.ncbi.nlm.nih.gov/16344031/)
+
+[\[4] D'Amico, M., Kinel, E., & Roncoletta, P. (2022 ). Leg Length Discrepancy and Nonspecific Low Back Pain: 3-D Stereophotogrammetric Quantitative Posture Evaluation Confirms Positive Effects of Customized Heel-Lift Orthotics. Frontiers in Bioengineering and Biotechnology, 9, 743132.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8866944/)
