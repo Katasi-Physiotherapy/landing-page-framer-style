@@ -69,3 +69,12 @@ While your body does these things to protect itself at first, over time these wa
 But if the difference is bigger than that, your muscles have to work harder to compensate.This means not every leg length difference needs treatment. The key question is whether the difference is actually causing your pain and making it hard to do things.
 
 ## How to Know If a Leg Length Difference Is Your Problem
+
+A good assessment goes way beyond just measuring your legs with a tape measure. The goal is to understand how your whole body moves, find out what's really causing the problem, and figure out whether a leg length difference is actually making your pain worse.
+
+### What a Thorough Assessment Includes
+
+1. **Talking about your pain:** Understanding when it started, where it hurts, how bad it is, what activities make it worse, and how it affects your daily life. This background information is really important for figuring out whether a leg length difference is really the problem or just something that happens to be there.
+2. **Looking at how you stand:** Watching how your body lines up when you're standing and sitting, including your hip position, spine curves, shoulder height, and head position. A trained professional looks for patterns that show your body is working harder on one side than the other.
+3. **Watching how you walk:** Observing your walking pattern, step length, walking speed, and movement quality to spot any unevenness or ways your body is compensating. Video recording can be really helpful for catching small movement problems.
+4. Testing how far you can move: Checking how much your spine, hips, knees, and ankles can move to find any stiffness or one-sided differences. For example, if one hip doesn't rotate as far as the other, that might explain your symptoms better than a leg length difference.
