@@ -8,6 +8,7 @@ description: Many people with back pain are told they have a "short leg." While
   reaction to pain.
 date: 2026-06-09T11:16:00.000+03:00
 category: Lower Back Pain
+coverImage: /short-leg-pain.jpg.png
 ---
 Many people with back pain are told they have a "short leg." While it's true that some people do have legs that are actually different lengths, what looks like a short leg is often something else entirely. 
 
