@@ -48,3 +48,21 @@ Here are a few easy stretches you can try:
 * **Cross-Body Stretch:** As suggested by Harvard Health, you can gently pull one arm across your chest using your other hand to stretch the back of your shoulder. 
 
 Remember to keep these movements gentle. They should not cause sharp pain. If you feel discomfort, reduce the stretch or take a break.
+
+## When to Seek Professional Help
+
+**Remember:** Shoulder pain is not always caused by a sudden injury. Sometimes, your daily habits and sleeping positions may be contributing to the problem.
+
+If your shoulder pain has been persisting for weeks, keeps returning, or makes it difficult to perform daily tasks, it is a good idea to seek professional advice. 
+
+A physiotherapy assessment can help identify the root cause of your pain and guide you toward the right treatment plan to get you back to feeling your best.
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
