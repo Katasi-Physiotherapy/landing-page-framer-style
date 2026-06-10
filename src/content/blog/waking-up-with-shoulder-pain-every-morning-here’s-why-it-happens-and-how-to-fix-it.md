@@ -34,3 +34,17 @@ You do not have to live with morning shoulder pain. Making a few simple adjustme
 * **On Your Stomach -** This position can put extra strain on your shoulders. If you prefer it, place a pillow under your pelvis to elevate your hips and relieve pressure on your chest and shoulders. Avoid tucking your hands under your pillow.
 
 **A Quick Tip:** If you find yourself rolling onto your sore shoulder during the night, try placing a rolled-up pair of socks in the pocket of your pajama pants on the side that hurts. This simple trick can naturally encourage your body to roll onto your back or your other side.
+
+## Gentle Movements to Start Your Day
+
+Movement is often one of the best ways to relieve stiffness. Performing gentle exercises can help lengthen and strengthen the shoulder muscles, improving blood flow and flexibility. 
+
+The National Health Service (NHS) in Scotland recommends simple movements to help get your shoulder moving again. 
+
+Here are a few easy stretches you can try:
+
+* **Arm Swings:** Lean forward slightly, supporting yourself with one hand on a table. Let your other arm hang down and gently swing it forward and backward, or side to side.
+* **Shoulder Rolls:** Sit or stand up straight. Gently roll your shoulders up, back, and down in a smooth, circular motion. This helps relieve tension built up overnight.
+* **Cross-Body Stretch:** As suggested by Harvard Health, you can gently pull one arm across your chest using your other hand to stretch the back of your shoulder. 
+
+Remember to keep these movements gentle. They should not cause sharp pain. If you feel discomfort, reduce the stretch or take a break.
