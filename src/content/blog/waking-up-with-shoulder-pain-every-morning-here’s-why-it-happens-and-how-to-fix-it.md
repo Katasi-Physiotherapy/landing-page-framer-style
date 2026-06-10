@@ -7,6 +7,7 @@ description: While it is easy to blame a bad mattress or a strange sleeping
   compression during the night.
 date: 2026-06-10T10:50:00.000+03:00
 category: Shouder pain
+coverImage: /pain-shoulder-at-night.jpg.png
 ---
 It may not be because you "slept wrong. "For many people, especially desk workers, drivers, gym-goers, and athletes, sleeping on a painful shoulder can place continuous pressure on the joint for several hours at a time. 
 
