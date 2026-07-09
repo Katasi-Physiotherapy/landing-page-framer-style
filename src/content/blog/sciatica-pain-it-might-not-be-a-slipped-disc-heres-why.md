@@ -7,7 +7,7 @@ description: If you're experiencing persistent pain that starts deep in your
 date: 2026-07-09T15:45:00.000+03:00
 category: Nerve Pain
 ---
-f you're experiencing persistent pain that starts deep in your buttock and shoots down your leg, especially after prolonged sitting, you might be quick to assume it's a slipped disc. 
+If you're experiencing *persistent pain that starts deep in your buttock and shoots down your leg*, especially after prolonged sitting, you might be quick to assume it's a slipped disc. 
 
 However, a lesser-known but equally debilitating condition called **Piriformis Syndrome** could be the real culprit. Understanding the difference is crucial for effective treatment and lasting relief, here is the reason why..
 
@@ -50,3 +50,13 @@ If you're experiencing buttock pain, pain that travels down your leg, tingling, 
 A thorough assessment by a qualified physiotherapist can accurately identify the cause of your pain and develop a personalized treatment plan that's right for you.
 
 Early and accurate diagnosis leads to faster recovery and better long-term outcomes.
+
+### Author
+
+Moses Katasi - Orthopedic Physiotherapist [Book an appointment](https://katasiphysiotherapy.co.ke/contact/)
+
+BSc, Dip, Post-graduate Diploma in Orthopedic Physiotherapy - AMREF International University, Certified Clinical Physiotherapy Instructor (CPTI) Kenya, Optimal Dry Needling Specialist (ODNS) at International Academy of Orthopedic Medicine(IAOM) - USA.
+
+### *Disclaimer:*
+
+*This blog post is for informational purposes only and does not constitute medical advice. Always consult with a qualified orthopedic physiotherapist or healthcare professional for diagnosis and treatment of any medical condition.*
