@@ -5,6 +5,7 @@ description: An X-ray or MRI is important, but it is only part of a pain
   assessment. Learn how Katasi Physiotherapy in Westlands, Nairobi, can help.
 date: 2026-09-01T12:30:00.000+03:00
 category: physiotherapy in Westlands Nairobi
+coverImage: /patient-posture-physiotherapy-westlands.jpg.png
 ---
 ### Why a clinical physiotherapy assessment still matters after an X-ray or MRI
 
