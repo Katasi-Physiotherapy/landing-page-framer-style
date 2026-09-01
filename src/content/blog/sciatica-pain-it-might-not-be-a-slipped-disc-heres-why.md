@@ -6,6 +6,7 @@ description: If you're experiencing persistent pain that starts deep in your
   might be quick to assume it's a slipped disc.
 date: 2026-07-09T15:45:00.000+03:00
 category: Nerve Pain
+coverImage: /sciatica-pain.slipped-disc.png
 ---
 If you're experiencing *persistent pain that starts deep in your buttock and shoots down your leg*, especially after prolonged sitting, you might be quick to assume it's a slipped disc. 
 
