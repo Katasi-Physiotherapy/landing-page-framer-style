@@ -6,6 +6,7 @@ description: Back pain can change how your abdominal and trunk muscles work.
   stronger.
 date: 2026-09-02T18:46:00.000+03:00
 category: Back Pain and Rehabilitation
+coverImage: /back-pain.jpg-2-.png
 ---
 ## Back Pain May Be Changing How Your Abdominal Muscles Work
 
