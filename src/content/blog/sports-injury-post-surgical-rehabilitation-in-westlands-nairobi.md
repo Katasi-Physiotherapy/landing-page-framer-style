@@ -6,6 +6,7 @@ description: Recover with a personalized sports injury or post-surgical
   assessment today.
 date: 2026-09-03T07:57:00.000+03:00
 category: Sports Physiotherapy and Rehabilitation
+coverImage: /knee-surgery.jpg.png
 ---
 ## A structured path back to movement, work and sport
 
