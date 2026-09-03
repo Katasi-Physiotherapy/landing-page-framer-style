@@ -5,6 +5,7 @@ description: Reduce desk-related neck pain with practical ergonomic tips and
   personalized physiotherapy at Katasi Physiotherapy in Westlands, Nairobi.
 date: 2026-09-03T11:59:00.000+03:00
 category: Neck Pain and Workplace Wellness
+coverImage: /neckpain-office-wellness.jpg.png
 ---
 ## Neck Pain from Office Work: Simple Ergonomic Changes That Can Help
 
